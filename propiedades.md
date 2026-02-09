@@ -20,3 +20,9 @@ Acá te traemos una pequeña guía de como podrás adquirir tu propiedad en Desk
 
 * Las propiedades adquiridas con dinero OOC se podrán quitar en el caso de que la persona sea baneado permanente del servidor. ESTO APLICA PARA SANCIONES IRREVOCABLES.
 
+| UBICACIONES                                      | VALORES                                                      |
+| ------------------------------------------------ | ------------------------------------------------------------ |
+| <mark style="color:$tint;">Barrio Bajo</mark>    | 350.000 - 500.000                                            |
+| <mark style="color:yellow;">Barrio Medio</mark>  | 550.000 - 750.000                                            |
+| <mark style="color:$success;">Barrio Alto</mark> | 800.000 - 2.000.000 (monto variará dependiendo el distrito). |
+| <mark style="color:$info;">Depto.</mark>         | 1.200.000 - 1.800.000                                        |
