@@ -1,10 +1,10 @@
 # Table of contents
 
-* [🏠 Inicio](README.md)
+* [📚 Inicio](README.md)
 
 ## 📌 Importante
 
-* [📘 Normativa General](general.md)
+* [📚 Normativa General](general.md)
 * [👤 Sistema de Whitelist](whitelist.md)
 * [⚠️ Sistema de Sanciones](sistema-de-sanciones.md)
 * [🚫 Toxicidad y Acoso](toxicidad-y-acoso.md)
@@ -39,7 +39,7 @@
 * [📋 Requisitos de Postulación](requisitos-postulacion.md)
 * [🚪 Ingreso de OD a Zonas Rojas](ingreso-de-od-a-zonas-rojas-zr.md)
 * [🏠 Comandos para Cateos](comandos-para-cateos.md)
-* [� Control Vehicular y Cacheo de Auto](control-vehicular-lspd.md)
+* [🚔 Control Vehicular y Cacheo de Auto](control-vehicular-lspd.md)
 
 ## 🚑 EMS (Servicios Médicos)
 
@@ -52,7 +52,7 @@
 
 * [💀 Sistema Delictual](delictual.md)
 * [🔫 Robos en Fase](robos-en-fase.md)
-* [� Sistema de Cacheo Delictual](cacheo.md)
+* [🔍 � Sistema de Cacheo Delictual](cacheo.md)
 * [�📜 Vacíos Legales](vacios-legales.md)
 * [👕 Vestimenta en Robos](vestimas-en-robos.md)
 * [👮 Consideraciones al Iniciar un Robo](consideracion-al-iniciar-un-robo.md)
