@@ -278,8 +278,8 @@
 ## ✅ Ejemplo Completo: Control con Cacheo de Auto
 
 ```
-👮 Oficial: /me activa las luces de la patrulla
-👮 Oficial: /me detiene al vehículo sospechoso
+👮 Oficial: activa las luces de la patrulla
+👮 Oficial: detiene al vehículo sospechoso
 👮 Oficial: /me se acerca a la ventanilla del conductor
 👮 Oficial: "Buenos días, control de rutina. DNI y licencia por favor"
 
@@ -287,18 +287,17 @@
 🚗 Conductor: [porta una máscara negra]
 
 👮 Oficial: /me revisa los documentos
-👮 Oficial: /me nota que el conductor porta una máscara
+👮 Oficial: nota que el conductor porta una máscara
 👮 Oficial: "¿Por qué porta una máscara? Por favor, retíresela para verificación"
 
 🚗 Conductor: "Es por el frío, oficial"
 🚗 Conductor: /me se quita la máscara mostrando nerviosismo
 
-👮 Oficial: /me observa al conductor sudando excesivamente
-👮 Oficial: /me nota que las manos le tiemblan
+👮 Oficial: nota que el sospechoso esta nervioso
 👮 Oficial: "Por comportamiento sospechoso, voy a revisar el vehículo"
 👮 Oficial: "Por favor, baje del auto y coloque las manos en el capó"
 
-🚗 Conductor: /me baja del vehículo lentamente
+🚗 Conductor: baja del vehículo lentamente
 🚗 Conductor: /me coloca las manos en el capó
 
 👮 Oficial: /me procede a cachear al conductor
@@ -327,12 +326,12 @@
 
 👮 Oficial: /me encuentra los objetos ilegales
 👮 Oficial: "Queda detenido por portación ilegal de armas y posesión de drogas"
-👮 Oficial: /me procede a esposar al sujeto
-👮 Oficial: /me lee sus derechos: "Tiene derecho a permanecer en silencio..."
-👮 Oficial: /me incauta las armas y drogas como evidencia
+👮 Oficial: procede a esposar al sujeto
+👮 Oficial: lee sus derechos: "Tiene derecho a permanecer en silencio..."
+👮 Oficial: incauta las armas y drogas como evidencia
 👮 Oficial: /me toma fotografías de la evidencia
 👮 Oficial: /me solicita por radio una grúa para el vehículo
-👮 Oficial: /me traslada al detenido a la patrulla
+👮 Oficial: traslada al detenido a la patrulla
 ```
 
 ***
