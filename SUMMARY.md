@@ -39,7 +39,7 @@
 * [📋 Requisitos de Postulación](requisitos-postulacion.md)
 * [🚪 Ingreso de OD a Zonas Rojas](ingreso-de-od-a-zonas-rojas-zr.md)
 * [🏠 Comandos para Cateos](comandos-para-cateos.md)
-* [🔍 Sistema de Cacheo](cacheo.md)
+* [� Control Vehicular y Cacheo de Auto](control-vehicular-lspd.md)
 
 ## 🚑 EMS (Servicios Médicos)
 
@@ -52,7 +52,8 @@
 
 * [💀 Sistema Delictual](delictual.md)
 * [🔫 Robos en Fase](robos-en-fase.md)
-* [📜 Vacíos Legales](vacios-legales.md)
+* [� Sistema de Cacheo Delictual](cacheo.md)
+* [�📜 Vacíos Legales](vacios-legales.md)
 * [👕 Vestimenta en Robos](vestimas-en-robos.md)
 * [👮 Consideraciones al Iniciar un Robo](consideracion-al-iniciar-un-robo.md)
 * [🚨 Proceso de Negociación](proceso-de-negociacion.md)
