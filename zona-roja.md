@@ -1,88 +1,302 @@
 # 🔴 Zona Roja
 
-Las Zonas Rojas están diseñadas para permitir conflictos y actividades de alto riesgo con menos restricciones. A diferencia de las delimitaciones variables, ahora todas las Zonas Rojas tendrán un rango de acción preestablecido y fijo. Esto significa que las actividades dentro de una Zona Roja deben mantenerse dentro de los límites definidos para esa zona específica.
+## ⚔️ Áreas de Alto Riesgo y Conflicto
 
-**📏 Delimitación Fija del Rango:**
-
-Toda Zona Roja activa tendrá un radio de acción de 300 metros desde su punto central de activación. Para facilitar la visualización, se activará un campo rojo alrededor de la zona delimitada al momento de disparar.
-
-**🚫Prohibido**
-
-* PROHIBIDO campear fuera del perímetro o en los límites de la ZR con fines delictivos.
-* PROHIBIDO disparar desde las alturas (edificios, casas o muros, Etc) Esto no aplica para las irregularidades del terreno naturales (cerros, montes)
-* Disparar al aire a manera de advertencia o para develar las limitaciones de la ZR
-* PROHIBIDO disparar desde el interior hacia el exterior de la ZR, o viceversa.
-* PROHIBIDO esconderse en arbustos, romper estructuras o modificar el entorno para obtener ventajas indebidas. (FP)
-* PROHIBIDO bloquear el ingreso o el paso a cualquier ZR, ya sea mediante vehículos o props. (FP)
-* PROHIBIDO evadir rol utilizando PK de forma intencional.
-* NO se podrá utilizar /Auxilio ni /Report dentro de la ZR con el fin de solicitar reanimación. Al ingresar a una ZR, aceptas el PK. (una vez fuera de la zr o terminador el rol puedes pedir /auxilio)
-* NO existen devoluciones en ZR bajo ningún punto.
-* PROHIBIDO ingresar sin armas con el objetivo de saquear cuerpos abatidos.
-* PROHIBIDO el uso de cualquier tipo de animación que otorgue ventajas sobre otros jugadores.
-* PROHIBIDO utilizar cualquier tipo de caminar que no sea la predeterminada.
-* PROHIBIDO el uso de cascos dentro de cualquier ZR de ciudad, en el norte si se permite la utilización del mismo
-* El mínimo de recolección de drogas es de 100 unidades, y el mínimo de droga procesada es de 50 unidades. Esta normativa aplica para todos los usuarios.
-
-{% hint style="info" %}
-⚠ ️ Importante: Todo aquel que evada el rol al momento de que le pidan DNI o PLACA serán sancionados (en caso de las OD será sanción para la organización).
-{% endhint %}
-
-**⚠️ Consecuencias al salir de una Zona Roja:**
-
-Si un jugador es abatido fuera de una Zona Roja, habiendo iniciado el conflicto o rol dentro de esta, la persona que lo abate podrá robar al sujeto sin restricción.
+Las Zonas Rojas permiten conflictos y actividades de alto riesgo con restricciones reducidas. Todas las ZR tienen rango fijo y reglas específicas.
 
 ***
 
-**🔄 Reingreso a Zonas Rojas:**
+## 📏 Delimitación del Rango
 
-Si un jugador muere no podrá reingresar a ZR hasta que el rol finalice. Si se retiran de la Zona Roja, deberán esperar un mínimo de 15 minutos para poder reingresar.
+{% hint style="info" %}
+**Radio de Acción:** 300 metros desde el punto central de activación
+{% endhint %}
+
+### Visu alización:
+
+Al disparar se activar un **campo rojo** que delimita visualmente la zona activa.
 
 ***
 
-**LLegada de LSPD/BCSO**
+## 🚫 Prohibiciones en Zona Roja
 
-Al asistir un oficial de la ley a ZR, estos deberán enviar un anuncio de desalojo de la zona y llegar con sirenas y balizas encendidas, antes de hacer ingreso, si los civiles no hacen caso a esto, los oficiales están en todo su derecho de abrir fuego contra los mismos.
-
-{% hint style="info" %}
-Ejemplo\
-Atención a todas las personas presentes en Zona Roja de (extracción o proceso de) Tienen 10 segundos para salir con las manos en alto. Toda persona que permanezca en la zona o ignore este aviso o realice movimientos sospechosos será considerada amenaza activa, autorizando el uso de la fuerza letal conforme a los protocolos vigentes!!!
+{% hint style="danger" %}
+**Infringir estas reglas resulta en sanciones administrativas severas**
 {% endhint %}
 
-**Alianzas**
+### ❌ Estrictamente Prohibido:
 
-Se podrá formar una alianza entre una Organización Delictiva (OD) de menor categoría y otra de mayor categoría. Sin embargo, solo podrán asistir hasta dos (2) integrantes menos de la OD de mayor categoría con respecto a la de menor categoría. Además, estas alianzas solo podrán realizarse desde Cartel, Mafia o MC Leyenda hacia Pandilla, Banda o MC Heredero. No se permiten alianzas entre organizaciones del mismo rango (por ejemplo, Cartel con Mafia o MC Leyenda) ni entre organizaciones del mismo nivel inferior (Pandilla con Banda o MC Heredero).
+| Prohibición | Descripción |
+|-------------|-------------|
+| **🏕️ Campear fuera/límites** | Esperar fuera del perímetro con fines delictivos |
+| **🏢 Disparar desde alturas** | Edificios, casas, muros (excepto terreno natural) |
+| **🎯 Disparos de advertencia** | Disparar al aire para revelar límites de ZR |
+| **↔️ Disparar entre límites** | Desde dentro a fuera o viceversa de la ZR |
+| **🌳 Esconderse en arbustos** | Usar vegetación para ventaja indebida |
+| **🚧 Bloquear accesos** | Con vehículos o props |
+| **💀 Evadir con PK intencional** | Usar PK para evitar consecuencias |
+| **🚑 /Auxilio en ZR** | Solo después de salir o terminar rol |
+| **🔄 Devoluciones** | NO existen bajo ningún concepto |
+| **🏃 Saquear sin armas** | Ingresar desarmado para robar cuerpos |
+| **🎭 Animaciones ventajosas** | Cualquier animación que dé ventaja |
+| **🚶 Caminar alternativo** | Solo caminar predeterminado |
+| **🪖 Cascos en ciudad** | Prohibidos en ZR urbanas (permitidos en norte) |
 
-{% hint style="info" %}
+### 📦 Requisitos Mínimos:
 
-
-Ejemplo
-
-* Si una Banda se dirige a ZR con 7 intrgrantes y le quiere pedir apoyo a un Cartel, este solo podra enviar a 5 integrantes maximos los cuales deberan estar dentro del entorno inicial de la banda, por lo cual se debe sumar el total de las personas.
+{% hint style="warning" %}
+**Cantidades mínimas obligatorias:**
+* 🌿 Recolección de drogas: **100 unidades**
+* ⚗️ Droga procesada: **50 unidades**
 {% endhint %}
 
-**Armamento permitido:**
+### ⚠️ DNI/PLACA:
 
-En toda Zona Roja ubicada dentro de la ciudad, se deberá utilizar exclusivamente armamento de bajo calibre. En las Zonas Rojas del norte se mantiene el uso de calibres liberados.
+{% hint style="danger" %}
+**Evadir el rol al pedir DNI/PLACA** = Sanción al individuo o toda la OD
+{% endhint %}
 
 ***
 
-**En caso de Ganar:**
+## 🚪 Salir de Zona Roja
 
-cuando una OD gane un tiroteo en ZR CONTRA LSPD/BCSO, solo podrá realizar UNA acción, debiendo elegir entre las siguientes opciones (Las opciones de sacar PLACA/DNI tendra un limite de 4 placas (sacar mas del limite permitido es motivo de sanción):
+### Consecuencias:
 
-* Catear
-* Sacar placa
-* Sacar DNI
+{% hint style="warning" %}
+Si eres abatido **fuera de la ZR** habiendo iniciado conflicto **dentro**, el atacante puede robarte sin restricción.
+{% endhint %}
 
-Prohibido
+***
 
-* No está permitido realizar más de una acción. La elección es obligatoria y definitiva.
+## 🔄 Reingreso a ZR
 
-**👮 Enfrentamientos contra LSPD/BCSO**
+{% hint style="info" %}
+**Reglas de reingreso:**
+{% endhint %}
 
-En caso de que una OD pierda el tiroteo contra LSPD/BCSO en una ZR:
+| Situación | Tiempo de Espera |
+|-----------|------------------|
+| **💀 Muerte en ZR** | NO puede reingresar hasta que finalice el rol |
+| **🚶 Retiro voluntario** | **15 minutos** mínimo para reingresar |
 
-* LSPD cerrará el perímetro por 20 minutos
-* <mark style="color:$danger;">Durante ese tiempo no podrá ingresar ninguna OD</mark>
-* <mark style="color:yellow;">El acceso se habilitará únicamente cuando LSPD/BCSO abandone la zona</mark>
-* <mark style="color:yellow;">OD que ingrese en el perímetro cerrado por LSPD/BCSO será sancionada</mark>
+***
+
+## 👮 Llegada de LSPD/BCSO
+
+### Procedimiento Oficial:
+
+{% hint style="success" %}
+**Protocolo obligatorio para oficiales:**
+{% endhint %}
+
+#### Antes de Ingresar:
+
+1. **📢 Enviar anuncio de desalojo**
+2. **🚨 Activar sirenas y balizas**
+3. **⏰ Dar tiempo razonable** (generalmente 10 segundos)
+
+#### Ejemplo de Anuncio:
+
+{% hint style="info" %}
+```
+"Atención a todas las personas presentes en Zona Roja de [ubicación]. 
+Tienen 10 segundos para salir con las manos en alto. Toda persona que 
+permanezca en la zona, ignore este aviso o realice movimientos sospechosos 
+será considerada amenaza activa, autorizando el uso de la fuerza letal 
+conforme a los protocolos vigentes."
+```
+{% endhint %}
+
+### Autorización:
+
+Si los civiles no acatan, oficiales tienen derecho a **abrir fuego**.
+
+***
+
+## 🤝 Sistema de Alianzas
+
+{% hint style="warning" %}
+**Reglas estrictas** para alianzas entre ODs
+{% endhint %}
+
+### Jerarquía de Organizaciones:
+
+| Categoría | Nivel |
+|-----------|-------|
+| **Cartel / Mafia / MC Leyenda** | Mayor |
+| **Pandilla / Banda / MC Heredero** | Menor |
+
+### Reglas de Alianza:
+
+#### ✅ Permitido:
+
+* Mayor categoría → Menor categoría
+* Cartel/Mafia/MC Leyenda puede ayudar a Pandilla/Banda/MC Heredero
+
+#### ❌ Prohibido:
+
+* Alianzas entre mismo rango mayor (Cartel + Mafia)
+* Alianzas entre mismo rango menor (Pandilla + Banda)
+* Menor categoría → Mayor categoría
+
+### Límite de Integrantes:
+
+{% hint style="success" %}
+**Fórmula:** OD Mayor puede enviar **2 integrantes MENOS** que la OD Menor
+{% endhint %}
+
+#### Ejemplo Práctico:
+
+<details>
+<summary><strong>Banda (7 integrantes) + Cartel</strong></summary>
+
+**Escenario:**
+* Banda va a ZR con **7 integrantes**
+* Solicita apoyo a un Cartel
+
+**Cálculo:**
+* Banda tiene 7 → Cartel puede enviar **máximo 5** (7 - 2 = 5)
+
+**Importante:**
+* Los 5 del Cartel deben estar en el entorno inicial de la Banda
+* Se suma el total: 7 (Banda) + 5 (Cartel) = 12 personas totales
+
+</details>
+
+***
+
+## 🔫 Armamento Permitido
+
+{% hint style="warning" %}
+**Restricciones según ubicación**
+{% endhint %}
+
+| Zona | Calibre Permitido |
+|------|-------------------|
+| **🏙️ ZR en Ciudad** | Solo **bajo calibre** |
+| **🏔️ ZR en Norte** | **Calibres liberados** |
+
+***
+
+## 🏆 En Caso de Ganar Contra LSPD/BCSO
+
+{% hint style="success" %}
+**OD gana tiroteo** → Puede realizar **UNA sola acción**
+{% endhint %}
+
+### Opciones (Elegir 1):
+
+{% tabs %}
+{% tab title="🔍 Catear" %}
+Realizar cateo a los oficiales abatidos.
+
+**Límites:**
+* Según normativa de cateos
+* Respetando límites de items
+{% endtab %}
+
+{% tab title="🪪 Sacar Placa" %}
+Retirar placa a oficiales.
+
+**Límites:**
+* ⚠️ **Máximo 4 placas**
+* Exceder este límite = sanción
+{% endtab %}
+
+{% tab title="🆔 Sacar DNI" %}
+Retirar DNI a oficiales.
+
+**Límites:**
+* ⚠️ **Máximo 4 DNIs**
+* Exceder este límite = sanción
+{% endtab %}
+{% endtabs %}
+
+### ❌ Prohibido:
+
+{% hint style="danger" %}
+* NO se puede realizar más de UNA acción
+* La elección es obligatoria y definitiva
+* NO se puede cambiar de opción después de elegir
+{% endhint %}
+
+***
+
+## 🚔 Si OD Pierde Contra LSPD/BCSO
+
+{% hint style="warning" %}
+**Protocolo de cierre de perímetro**
+{% endhint %}
+
+### Consecuencias:
+
+1. **🚧 LSPD cierra perímetro por 20 minutos**
+2. **🚫 Ninguna OD puede ingresar** durante ese tiempo
+3. **⏰ Acceso habilitado** cuando LSPD/BCSO abandone la zona
+4. **⚖️ Sanción** a cualquier OD que ingrese en perímetro cerrado
+
+### Timeline:
+
+```
+0min - OD pierde enfrentamiento
+↓
+0-20min - Perímetro cerrado por LSPD
+↓
+LSPD abandona zona → Perímetro abierto nuevamente
+```
+
+***
+
+## 📋 Resumen de Sanciones ZR
+
+| Infracción | Sanción |
+|------------|---------|
+| **Campear fuera** | Ban 3-7 días |
+| **Disparar desde altura** | Ban 3-7 días |
+| **Bloquear accesos** | Ban 1-3 días |
+| **Evadir DNI/PLACA** | Sanción individual/OD |
+| **Ingresar sin armas a saquear** | Ban 7-15 días |
+| **Usar animaciones ventajosas** | Ban 3-7 días |
+| **Exceder límite placas/DNI** | Sanción grave |
+| **Alianza irregular** | Sanción a ambas ODs |
+| **Ingresar a perímetro cerrado** | Sanción a OD |
+| **Calibre incorrecto** | Ban 1-3 días |
+
+***
+
+## 💡 Consejos para ZR
+
+{% hint style="success" %}
+**Para una experiencia óptima:**
+
+✅ Conoce los límites de la ZR antes de entrar  
+✅ Respeta el calibre permitido según ubicación  
+✅ NO campees fuera del perímetro  
+✅ Acepta las consecuencias del PK  
+✅ Respeta tiempos de reingreso  
+✅ Sigue protocolos de alianzas  
+✅ Juega limpio y sin ventajas indebidas  
+{% endhint %}
+
+***
+
+## ⚠️ Recuerda:
+
+{% hint style="danger" %}
+**Al ingresar a una Zona Roja, aceptas:**
+- 💀 Riesgo de PK
+- 🔫 Conflictos armados
+- 💰 Posibilidad de pérdidas
+- ⚖️ Consecuencias de tus acciones
+* 🚫 NO hay devoluciones bajo ningún concepto
+{% endhint %}
+
+***
+
+<div align="center">
+
+### ⚔️ Zona Roja = Alto Riesgo, Alto Realismo ⚔️
+
+**Juega estratégicamente, respeta las reglas, acepta las consecuencias**
+
+</div>

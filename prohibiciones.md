@@ -1,18 +1,198 @@
 # 🚫 Prohibiciones
 
-* \
-  Queda estrictamente prohibido quitarse los zapatos durante cualquier procedimiento o enfrentamiento contra la LSPD o cualquier ciudadano. Esta medida busca garantizar un juego limpio y equilibrado para ambos bandos.,
-* Queda estrictamente prohibido el uso de animaciones extrañas o no realistas durante cualquier tipo de rol delictual. Esto incluye acciones que alteren la coherencia o el realismo de la situación.
-* Que estrictamente prohibido robar las siguientes cosas a los civiles que esten fuera de cualquier ZR: Telefono y mas de 50K.
-* Queda estrictamente prohibido robar a civiles sin pertenecer a una organizacion delictual.
-* Queda estrictamente prohibido utilizar la "Z" para ver ID en rol de tiroteo.
+## ⚠️ Reglas Estrictas del Servidor
 
-En enfrentamientos y persecuciones:
+Estas prohibiciones son absolutas y su incumplimiento resulta en sanciones administrativas.
 
-* Uso de la “Q” al esconderse y disparar: Está estrictamente prohibido abusar de la función de la tecla "Q" para esconderse y disparar, tanto si el arma es visible como si no. Esto incluye usarla para disparar de forma continua mientras se encuentra en cobertura.
-* Uso de programas externos: Se prohíbe completamente el uso de archivos o programas externos, como citizen modificados que alteren la realidad del juego y lo que es visible para otros jugadores. Ejemplos de estas modificaciones incluyen la incapacidad de ver objetos como arbustos, agua, rejas, entre otros. Nota: Solo se permite el uso de modificaciones de citizen que mejoren los colores del entorno.
-* Uso de miras permanentes: Queda prohibido el uso de miras permanentes, ya sea mediante comandos, miras del ordenador o programas externos.
-* Uso de la radio: Aunque la radio puede ser utilizada en enfrentamientos, queda prohibido el abuso de esta herramienta para “romper pared”. Solo se permitirá el uso de la radio en caso de una "call", y su uso estará sujeto a la evaluación del administrador sobre cómo afecta al rol del juego.
-* Disparar desde el vehículo o moto: Los ocupantes del vehículo, excepto el conductor pueden disparar (sólo al vehículo, no al cuerpo).
-* Cualquier movimiento inapropiado, como el uso de bugs o 'rola bug', podrá ser sancionado o advertido, dependiendo de la gravedad de la situación.
-* Queda estrictamente prohibido pelear o disputar robos bajo cualquier circunstancia. Ningún grupo, organización o individuo podrá generar conflictos, confrontaciones o discusiones para apropiarse de un robo ya iniciado o en proceso. Esta norma es absoluta y no admite excepciones.
+***
+
+## 👟 Equipamiento y Vestimenta
+
+### ❌ Quitar Zapatos en Situaciones de Rol
+
+{% hint style="danger" %}
+**Estrictamente prohibido** quitarse los zapatos durante procedimientos o enfrentamientos
+{% endhint %}
+
+#### 📖 Descripción
+
+No puedes quitarte los zapatos durante:
+* 🚔 Procedimientos policiales (LSPD/Sheriff)
+* ⚔️ Enfrentamientos con otras organizaciones
+* 👤 Confrontaciones con civiles
+* 🏃 Persecuciones activas
+
+#### 🎯 Objetivo
+
+Garantizar juego limpio y equilibrado para ambos bandos.
+
+***
+
+## 🎭 Animaciones y Comportamiento
+
+### ❌ Animaciones No Realistas
+
+{% hint style="danger" %}
+**Prohib ido** usar animaciones extrañas o antirrealistas durante actividades criminales
+{% endhint %}
+
+#### Ejemplos Prohibidos:
+
+* 💃 Bailes o gestos absurdos
+* 🤸 Acrobacias imposibles
+* 🎪 Animaciones que rompen inmersión
+
+***
+
+## 💰 Restricciones de Robo
+
+### 🚫 Límites Fuera de Zona Roja
+
+{% hint style="warning" %}
+Items prohibidos robar a civiles fuera de ZR
+{% endhint %}
+
+| Item | Límite |
+|------|--------|
+| 📱 **Teléfono** | ❌ Robo totalmente prohibido |
+| 💵 **Dinero** | ✅ Máximo $50,000 |
+
+### ❌ Robar Sin Pertenecer a OD
+
+{% hint style="danger" %}
+**Prohibido** robar si no perteneces a una Organización Delictual
+{% endhint %}
+
+***
+
+## 🆔 Uso de Tecla "Z"
+
+{% hint style="danger" %}
+**Prohibido** usar "Z" para ver IDs en tiroteos
+{% endhint %}
+
+***
+
+## ⚔️ Enfrentamientos y Persecuciones
+
+### 1️⃣ Abuso de Tecla "Q"
+
+{% hint style="danger" %}
+**Prohibido** abusar de "Q" para esconderse y disparar continuamente
+{% endhint %}
+
+❌ **Prohibido:**
+* Esconderse y disparar sin exponerse
+* Usar "Q" para ventaja antirrealista
+
+***
+
+### 2️⃣ Programas Externos
+
+{% hint style="danger" %}
+**Prohibición absoluta** de modificar archivos del juego
+{% endhint %}
+
+#### ❌ Modificaciones Prohibidas:
+
+* 🌳 Eliminar vegetación
+* 💧 Remover agua
+* 🚧 Quitar obstáculos
+* 🏢 Modificar edificios
+
+#### ✅ Permitidas:
+
+* 🎨 Mejoras de colores (ReShade)
+
+**Sanción: Ban permanente**
+
+***
+
+### 3️⃣ Miras Permanentes
+
+{% hint style="danger" %}
+**Prohibido** cualquier tipo de mira externa
+{% endhint %}
+
+***
+
+### 4️⃣ Uso de Radio
+
+{% hint style="warning" %}
+Permitido solo para "calls" - Prohibido "romper pared"
+{% endhint %}
+
+✅ **Permitido:**
+* Ubicación inicial
+* Call de respaldo
+
+❌ **Prohibido:**
+* Narración constante de enemigos
+* "Wallhack verbal"
+
+***
+
+### 5️⃣ Disparar Desde Vehículos
+
+{% hint style="info" %}
+**Regla clara**
+{% endhint %}
+
+✅ **Permitido:**
+* Pasajeros disparan al vehículo
+
+❌ **Prohibido:**
+* Conductor disparar
+* Disparar a personas directamente
+
+***
+
+### 6️⃣ Bugs y Exploits
+
+{% hint style="warning" %}
+Uso de bugs será sancionado
+{% endhint %}
+
+* 🐛 "Rola bug"
+* 🏃 Exploits de velocidad
+* 🧱 Glitches
+
+***
+
+## 💰 Disputas de Robos
+
+### ❌ Pelear o Disputar Robos
+
+{% hint style="danger" %}
+**Absolutamente prohibido**
+{% endhint %}
+
+#### Regla del Primero:
+
+* Quien inicia el robo tiene derecho a completarlo
+* Otras ODs deben respetar
+
+***
+
+## 📊 Resumen de Sanciones
+
+| Infracción | Primera Vez | Reincidencia |
+|------------|-------------|--------------|
+| **Quitar zapatos** | Advertencia | Ban temporal |
+| **Animaciones** | Advertencia | Ban temporal |
+| **Robo excesivo** | Devolución | Ban temporal |
+| **Ver ID** | Advertencia | Kick/Ban |
+| **Abuso Q** | Advertencia | Ban 1-3 días |
+| **Programas externos** | **Ban permanente** | - |
+| **Miras** | Ban 7 días | Ban permanente |
+| **Abuso radio** | Advertencia | Ban temporal |
+| **Bugs** | Kick | Ban temporal |
+| **Disputar robos** | Advertencia | Ban 3-7 días |
+
+***
+
+<div align="center">
+
+### ⚖️ Fair Play = Mejor Experiencia ⚖️
+
+</div>
