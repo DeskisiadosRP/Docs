@@ -16,93 +16,7 @@ coverHeight: 446
 
 ***
 
-## 👋 Bienvenida
-
-¡Bienvenido a la **Normativa General de Deskisiados Roleplay**! Este documento es tu guía completa para vivir la mejor experiencia de roleplay en nuestro servidor.
-
-{% hint style="success" %}
-**¡Importante!** Esta normativa está en constante actualización para ofrecerte la mejor experiencia de juego. Te recomendamos revisarla periódicamente.
-{% endhint %}
-
-***
-
-## 📖 ¿Qué encontrarás aquí?
-
-En esta documentación encontrarás todo lo necesario para ser parte de nuestra comunidad:
-
-* **📋 Reglas Generales** - Lineamientos básicos de convivencia
-* **🎭 Conceptos de Roleplay** - Aprende los términos fundamentales (IC, OOC, PG, MG, etc.)
-* **⚖️ Sistema de Sanciones** - Conoce las consecuencias de infringir las normas
-* **🔧 Comandos** - Domina los comandos esenciales del servidor
-* **🎯 Roles y Facciones** - Información sobre organizaciones y cambios de facción
-* **🚨 Zonas Especiales** - Reglas para zonas rojas, seguras y más
-
-***
-
-## 🎯 Nuestros Objetivos
-
-{% hint style="info" %}
-**Misión:** Crear una comunidad de roleplay donde prime el respeto, la creatividad y la interpretación realista de personajes.
-{% endhint %}
-
-1. **🤝 Respeto mutuo** - Entre todos los miembros de la comunidad
-2. **🎬 Roleplay de calidad** - Interpretaciones realistas y coherentes
-3. **⚖️ Fair play** - Juego justo sin ventajas desleales
-4. **🌟 Diversión** - Disfrutar juntos de historias memorables
-
-***
-
-## 🚀 Primeros Pasos
-
-### Para Nuevos Jugadores
-
-{% hint style="warning" %}
-**Antes de comenzar**, asegúrate de:
-- ✅ Leer la **normativa general completa**
-- ✅ Entender los **conceptos básicos de rol**
-- ✅ Conocer el **sistema de sanciones**
-- ✅ Familiarizarte con los **comandos principales**
-{% endhint %}
-
-### Proceso de Ingreso
-
-1. **📝 Whitelist** - Completa tu proceso de whitelist
-2. **👤 Creación de Personaje** - Desarrolla una historia convincente
-3. **🎓 Aprendizaje** - Familiarízate con las normas y comandos
-4. **🎮 ¡A Rolear!** - Comienza tu aventura en Deskisiados
-
-***
-
-## 📞 Contacto y Soporte
-
-¿Necesitas ayuda? Contamos con varios canales de atención:
-
-| Canal | Uso | Disponibilidad |
-|-------|-----|----------------|
-| 🎫 **Tickets Discord** | Consultas generales y WL | 24/7 |
-| 🛠️ **Comando /report** | Problemas técnicos in-game | En servidor |
-| 💬 **Comando /ayuda** | Dudas rápidas | En servidor |
-
-{% hint style="danger" %}
-**Recuerda:** El mal uso de los canales de soporte puede resultar en sanciones. Utilízalos solo para consultas legítimas.
-{% endhint %}
-
-***
-
-## ⚠️ Aviso Legal
-
-{% hint style="info" %}
-Al jugar en **Deskisiados Roleplay**, aceptas cumplir con toda la normativa establecida. El desconocimiento de las reglas no exime de responsabilidad.
-{% endhint %}
-
-La administración se reserva el derecho de:
-- ✏️ Modificar las normas cuando sea necesario
-- ⚖️ Aplicar sanciones según el criterio del staff
-- 🚫 Remover usuarios que afecten la comunidad
-
-***
-
-## 📚 Explora la Documentación
+## � Documentación del Servidor
 
 ### 🎯 Documentos Esenciales
 
@@ -118,6 +32,14 @@ La administración se reserva el derecho de:
 [sistema-de-sanciones.md](sistema-de-sanciones.md)
 {% endcontent-ref %}
 
+{% content-ref url="operacines-y-cambios-de-nombres.md" %}
+[operacines-y-cambios-de-nombres.md](operacines-y-cambios-de-nombres.md)
+{% endcontent-ref %}
+
+{% content-ref url="cambio-de-faccion.md" %}
+[cambio-de-faccion.md](cambio-de-faccion.md)
+{% endcontent-ref %}
+
 ***
 
 ### 🎮 Guías de Juego
@@ -128,6 +50,18 @@ La administración se reserva el derecho de:
 
 {% content-ref url="conceptos-de-rol.md" %}
 [conceptos-de-rol.md](conceptos-de-rol.md)
+{% endcontent-ref %}
+
+{% content-ref url="comandos-para-cateos.md" %}
+[comandos-para-cateos.md](comandos-para-cateos.md)
+{% endcontent-ref %}
+
+{% content-ref url="uso-de-radio-y-animaciones.md" %}
+[uso-de-radio-y-animaciones.md](uso-de-radio-y-animaciones.md)
+{% endcontent-ref %}
+
+{% content-ref url="uso-de-sniper.md" %}
+[uso-de-sniper.md](uso-de-sniper.md)
 {% endcontent-ref %}
 
 ***
@@ -148,7 +82,7 @@ La administración se reserva el derecho de:
 
 ***
 
-### 🗺️ Información de Zonas
+### 🗺️ Zonas del Servidor
 
 {% content-ref url="zona-segura.md" %}
 [zona-segura.md](zona-segura.md)
@@ -160,11 +94,37 @@ La administración se reserva el derecho de:
 
 ***
 
+### 💼 Sistema Legal y Criminal
+
+{% content-ref url="vacios-legales.md" %}
+[vacios-legales.md](vacios-legales.md)
+{% endcontent-ref %}
+
+{% content-ref url="delictual.md" %}
+[delictual.md](delictual.md)
+{% endcontent-ref %}
+
+{% content-ref url="robos-en-fase.md" %}
+[robos-en-fase.md](robos-en-fase.md)
+{% endcontent-ref %}
+
+{% content-ref url="dni-placa.md" %}
+[dni-placa.md](dni-placa.md)
+{% endcontent-ref %}
+
+***
+
+### 👥 Civiles y Organizaciones
+
+{% content-ref url="civiles-y-organizaciones.md" %}
+[civiles-y-organizaciones.md](civiles-y-organizaciones.md)
+{% endcontent-ref %}
+
+***
+
 <div align="center">
 
-### 💫 ¡Disfruta tu experiencia en Deskisiados RP! 💫
-
-**Recuerda:** *La clave de un buen roleplay es el respeto y la creatividad*
+### 💫 ¡Bienvenido a Deskisiados RP! 💫
 
 </div>
 
