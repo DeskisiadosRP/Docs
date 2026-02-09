@@ -11,28 +11,87 @@ Durante secuestros, robos o conflictos, los **criminales PUEDEN cachear** a sus 
 **Importante:** El cacheo criminal ES LEGAL IC, pero debe rolearse correctamente para evitar PowerGaming
 {% endhint %}
 
+{% hint style="info" %}
+**💀 Víctimas Muertas:** Las mismas reglas de cacheo aplican cuando la víctima está muerta. Debes usar /me y /do igual.
+{% endhint %}
+
 ***
 
 ## 😈 Cacheo Criminal - ¿Qué Puedo Robar?
 
+{% hint style="warning" %}
+**Aplica tanto a víctimas VIVAS como MUERTAS**
+{% endhint %}
+
 ### ✅ PERMITIDO Tomar Durante Cacheo Criminal
 
-| Objeto | ¿Puedes Tomarlo? | ¿Por Qué? |
-|--------|------------------|-----------|
-| 💰 **Dinero en efectivo** | ✅ SÍ | Es el botín principal del robo |
-| 🔫 **Armas** | ✅ SÍ | Seguridad - evitar que se defienda |
-| 📱 **Teléfono** | ✅ SÍ | Evitar llamadas de emergencia/GPS |
-| 📻 **Radio** | ✅ SÍ | Evitar comunicación con cómplices |
-| 🔑 **Llaves de vehículo** | ✅ SÍ | Control total del rehén |
-| 💊 **Drogas** | ✅ SÍ | Botín adicional |
-| 💳 **Tarjetas bancarias** | ✅ SÍ | Parte del robo |
-| 🎒 **Mochila/Pertenencias** | ✅ SÍ | Puedes revisar todo en secuestro |
-| 🛡️ **Chaleco antibalas** | ✅ SÍ | Reduce ventaja de la víctima |
-| 📦 **Items ilegales** | ✅ SÍ | Todo es válido |
+| Objeto | Normal | Zona Roja | Detalles |
+|--------|--------|-----------|----------|
+| 💰 **Dinero** | ✅ SÍ | ❌ NO | Botín permitido |
+| 🍔 **Comida** | ✅ SÍ | ❌ NO | Permitido tomar |
+| 🔫 **Armas (Civiles/Bandas)** | ✅ SÍ | ✅ SÍ | Todas las armas |
+| 🔫 **Armas (LSPD)** | ✅ SÍ | ✅ Solo calibre medio+ | SMG, Rifles, Carabinas (NO pistolas) |
+| 🛡️ **Chaleco antibalas** | ✅ SÍ | ✅ SÍ | Reduce ventaja |
+| 🎯 **Munición** | ✅ SÍ | ✅ SÍ | Complemento de armas |
+| 📱 **Celular/Teléfono** | ❌ NO | ❌ NO | Item personal protegido |
+| 📻 **Radio** | ❌ NO | ❌ NO | Item personal protegido |
+| 🔑 **Llaves** | ❌ NO | ❌ NO | Item personal protegido |
+| 💳 **Tarjetas** | ❌ NO | ❌ NO | Item personal protegido |
+| 🎒 **Mochila** | ❌ NO | ❌ NO | Item personal protegido |
+
 
 {% hint style="success" %}
-**Regla de Oro:** En un **secuestro o robo**, puedes tomar **TODO** lo que tenga la víctima si lo roleas bien
+**Regla de Oro:** En un **secuestro o robo**, SOLO puedes tomar:
+- 💰 Dinero
+- 🍔 Comida
+- 🔫 Armas
+- 🛡️ Chalecos
+- 🎯 Balas/Munición
+
+❌ **PROHIBIDO:** Celular, radio, llaves, tarjetas
 {% endhint %}
+
+{% hint style="warning" %}
+**⚠️ ZONA ROJA - Restricciones adicionales:**
+
+❌ En Zona Roja NO puedes robar **dinero ni comida**
+
+✅ **SOLO:** Armas (calibre medio+ si es LSPD), chalecos y munición
+
+📋 Items personales siguen prohibidos en ambas zonas
+{% endhint %}
+
+***
+
+### 💀 Cacheo a Víctima Muerta
+
+{% hint style="info" %}
+**Las MISMAS REGLAS aplican cuando la víctima está muerta:**
+
+✅ **Zona Normal - Puedes robar:**
+- 💰 Dinero
+- 🍔 Comida
+- 🔫 Armas
+- 🛡️ Chalecos
+- 🎯 Balas/Munición
+
+🔴 **Zona Roja - Puedes robar:**
+- 🔫 Armas (calibre medio+ si es LSPD)
+- 🛡️ Chalecos
+- 🎯 Balas/Munición
+
+❌ **PROHIBIDO en ambas zonas:**
+Celular, radio, llaves, tarjetas
+{% endhint %}
+
+**Importante:** Debes seguir usando /me y /do incluso con víctimas muertas:
+```
+/me se acerca al cuerpo
+/me comienza a revisar al caído
+/do ¿Qué porta el cuerpo?
+[Esperar respuesta]
+/me toma lo permitido y se retira
+```
 
 ***
 
@@ -54,27 +113,23 @@ Durante secuestros, robos o conflictos, los **criminales PUEDEN cachear** a sus 
 
 ```
 1️⃣ CONTROL DE LA SITUACIÓN
-   /me apunta con el arma al sujeto
+   apunta con el arma al sujeto
    "¡Manos arriba o disparo!"
    /me espera a que coopere
 
 2️⃣ INICIO DEL CACHEO
-   /me comienza a revisar al sujeto
+   comienza a revisar al sujeto
    /me palpa los bolsillos del pantalón
-   /me revisa la cintura
 
 3️⃣ SIEMPRE USAR /do PARA HALLAZGOS
    /do ¿Qué encuentro en los bolsillos?
-   /do ¿Porta algún arma en la cintura?
-   /do ¿Lleva algo en la espalda?
 
 4️⃣ ESPERAR RESPUESTA
    [Víctima responde con /do]
 
 5️⃣ ROLEAR QUÉ HACES CON LO ENCONTRADO
-   /me toma el teléfono y lo arroja lejos
    /me guarda el dinero en su mochila
-   /me retira el arma y la asegura
+   /me retira el arma y la asegura  
 ```
 
 {% hint style="danger" %}
@@ -88,7 +143,7 @@ Durante secuestros, robos o conflictos, los **criminales PUEDEN cachear** a sus 
 ### ✅ Ejemplo 1: Secuestro Básico
 
 ```
-😈 Secuestrador: /me encapucha a la víctima rápidamente
+😈 Secuestrador: encapucha a la víctima rápidamente
 😈 Secuestrador: "Coopera y no te pasará nada"
 😈 Secuestrador: /me comienza a palpar el torso del rehén
 😈 Secuestrador: /me revisa los bolsillos del pantalón
@@ -96,9 +151,10 @@ Durante secuestros, robos o conflictos, los **criminales PUEDEN cachear** a sus 
 
 😰 Víctima: /do Lleva un teléfono iPhone, $800 en efectivo y una cartera
 
-😈 Secuestrador: /me toma el teléfono y lo apaga
+😈 Secuestrador: /me revisa el efectivo
 😈 Secuestrador: /me guarda el dinero en su bolsillo
-😈 Secuestrador: /me devuelve la cartera (solo el DNI es inútil)
+😈 Secuestrador: /me deja el teléfono y la cartera
+😈 Secuestrador: "El teléfono no me lo puedo llevar, pero el dinero sí"
 😈 Secuestrador: /me revisa la cintura buscando armas
 😈 Secuestrador: /do ¿Porta algún arma?
 
@@ -121,9 +177,10 @@ Durante secuestros, robos o conflictos, los **criminales PUEDEN cachear** a sus 
 
 👤 Empleado: /do Lleva una radio de trabajo, celular personal y $200
 
-😈 Ladrón 2: /me toma la radio y la rompe contra el suelo
-😈 Ladrón 2: /me guarda el celular
-😈 Ladrón 2: "El celular nos lo llevamos, no queremos rastreos"
+😈 Ladrón 2: /me revisa el dinero
+😈 Ladrón 2: /me guarda el efectivo en su bolsillo
+😈 Ladrón 2: "Solo me llevo el dinero, lo demás no se puede"
+😈 Ladrón 2: /me deja la radio y el celular en su lugar
 😈 Ladrón 2: /me revisa si porta armas
 😈 Ladrón 2: /do ¿Tiene algún arma?
 
@@ -144,18 +201,14 @@ Durante secuestros, robos o conflictos, los **criminales PUEDEN cachear** a sus 
 😠 Banda B: /do Lleva una AK-47, una Desert Eagle y 3 cargadores
 
 😈 Banda A: /me toma las armas y los cargadores
-😈 Banda A: /me revisa si lleva radio o teléfono
-😈 Banda A: /do ¿Tiene comunicación?
+😈 Banda A: "Te quedas sin armamento"
+😈 Banda A: /do ¿Porta dinero o comida?
 
-😠 Banda B: /do Lleva una radio en el cinturón
+😠 Banda B: /do Lleva $1500, comida y una radio
 
-😈 Banda A: /me destruye la radio pisándola
-😈 Banda A: "Sin armas ni comunicación, ahora hablamos"
-😈 Banda A: /do ¿Porta drogas o dinero?
-
-😠 Banda B: /do Lleva $1500 y 10 bolsas de coca
-
-😈 Banda A: /me toma el dinero y las drogas
+😈 Banda A: /me toma el dinero y la comida
+😈 Banda A: /me deja la radio en su cinturón
+😈 Banda A: "Me llevo el dinero, la radio no se toca"
 😈 Banda A: "Esto es por meterte en nuestro territorio"
 ```
 
@@ -175,17 +228,86 @@ Durante secuestros, robos o conflictos, los **criminales PUEDEN cachear** a sus 
 
 😰 Víctima: /do Hay $2,500
 
-😈 Secuestrador: /me toma el dinero y tira la cartera
-😈 Secuestrador: /me deja el laptop (no sirve para nada)
+😈 Secuestrador: /me toma el dinero y deja la cartera
+😈 Secuestrador: /me deja el laptop (no se puede robar)
 😈 Secuestrador: /me ahora cachea el cuerpo de la víctima
 😈 Secuestrador: /me palpa los bolsillos y la cintura
 😈 Secuestrador: /do ¿Lleva algo más encima?
 
-😰 Víctima: /do Tiene un teléfono y una radio
+😰 Víctima: /do Tiene un teléfono, una radio y comida
 
-😈 Secuestrador: /me toma ambos dispositivos
-😈 Secuestrador: /me los arroja al río cercano
-😈 Secuestrador: "Ya estás oficialmente aislado"
+😈 Secuestrador: /me toma solo la comida
+😈 Secuestrador: /me deja el teléfono y la radio
+😈 Secuestrador: "Items personales no se tocan, solo comida y dinero"
+```
+
+***
+
+### ✅ Ejemplo 5: Cacheo en Zona Roja (Banda vs LSPD)
+
+```
+😈 Criminal: /me reduce al oficial de LSPD en Zona Roja
+😈 Criminal: /me comienza a cachear al oficial
+😈 Criminal: /do ¿Qué armas porta?
+
+👮 LSPD: /do Lleva una pistola Glock 17, una carabina M4 y un chaleco antibalas
+
+😈 Criminal: /me ignora la pistola (calibre bajo)
+😈 Criminal: /me toma la carabina M4 y el chaleco
+😈 Criminal: "Tu pistola no me interesa, pero la carabina sí"
+😈 Criminal: /me revisa la munición
+😈 Criminal: /do ¿Cuántos cargadores tiene para la carabina?
+
+👮 LSPD: /do Tiene 3 cargadores de M4
+
+😈 Criminal: /me toma los cargadores de la carabina
+😈 Criminal: /me palpa los bolsillos del oficial
+😈 Criminal: /do ¿Porta algo más?
+
+👮 LSPD: /do Lleva $500, un celular, una radio y comida
+
+😈 Criminal: /me deja todo en sus bolsillos
+😈 Criminal: "En Zona Roja solo armas pesadas, nada más"
+😈 Criminal: /me se retira solo con la carabina, chaleco y munición
+
+{% hint style="info" %}
+**Nota:** El criminal respeta las reglas de ZR:
+- ✅ Toma arma de calibre medio (carabina M4), chaleco y munición
+- ❌ Deja pistola (calibre bajo)
+- ❌ Deja dinero, comida, celular y radio (prohibidos en ZR)
+{% endhint %}
+```
+
+***
+
+### ✅ Ejemplo 6: Cacheo a Víctima Muerta (Zona Normal)
+
+```
+😈 Criminal: /me se acerca al cuerpo caído
+😈 Criminal: /me comienza a revisar al caído
+😈 Criminal: /me revisa los bolsillos del cuerpo
+😈 Criminal: /do ¿Qué porta el cuerpo?
+
+💀 Muerto: /do Lleva una AK-47, $3,000 en efectivo, un celular, drogas y chaleco
+
+😈 Criminal: /me toma el arma y el dinero
+😈 Criminal: /me toma el chaleco antibalas
+😈 Criminal: /me revisa la munición
+😈 Criminal: /do ¿Cuántos cargadores tiene?
+
+💀 Muerto: /do Tiene 4 cargadores de AK-47
+
+😈 Criminal: /me toma los cargadores
+😈 Criminal: /me deja el celular
+😈 Criminal: "Solo me llevo lo permitido: armas, dinero y chaleco"
+😈 Criminal: /me se retira rápidamente
+
+{% hint style="success" %}
+**Nota:** Las mismas reglas aplican con víctimas muertas:
+- ✅ Toma: Armas, dinero, chaleco y munición (permitido)
+- ❌ Deja: Celular (items prohibidos)
+- 📝 Usa /me y /do correctamente incluso con cuerpos
+{% endhint %}
 ```
 
 ***
@@ -241,129 +363,53 @@ Criminal: "Estás limpio"
 
 ***
 
-### ❌ ERROR 4: No Rolear el Uso de lo Robado
+### ❌ ERROR 4: No Respetar Items Prohibidos
 
 ```
 ❌ MAL:
-/me toma el teléfono
-[Simplemente lo desapareces sin más RP]
+/me cachea al sujeto
+/me toma el teléfono y la radio
 
 ✅ BIEN:
-/me toma el teléfono
-/me lo arroja al suelo y lo pisa
-"No queremos que llames a nadie"
+/me cachea al sujeto
+/me revisa sus pertenencias
+/me deja el teléfono y la radio
+"Solo me llevo lo permitido: dinero, armas y comida"
 ```
 
 ***
 
 ## 📊 Tabla de Qué Hacer con lo Robado
 
+{% hint style="info" %}
+**Esta tabla aplica tanto a víctimas vivas como muertas**
+{% endhint %}
+
 | Objeto Robado | Qué Hacer | Ejemplo de /me |
 |---------------|-----------|----------------|
-| 📱 **Teléfono** | Destruir o tirar lejos | `/me arroja el celular al río` |
-| 📻 **Radio** | Destruir | `/me pisa la radio hasta romperla` |
-| 💰 **Dinero** | Guardar como botín | `/me guarda el efectivo en su mochila` |
+| � **Dinero** | Guardar como botín | `/me guarda el efectivo en su mochila` |
+| 🍔 **Comida** | Guardar para consumo | `/me toma la comida y la guarda` |
 | 🔫 **Armas** | Guardar o tirar | `/me se queda el arma` o `/me la arroja lejos` |
-| 🔑 **Llaves** | Guardar | `/me guarda las llaves en su bolsillo` |
-| 🎒 **Mochila** | Revisar y tomar útil | `/me revisa la mochila y toma lo de valor` |
-
-***
-
-## 👮 ¿Y si Soy LSPD?
-
-### Diferencias LSPD vs Criminal
-
-| | 😈 Criminal | 👮 LSPD |
-|-|-------------|---------|
-| **¿Puede tomar dinero?** | ✅ Sí, es botín | ❌ NO, es corrupción |
-| **¿Puede tomar teléfono?** | ✅ Sí | ❌ Solo con orden judicial |
-| **¿Puede tomar armas ilegales?** | ✅ Sí | ✅ Sí, debe incautar |
-| **¿Puede tomar drogas?** | ✅ Sí, botín | ✅ Sí, evidencia |
-| **¿Puede revisar mochila?** | ✅ Sí en secuestro | ❌ Solo con cateo |
-| **¿Puede destruir objetos?** | ✅ Sí | ❌ Debe registrar evidencia |
+| 🛡️ **Chaleco** | Guardar como botín | `/me toma el chaleco antibalas` |
+| 🎯 **Munición** | Guardar | `/me guarda los cargadores en su bolsillo` |
 
 {% hint style="danger" %}
-**LSPD:** Si robas dinero o teléfonos legales = Sanción de 7 días + Remoción de WL
+**❌ PROHIBIDO ROBAR:**
+- 📱 Celular/Teléfono
+- 📻 Radio
+- 🔑 Llaves
+- 💳 Tarjetas
+- 🎒 Mochila
+
+**Sanción:** Warn + void del rol si robas items prohibidos
 {% endhint %}
 
-{% hint style="info" %}
-**📋 Para LSPD:** Si necesitas información sobre **Control Vehicular y Cacheo de Autos**, consulta el documento específico:
-➡️ [🚔 Control Vehicular y Cacheo de Auto (LSPD)](control-vehicular-lspd.md)
+{% hint style="warning" %}
+**🔴 Zona Roja - Restricción adicional:**
+En Zona Roja NO se puede robar **dinero ni comida**
+
+✅ Solo: Armas (calibre medio+ si es LSPD), chalecos y munición
 {% endhint %}
-
-***
-
-## ⚖️ Sanciones por Cacheo Delictivo Mal Hecho
-
-| Infracción | Sanción |
-|------------|---------|
-| 🚫 Cachear sin /me (PowerGaming) | 3 días de ban |
-| 🚫 No usar /do | 3 días de ban + void del rol |
-| 🚫 Forzar hallazgos ignorando /do | 5 días de ban |
-| 🚫 Cacheo en menos de 1 minuto | Warn + posible ban |
-| 🚫 Robar ropa sin contexto | Warn + void |
-
-***
-
-## 💡 Consejos para Cacheo Criminal Perfecto
-
-✅ **Siempre usa esta estructura:**
-```
-/me [acción física]
-/do [pregunta sobre hallazgo]
-[Espera respuesta]
-/me [qué haces con lo encontrado]
-```
-
-✅ **Tómate tu tiempo:**
-- Mínimo 2-3 minutos de roleplay
-- Describe cada zona que revisas
-- Hazlo realista y creíble
-
-✅ **Sé específico:**
-- "Revisa los bolsillos" ❌
-- "Palpa el bolsillo delantero derecho del pantalón" ✅
-
-✅ **Usa diálogos:**
-- "¿Traes algo peligroso?"
-- "Dame tu celular, ¡ya!"
-- "Bien, no portas armas"
-
-***
-
-## ❓ Preguntas Frecuentes - Cacheo Criminal
-
-**¿Puedo robar TODO en un secuestro?**
-✅ Sí, TODO lo que porte la víctima si lo roleas bien
-
-**¿Cuánto tiempo debo tardar?**
-⏱️ Mínimo 2 minutos, máximo 5 minutos IC
-
-**¿Puedo cachear en Zona Segura?**
-❌ No, está completamente prohibido hacer cacheos criminales en ZS
-
-**¿Puedo matar si no coopera en el cacheo?**
-⚠️ Sí, pero debe haber roleplay previo de amenaza. No instantáneo
-
-**¿Debo devolver algo?**
-❌ No, en cacheo criminal no hay obligación de devolver nada
-
-**¿Qué pasa si la víctima miente en el /do?**
-📝 Reporta con `/report` después del rol con evidencia
-
-**¿Puedo revisar el auto también?**
-✅ Sí, si está presente y es parte del secuestro/robo
-
-***
-
-## 📚 Documentos Relacionados
-
-* [🔫 Robos en Fase](robos-en-fase.md) - Cómo hacer robos completos
-* [👨‍🦱 Rehenes Ficticios](rehenes-ficticios.md) - Reglas de rehenes
-* [🚨 Proceso de Negociación](proceso-de-negociacion.md) - Negociar con LSPD
-* [🎭 Conceptos de Rol](conceptos-de-rol.md) - PG, MG y otros conceptos
-* [🏠 Comandos para Cateos](comandos-para-cateos.md) - Diferencias con cateo
-* [🚔 Control Vehicular y Cacheo de Auto (LSPD)](control-vehicular-lspd.md) - Procedimiento LSPD
 
 ***
 
@@ -371,7 +417,13 @@ Criminal: "Estás limpio"
 
 ### 🎯 Recuerda la Regla Principal
 
-**TODO se puede robar en cacheo criminal si usas /me + /do correctamente**
+**SOLO se puede robar:** Armas, dinero, comida, chalecos y balas
+
+**❌ PROHIBIDO:** Celular, radio, llaves, tarjetas
+
+**Zona Roja:** Solo armas, chalecos y balas (NO dinero/comida)
+
+**💀 Aplica igual a víctimas VIVAS y MUERTAS**
 
 Roleplay de calidad = Sin sanciones + Historias épicas
 
