@@ -16,109 +16,119 @@ coverHeight: 446
 
 ***
 
-## � Documentación del Servidor
+## 📖 Documentación del Servidor
 
-### 🎯 Documentos Esenciales
+<details>
+<summary><strong>📌 Importante</strong></summary>
 
-{% content-ref url="general.md" %}
-[general.md](general.md)
-{% endcontent-ref %}
+* [📘 Normativa General](general.md)
+* [👤 Sistema de Whitelist](whitelist.md)
+* [⚠️ Sistema de Sanciones](sistema-de-sanciones.md)
+* [🚫 Toxicidad y Acoso](toxicidad-y-acoso.md)
+* [❌ Prohibiciones Generales](prohibiciones.md)
 
-{% content-ref url="whitelist.md" %}
-[whitelist.md](whitelist.md)
-{% endcontent-ref %}
+</details>
 
-{% content-ref url="sistema-de-sanciones.md" %}
-[sistema-de-sanciones.md](sistema-de-sanciones.md)
-{% endcontent-ref %}
+<details>
+<summary><strong>🎮 Guías de Juego</strong></summary>
 
-{% content-ref url="operacines-y-cambios-de-nombres.md" %}
-[operacines-y-cambios-de-nombres.md](operacines-y-cambios-de-nombres.md)
-{% endcontent-ref %}
+* [⌨️ Comandos del Servidor](comandos.md)
+* [🎭 Conceptos de Rol](conceptos-de-rol.md)
+* [📻 Uso de Radio y Animaciones](uso-de-radio-y-animaciones.md)
+* [🎯 Uso de Sniper](uso-de-sniper.md)
+* [🪪 DNI y Placas](dni-placa.md)
+* [📊 Sistema de Niveles](niveles.md)
 
-{% content-ref url="cambio-de-faccion.md" %}
-[cambio-de-faccion.md](cambio-de-faccion.md)
-{% endcontent-ref %}
+</details>
 
-***
+<details>
+<summary><strong>🗺️ Zonas del Servidor</strong></summary>
 
-### 🎮 Guías de Juego
+* [🟢 Zona Segura](zona-segura.md)
+* [🔴 Zona Roja](zona-roja.md)
+* [🟠 Zona Libre de Conflicto (OD)](zona-libre-de-conflicto-od.md)
 
-{% content-ref url="comandos.md" %}
-[comandos.md](comandos.md)
-{% endcontent-ref %}
+</details>
 
-{% content-ref url="conceptos-de-rol.md" %}
-[conceptos-de-rol.md](conceptos-de-rol.md)
-{% endcontent-ref %}
+<details>
+<summary><strong>👮 LSPD (Policía)</strong></summary>
 
-{% content-ref url="comandos-para-cateos.md" %}
-[comandos-para-cateos.md](comandos-para-cateos.md)
-{% endcontent-ref %}
+* [🚔 Negociaciones y Persecuciones](negociaciones-y-persecuciones.md)
+* [🚁 Helicóptero Institucional](helicoptero-institucional.md)
+* [🧑‍🤝‍🧑 Interacción Ciudadana](interaccion-ciudadana.md)
+* [👮 Deberes del Ciudadano](deberes-del-ciudadano..md)
+* [⛔ Corrupción](corrupcion.md)
+* [📹 Uso y Destrucción de Bodycam](uso-y-destruccion-de-bodycam.md)
+* [🚦 Sistema Defcon](defcon.md)
+* [📑 Disposición Final](disposicion-final.md)
+* [🔫 Licencia de Armas](licencia-de-armas.md)
+* [📋 Requisitos de Postulación](requisitos-postulacion.md)
+* [🚪 Ingreso de OD a Zonas Rojas](ingreso-de-od-a-zonas-rojas-zr.md)
+* [🏠 Comandos para Cateos](comandos-para-cateos.md)
+* [🔍 Sistema de Cacheo](cacheo.md)
 
-{% content-ref url="uso-de-radio-y-animaciones.md" %}
-[uso-de-radio-y-animaciones.md](uso-de-radio-y-animaciones.md)
-{% endcontent-ref %}
+</details>
 
-{% content-ref url="uso-de-sniper.md" %}
-[uso-de-sniper.md](uso-de-sniper.md)
-{% endcontent-ref %}
+<details>
+<summary><strong>🚑 EMS (Servicios Médicos)</strong></summary>
 
-***
+* [🩺 EMS General](ems-general.md)
+* [👨‍⚕️ Normativa IC](normativa-ic.md)
+* [⚕️ Personal Médico](personal-medico.md)
+* [🚑 Salida a Terreno](salida-a-terreno.md)
 
-### ⚖️ Normas de Conducta
+</details>
 
-{% content-ref url="toxicidad-y-acoso.md" %}
-[toxicidad-y-acoso.md](toxicidad-y-acoso.md)
-{% endcontent-ref %}
+<details>
+<summary><strong>💀 Sistema Delictual</strong></summary>
 
-{% content-ref url="roles-sensibles.md" %}
-[roles-sensibles.md](roles-sensibles.md)
-{% endcontent-ref %}
+* [💀 Sistema Delictual](delictual.md)
+* [🔫 Robos en Fase](robos-en-fase.md)
+* [📜 Vacíos Legales](vacios-legales.md)
+* [👕 Vestimenta en Robos](vestimas-en-robos.md)
+* [👮 Consideraciones al Iniciar un Robo](consideracion-al-iniciar-un-robo.md)
+* [🚨 Proceso de Negociación](proceso-de-negociacion.md)
+* [👨‍🦱 Rehenes Ficticios](rehenes-ficticios.md)
+* [📋 Condiciones Generales para Actos Delictuales](condiciones-generales-para-actos-delictuales.md)
 
-{% content-ref url="prohibiciones.md" %}
-[prohibiciones.md](prohibiciones.md)
-{% endcontent-ref %}
+</details>
 
-***
+<details>
+<summary><strong>✈️ Aviación</strong></summary>
 
-### 🗺️ Zonas del Servidor
+* [🪪 Cómo Obtener Licencia de Vuelo](como-obtener-licencia-de-vuelo.md)
+* [🛬 Dónde Aterrizar](donde-aterrizar.md)
 
-{% content-ref url="zona-segura.md" %}
-[zona-segura.md](zona-segura.md)
-{% endcontent-ref %}
+</details>
 
-{% content-ref url="zona-roja.md" %}
-[zona-roja.md](zona-roja.md)
-{% endcontent-ref %}
+<details>
+<summary><strong>👥 Organizaciones y Roles</strong></summary>
 
-***
+* [👔 Civiles y Organizaciones](civiles-y-organizaciones.md)
+* [🎭 Roles Sensibles](roles-sensibles.md)
+* [🔄 Cambio de Facción](cambio-de-faccion.md)
+* [✏️ Operaciones y Cambios de Nombres](operacines-y-cambios-de-nombres.md)
 
-### 💼 Sistema Legal y Criminal
+</details>
 
-{% content-ref url="vacios-legales.md" %}
-[vacios-legales.md](vacios-legales.md)
-{% endcontent-ref %}
+<details>
+<summary><strong>🏢 Economía y Propiedades</strong></summary>
 
-{% content-ref url="delictual.md" %}
-[delictual.md](delictual.md)
-{% endcontent-ref %}
+* [💸 Donaciones](donaciones.md)
+* [🏢 Locales](locales.md)
+* [🏨 Descripción de Locales](descripcion-de-locales.md)
+* [🏘️ Propiedades](propiedades.md)
 
-{% content-ref url="robos-en-fase.md" %}
-[robos-en-fase.md](robos-en-fase.md)
-{% endcontent-ref %}
+</details>
 
-{% content-ref url="dni-placa.md" %}
-[dni-placa.md](dni-placa.md)
-{% endcontent-ref %}
+<details>
+<summary><strong>🔒 Privacidad y Legal</strong></summary>
 
-***
+* [🎥 Creadores de Contenido](creadores-de-contenido.md)
+* [🖊️ Términos y Condiciones](terminos-y-condiciones.md)
+* [📓 Derechos de Autor](derechos-de-autor.md)
 
-### 👥 Civiles y Organizaciones
-
-{% content-ref url="civiles-y-organizaciones.md" %}
-[civiles-y-organizaciones.md](civiles-y-organizaciones.md)
-{% endcontent-ref %}
+</details>
 
 ***
 
@@ -127,4 +137,3 @@ coverHeight: 446
 ### 💫 ¡Bienvenido a Deskisiados RP! 💫
 
 </div>
-

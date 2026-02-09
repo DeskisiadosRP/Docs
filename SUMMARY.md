@@ -39,6 +39,7 @@
 * [📋 Requisitos de Postulación](requisitos-postulacion.md)
 * [🚪 Ingreso de OD a Zonas Rojas](ingreso-de-od-a-zonas-rojas-zr.md)
 * [🏠 Comandos para Cateos](comandos-para-cateos.md)
+* [🔍 Sistema de Cacheo](cacheo.md)
 
 ## 🚑 EMS (Servicios Médicos)
 
