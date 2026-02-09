@@ -1,6 +1,1049 @@
 # 📋 Conceptos de Rol
 
-En caso de utilizar vacíos legales encontrados en normativa, se procederá a aplicar la sanción correspondiente.
+## 🎓 Guía Completa de Términos y Definiciones
+
+***
+
+{% hint style="danger" %}
+**Advertencia:** El uso de vacíos legales encontrados en la normativa con el fin de evadir sanciones resultará en la aplicación inmediata de la sanción correspondiente.
+{% endhint %}
+
+***
+
+## 📚 Índice de Conceptos
+
+Este documento contiene todos los términos esenciales que debes conocer para un roleplay de calidad en Deskisiados RP.
+
+| Categoría | Conceptos |
+|-----------|-----------|
+| **🎭 Básicos** | IC, OOC, RDE, RDI |
+| **❌ Prohibidos** | PG, PG2, MG, MG2, NRE, NRC |
+| **⚔️ Combate** | PK, PKT, CK, RK, HK, MK, DM, VDM, TK |
+| **🚗 Vehículos** | BD, NCD, DB, CJ |
+| **👤 Comportamiento** | Fair Play, Fear Play, BJ, ZZ, VV |
+| **⚙️ Mecánicas** | AA, AA2, NRH, AFK |
+
+***
+
+## 🎭 Conceptos Básicos
+
+### 1️⃣ IN CHARACTER (IC)
+
+{% hint style="success" %}
+**Todo lo que ocurre dentro del mundo del juego** - La vida de tu personaje
+{% endhint %}
+
+#### 📖 Definición
+
+El término **In Character (IC)** hace referencia a todo lo que ocurre dentro del mundo del juego. Es la vida, historia y acciones de tu personaje dentro del universo de roleplay.
+
+#### ✅ Reglas Fundamentales
+
+* ✏️ Respeta el Rol de Interpretación (RDI) de cada jugador
+* 🎯 Mantén las acciones dentro de los límites del IC
+* 🚫 **Prohibido** transferir información OOC a IC
+* 📖 Toda conversación y decisión debe ser coherente con tu personaje
+
+***
+
+### 2️⃣ OUT OF CHARACTER (OOC)
+
+{% hint style="info" %}
+**Todo lo que ocurre fuera del rol** - Tú como jugador real
+{% endhint %}
+
+#### 📖 Definición
+
+El término **Out of Character (OOC)** hace referencia a todo lo que ocurre fuera del rol y la vida de tu personaje. Es el espacio donde los jugadores se comunican como personas reales.
+
+#### ⚠️ Restricciones Importantes
+
+* 🚫 NO proporciones información OOC dentro del juego
+* 🔒 NO compartas información privada de otros jugadores
+* ⚖️ Mantén separación clara entre OOC e IC
+* 🤝 Usa OOC solo para aspectos administrativos o técnicos
+
+***
+
+### 3️⃣ ROL DE ENTORNO (RDE) 🔴 L/M/G
+
+{% hint style="info" %}
+**Interpretación del mundo que rodea a tu personaje**
+{% endhint %}
+
+#### 📖 Definición
+
+El **Rol de Entorno (RDE)** se refiere a la interpretación de todo lo que rodea a tu personaje: ambiente, vehículos, edificaciones, clima y cualquier detalle del escenario.
+
+#### 💡 Elementos a Considerar
+
+| Elemento | Descripción |
+|----------|-------------|
+| **🚗 Vehículos** | Reaccionar a autos en movimiento |
+| **🏢 Edificios** | Respetar estructuras y obstáculos |
+| **🌦️ Clima** | Actuar según condiciones climáticas |
+| **👥 NPCs** | Considerar civiles y población |
+
+#### ✅ Ejemplo Correcto
+
+```
+Si hay vehículos en movimiento, debes esquivarlos y reaccionar 
+adecuadamente, no atravesarlos como si no existieran.
+```
+
+***
+
+### 4️⃣ ROL DE INTERPRETACIÓN (RDI) 🔴 L/M/G
+
+{% hint style="success" %}
+**La forma en que desarrollas y representas a tu personaje**
+{% endhint %}
+
+#### 📖 Definición
+
+El **Rol de Interpretación (RDI)** es la forma en que desarrollas tu personaje: personalidad, historia, motivaciones e interacciones.
+
+#### 🎯 Elementos Clave
+
+* **🗣️ Lenguaje y acento** - Coherente con su origen
+* **👔 Vestimenta** - Acorde a su posición social
+* **🎭 Personalidad** - Consistente con su historia
+* **🧠 Motivaciones** - Lógicas y bien fundamentadas
+
+#### 💡 Ejemplo
+
+{% hint style="success" %}
+Un personaje de origen ruso debería reflejar su cultura en lenguaje, acento y expresiones. Un personaje humilde no actuaría como alta sociedad sin justificación.
+{% endhint %}
+
+***
+
+## ❌ Conceptos Prohibidos
+
+### 5️⃣ NULO ROL DE ENTORNO (NRE) 🔴 L/M/G
+
+{% hint style="danger" %}
+**Falta de consideración por elementos del entorno**
+{% endhint %}
+
+#### ❌ Ejemplos de NRE
+
+* Conducir a máxima velocidad ignorando semáforos
+* Atravesar zonas peligrosas sin precaución
+* Ignorar tráfico y peatones
+* No reaccionar ante obstáculos evidentes
+
+***
+
+### 6️⃣ NULO ROL DE CHOQUE (NRC) 🔴 L/M/G
+
+{% hint style="danger" %}
+**Falta de interpretación realista ante accidentes vehiculares**
+{% endhint %}
+
+#### 📖 Definición
+
+Ocurre cuando chocas y sigues tu camino sin reaccionar o rolear las consecuencias del impacto.
+
+{% hint style="warning" %}
+**Prohibido:** Usar "/me se soba" o similares como rol de choque. Debe ser realista y detallado.
+{% endhint %}
+
+***
+
+### 7️⃣ POWERGAMING (PG) 🔴 L/M/G
+
+{% hint style="danger" %}
+**Acciones irreales o ilógicas que no podrías hacer en la vida real**
+{% endhint %}
+
+#### ❌ Ejemplos de PowerGaming
+
+* 🏃 Correr después de recibir 10 disparos
+* 💪 Cargar objetos imposibles sin ayuda
+* 🦸 Realizar acrobacias sobrehumanas
+* 🧠 Saber información sin haberla obtenido IC
+
+{% hint style="warning" %}
+**Sanción:** El abuso de PG deriva en sanciones administrativas según gravedad.
+{% endhint %}
+
+***
+
+### 8️⃣ POWERGAMING 2 (PG2) 🔴 L/M/G
+
+{% hint style="danger" %}
+**Forzar, evitar o manipular el rol para obtener beneficios injustos**
+{% endhint %}
+
+#### ❌ Ejemplos Comunes
+
+| Acción | Descripción |
+|--------|-------------|
+| **F8 Quit** | Salir del juego para evitar consecuencias |
+| **Teletransporte** | Usar bugs para escapar |
+| **Logout** | Desconectarse en medio de un rol |
+| **Inventario infinito** | Guardar items imposibles |
+
+{% hint style="danger" %}
+**Importante:** PG2 afecta la calidad del rol y genera experiencia injusta. Respeta el desarrollo natural de cada situación.
+{% endhint %}
+
+***
+
+### 9️⃣ METAGAMING (MG) 🔴 L/M/G
+
+{% hint style="danger" %}
+**Trasladar información OOC → IC para obtener ventajas**
+{% endhint %}
+
+#### 📖 Definición
+
+El **Metagaming (MG)** es usar información obtenida fuera del juego (Discord, streams, etc.) para beneficiar a tu personaje dentro del rol.
+
+#### ❌ Ejemplos de Metagaming
+
+* 📺 Ver stream y usar esa información IC
+* 💬 Leer Discord y actuar según eso en el juego
+* 🎮 Usar información de otro personaje tuyo
+* 👂 Escuchar conversaciones OOC y aplicarlas IC
+
+{% hint style="danger" %}
+**Sanción:** El MG está estrictamente prohibido. Puede resultar en baneo según gravedad.
+{% endhint %}
+
+***
+
+### 🔟 METAGAMING 2 (MG2) 🔴 L/M/G
+
+{% hint style="danger" %}
+**Trasladar información IC → OOC**
+{% endhint %}
+
+#### ❌ Ejemplos
+
+* Contar en Discord lo que pasó IC
+* Compartir ubicaciones de otros jugadores
+* Revelar planes de organizaciones
+* Filtrar información sensible del rol
+
+{% hint style="danger" %}
+**Sanción:** Puede resultar en **PERMABAN** por afectar gravemente la experiencia de juego.
+{% endhint %}
+
+***
+
+## ⚔️ Conceptos de Combate y Muerte
+
+### 1️⃣1️⃣ REVENGE KILL (RK) 🔴 L/M/G
+
+{% hint style="danger" %}
+**Buscar venganza después de haber sido abatido**
+{% endhint %}
+
+Ignorar las consecuencias de un PK y vengarte del asesino. Tu personaje **no debe recordar** quién lo mató.
+
+***
+
+### 1️⃣2️⃣ HELICOPTER KILL (HK) 🔴 L/M/G
+
+{% hint style="danger" %}
+**Usar aspas de helicóptero como arma**
+{% endhint %}
+
+Utilizar las aspas del helicóptero para matar intencionalmente. **Práctica prohibida** por ser antirrealista.
+
+***
+
+### 1️⃣3️⃣ METAKILL (MK) 🔴 L/M/G
+
+{% hint style="danger" %}
+**Matar basándose en conflictos OOC**
+{% endhint %}
+
+Abatir a alguien sin rol previo válido, usando información o sentimientos de OOC para justificar la muerte IC.
+
+{% hint style="warning" %}
+**Sanción Grave:** Puede resultar en **baneo permanente** según la situación.
+{% endhint %}
+
+***
+
+### 1️⃣4️⃣ PLAYER KILL (PK) 🔴 L/M/G
+
+{% hint style="info" %}
+**Pérdida de memoria temporal (últimos 30 minutos)**
+{% endhint %}
+
+#### 📖 Definición
+
+El **Player Kill (PK)** es la pérdida de memoria temporal de los últimos **30 minutos** antes de ser abatido.
+
+#### 🧠 ¿Qué Olvidas con PK?
+
+{% tabs %}
+{% tab title="❌ Eventos" %}
+No recuerdas:
+* Cómo llegaste al lugar
+* Quién estuvo involucrado
+* Qué ocurrió antes de quedar inconsciente
+* Detalles de la confrontación
+{% endtab %}
+
+{% tab title="❌ Vestimenta" %}
+No recuerdas:
+* Ropa de los atacantes
+* Colores o detalles específicos
+* Características físicas
+* Accesorios o marcas distintivas
+{% endtab %}
+
+{% tab title="❌ Vehículo" %}
+No recuerdas:
+* Marca y modelo del vehículo
+* Color o placas
+* Características especiales
+* Dirección de huida
+{% endtab %}
+{% endtabs %}
+
+#### 🚫 Regla Importante
+
+{% hint style="danger" %}
+**NO puedes regresar** al lugar donde fuiste abatido. Hacerlo se considera **Revenge Kill (RK)**.
+{% endhint %}
+
+***
+
+### 1️⃣5️⃣ PLAYER KILL TOTAL (PKT) 🔴 L/M/G
+
+{% hint style="warning" %}
+**Pérdida de memoria total - Solo recuerdas datos básicos**
+{% endhint %}
+
+#### 📖 Definición
+
+El **Player Kill Total (PKT)** es la pérdida de memoria completa, recordando solo datos básicos de identidad.
+
+<details>
+<summary>✅ ¿Qué SÍ Recuerdas?</summary>
+
+* 🆔 Tu nombre
+* 📅 Tu edad  
+* 👨‍👩‍👧 Nombres de tus padres (si están en tu historia)
+
+</details>
+
+<details>
+<summary>❌ ¿Qué Olvidas?</summary>
+
+* 👥 Relaciones con amigos y familiares
+* 📖 Tu historia de vida completa
+* 🏴 Afiliación a grupos o facciones
+* 🎓 Conocimientos y habilidades adquiridas
+* 💼 Trabajos y ocupaciones previas
+* 🗺️ Ubicaciones y lugares conocidos
+
+</details>
+
+#### 💡 Sugerencias para Rolear PKT
+
+{% hint style="success" %}
+* Interpreta la amnesia de forma realista
+* Muestra confusión y desorientación
+* No selecciones qué recordar - la pérdida es completa
+* Construye tu personaje desde cero
+{% endhint %}
+
+{% hint style="danger" %}
+**Importante:** El mal uso del PKT puede resultar en sanciones administrativas.
+{% endhint %}
+
+***
+
+### 1️⃣6️⃣ CHARACTER KILL (CK)
+
+{% hint style="danger" %}
+**Muerte definitiva del personaje - Debe crear uno nuevo completamente diferente**
+{% endhint %}
+
+#### 📖 Definición
+
+El **Character Kill (CK)** es la muerte **definitiva y permanente** de tu personaje. Debes crear un personaje completamente nuevo con historia, relaciones y identidad diferentes.
+
+#### 📋 Tipos de CK
+
+{% tabs %}
+{% tab title="✅ Voluntario" %}
+## CK Voluntario
+
+Cuando decides finalizar la historia de tu personaje por decisión propia.
+
+### 📝 Procedimiento:
+
+1. 🎫 Abrir ticket en [Discord](https://discord.gg/8mSvJfNG)
+2. 📄 Explicar motivo del CK
+3. 🎥 Adjuntar clip del rol final
+4. ✅ Esperar aprobación administrativa
+5. 🆕 Crear nuevo personaje
+
+{% hint style="info" %}
+El staff evaluará que el CK tenga sentido narrativo antes de aprobarlo.
+{% endhint %}
+{% endtab %}
+
+{% tab title="⚖️ Administrativo" %}
+## CK Administrativo
+
+La administración puede aplicar CK por incumplimiento reiterado de normativa.
+
+### ⚠️ Causas:
+
+* Múltiples sanciones graves
+* Comportamiento que afecta la comunidad
+* Falta de compromiso con las reglas
+* Casos extremos de toxicidad
+
+{% hint style="danger" %}
+Esta es una medida extrema aplicada solo en casos graves.
+{% endhint %}
+{% endtab %}
+
+{% tab title="🚔 Policial" %}
+## CK Policial
+
+### 💀 CK a Organizaciones Delictivas (OD)
+
+#### Condiciones:
+* Incumplimientos graves de normativa
+* Investigación completa (fotos, videos, interrogatorios)
+* Desmantelación formal con autorización administrativa
+
+#### Procedimiento:
+1. Notificación a la OD por administración/jefatura
+2. Rol de defensa de HQ supervisado por staff
+3. Condiciones justas para ambos bandos
+
+#### Resultados:
+* 🔴 **OD PIERDE:** CK colectivo a todos los miembros
+* 🟢 **OD GANA:** LSPD tiene 1 semana para localizar miembros o se elimina investigación
+
+### 👮 CK a Civiles
+
+#### Condición:
+* Multas superiores a **$450,000**
+
+#### Procedimiento:
+1. Verificar en sistema ORIGEN
+2. Retener al individuo
+3. Informar a mandos
+4. Dar 24 horas para pagar
+5. Si no paga: Búsqueda y captura
+6. Traslado y rol de cadena perpetua (CK)
+
+{% hint style="warning" %}
+Este CK representa encarcelamiento de por vida por deudas extremas.
+{% endhint %}
+{% endtab %}
+
+{% tab title="💀 Por OD" %}
+## CK entre Organizaciones
+
+Las ODs pueden solicitar CK a miembros por:
+
+### 📋 Motivos Válidos:
+* 🕵️ Traición o filtración de información
+* 🚪 Expulsión (voluntaria u orden directa)
+* ⚔️ Ajuste de cuentas con otra OD
+
+### 📝 Proceso:
+1. Abrir ticket con pruebas
+2. Administración evalúa el caso
+3. Aprobación o rechazo del CK
+4. Ejecución del rol si se aprueba
+
+{% hint style="info" %}
+Todas las solicitudes requieren evidencia sólida y aprobación administrativa.
+{% endhint %}
+{% endtab %}
+{% endtabs %}
+
+***
+
+## 🎯 Conceptos de Comportamiento
+
+### 1️⃣7️⃣ FAIR PLAY 🔴 L/M/G
+
+{% hint style="success" %}
+**Juego limpio - No competir por "ganar" el rol**
+{% endhint %}
+
+#### 📖 Definición
+
+En el servidor se rechaza completamente la actitud competitiva o intención de "ganar" un rol. Prima la interpretación y desarrollo narrativo sobre la superioridad.
+
+#### ✅ Buenas Prácticas
+
+* 🤝 Colabora con otros jugadores
+* 📖 Desarrolla historias, no compitas
+* ⚖️ Acepta victorias y derrotas
+* 🎭 Prioriza el roleplay sobre el resultado
+
+***
+
+### 1️⃣8️⃣ FEAR PLAY 🔴 L/M/G
+
+{% hint style="success" %}
+**Interpretación realista del miedo en situaciones de peligro**
+{% endhint %}
+
+#### 📖 Definición
+
+Actuar con miedo real cuando tu personaje enfrenta amenazas o su vida está en riesgo. Ser prudente, temeroso o desesperado según la situación.
+
+#### ✅ Ejemplos Correctos
+
+| Situación | Reacción Esperada |
+|-----------|-------------------|
+| **🔫 Amenaza con arma** | Mostrar miedo, cooperar |
+| **👥 Superioridad numérica** | No actuar como héroe |
+| **🚨 Situación letal** | Valorar tu vida primero |
+| **😰 Interrogatorio** | Nerviosismo, ansiedad |
+
+***
+
+### 1️⃣9️⃣ MODULADOR DE VOZ 🔴 L/M/G
+
+{% hint style="info" %}
+**Permitido solo si es coherente con tu RDI**
+{% endhint %}
+
+#### ✅ Requisitos
+
+* 🎭 Coherencia con tu personaje
+* 🔊 Calidad de audio clara
+* ⏱️ Sin delay perceptible
+* 📢 Comprensible para otros jugadores
+
+#### ❌ Prohibido Si:
+
+* Genera desfase (lag de voz)
+* Distorsiona excesivamente
+* Hace la voz ininteligible
+* No tiene justificación en el RDI
+
+***
+
+### 2️⃣0️⃣ SOBRECARGA DE INVENTARIOS 🔴 L/M/G
+
+{% hint style="danger" %}
+**Portar objetos de manera incoherente con la realidad**
+{% endhint %}
+
+#### ❌ Ejemplos Prohibidos
+
+* 🎒 Llevar 50 armas en los bolsillos
+* 💎 Transportar toneladas de materiales
+* 🏠 Guardar muebles en el inventario
+* 📦 Exceder capacidad física realista
+
+#### ✅ Recomendaciones
+
+* Usa vehículos para transporte pesado
+* Limita items a lo que realmente podrías cargar
+* Considera el peso y volumen
+* Usa almacenes para grandes cantidades
+
+***
+
+### 2️⃣1️⃣ VESTIMENTAS 🔴 L/M/G
+
+{% hint style="danger" %}
+**Prohibido usar uniformes de facciones a las que no perteneces**
+{% endhint %}
+
+#### 🚫 Restricciones
+
+| Facción | Prohibido Si No Eres Miembro |
+|---------|------------------------------|
+| **👮 LSPD** | Uniforme policial |
+| **🔫 Sheriff** | Uniforme sheriff |
+| **🚒 Bomberos** | Uniforme de bomberos |
+| **🏥 EMS** | Uniforme médico |
+| **🕴️ FIB** | Uniforme federal |
+| **💀 ODs** | Colores/vestimenta de bandas |
+
+{% hint style="warning" %}
+**Sanción:** El uso indebido puede resultar en sanciones graves según el contexto.
+{% endhint %}
+
+***
+
+## 🚗 Conceptos Vehiculares
+
+### 2️⃣2️⃣ BAD DRIVING (BD) 🔴 L/M/G
+
+{% hint style="danger" %}
+**Conducción irresponsable o poco realista**
+{% endhint %}
+
+#### ❌ Ejemplos de Bad Driving
+
+* 🏎️ Conducir a 200 km/h en la ciudad sin motivo
+* 🚦 Ignorar todos los semáforos constantemente
+* 🚴 Atropellar peatones deliberadamente
+* 🌀 Derrapar sin control permanentemente
+* 🏔️ Conducir por terrenos imposibles
+
+***
+
+### 2️⃣3️⃣ BUNNY JUMP (BJ) 🔴 L/M/G
+
+{% hint style="danger" %}
+**Saltar repetidamente mientras corres**
+{% endhint %}
+
+#### ❌ Prohibido
+
+Saltar constantemente para moverte más rápido o evadir disparos de manera antirrealista.
+
+{% hint style="warning" %}
+**Sanción:** Esta mecánica está prohibida y puede resultar en sanciones administrativas.
+{% endhint %}
+
+***
+
+### 2️⃣4️⃣ ZIGZAGS (ZZ) 🔴 L/M/G
+
+{% hint style="danger" %}
+**Correr en zigzag para evadir disparos**
+{% endhint %}
+
+#### ❌ Prohibido
+
+Moverte de lado a lado rápidamente de forma irreal para evitar ser alcanzado en tiroteos.
+
+#### ✅ Alternativa Correcta
+
+Usa **coberturas realistas**, corre en línea recta o busca refugio de manera lógica.
+
+***
+
+### 2️⃣5️⃣ DEATHMATCH (DM) 🔴 L/M/G
+
+{% hint style="danger" %}
+**Agredir sin justificación o rol previo**
+{% endhint %}
+
+#### 📖 Definición
+
+Golpear, herir o matar a otro usuario **sin ninguna razón válida** dentro del rol.
+
+#### ❌ Ejemplos de DM
+
+* Matar a alguien porque "te miró mal"
+* Agredir sin historia previa
+* Ataques aleatorios sin contexto
+* Violencia gratuita sin desarrollo
+
+#### ✅ Para Que NO Sea DM
+
+Debe existir:
+* 📖 Contexto claro y desarrollado
+* 🗣️ Rol previo con la víctima
+* ⚖️ Motivos sólidos y coherentes
+* ⏱️ Tiempo de desarrollo de tensión
+
+{% hint style="danger" %}
+**Importante:** El DM arruina la experiencia de otros y es sancionado severamente.
+{% endhint %}
+
+***
+
+### 2️⃣6️⃣ RECONOCIMIENTO DE USUARIOS 🔴 L/M/G
+
+{% hint style="warning" %}
+**Solo puedes reconocer con pruebas claras dentro del rol**
+{% endhint %}
+
+#### ❌ NO Puedes Reconocer Por:
+
+| Elemento | ¿Válido para reconocer? |
+|----------|-------------------------|
+| **🎭 Máscara** | ❌ NO - Oculta identidad |
+| **👕 Vestimenta** | ❌ NO - Puede cambiar fácilmente |
+| **🗣️ Acento** | ❌ NO - Muy genérico |
+| **🚶 Forma de caminar** | ❌ NO - No es distintivo único |
+| **😷 Mascarilla médica** | ⚠️ SÍ - No oculta completamente |
+
+#### ✅ Formas Válidas de Reconocimiento
+
+* 🆔 Documento de identidad
+* 👤 Características físicas únicas reveladas
+* 📸 Fotografía clara en rol
+* 🔍 Investigación policial con pruebas
+* 🗣️ Confesión o revelación voluntaria
+
+{% hint style="info" %}
+**Importante:** Las mascarillas médicas NO equivalen a máscaras completas.
+{% endhint %}
+
+***
+
+### 2️⃣7️⃣ NOMBRE IC 🔴 L/M/G
+
+{% hint style="success" %}
+**Tu nombre debe ser realista y respetuoso**
+{% endhint %}
+
+#### ✅ Requisitos
+
+* 📝 Nombre + Apellido
+* 🌍 Realista y coherente
+* 🤝 Respetuoso con culturas y religiones
+
+#### ❌ Nombres Prohibidos
+
+| Tipo | Ejemplos |
+|------|----------|
+| **🤡 Troll** | Juan Pistola, Pedro Picapiedra |
+| **😈 Ofensivos** | El Diablo, Satán García |
+| **🎮 Personajes** | Naruto Uzumaki, Batman Wayne |
+| **🃏 Ridículos** | Fulanito DeTal, XxProxX |
+
+{% hint style="danger" %}
+**Sanción:** La administración puede solicitar cambio de nombre o aplicar sanciones.
+{% endhint %}
+
+***
+
+### 2️⃣8️⃣ VALORACIÓN DE VIDA 🔴 L/M/G
+
+{% hint style="success" %}
+**Siempre prioriza preservar la vida de tu personaje**
+{% endhint %}
+
+#### 📖 Definición
+
+Tu personaje debe actuar siempre para **preservar su vida**. Es el elemento más valioso para desarrollar historias.
+
+#### ✅ Ejemplos Correctos
+
+| Situación | Acción Correcta |
+|-----------|-----------------|
+| **🔫 Te apuntan con arma** | Cooperar, levantar manos |
+| **👥 Superioridad numérica** | No resistir imprudentemente |
+| **🚗 Bloqueo vehicular** | Detenerte y obedecer |
+| **💣 Amenaza explosiva** | Evacuar, no desafiar |
+
+#### ❌ NO Valorar Vida
+
+* Ignorar amenaza directa con arma
+* Actuar como superhéroe cuando estás en desventaja
+* Desafiar a múltiples enemigos sin apoyo
+* Continuar conduciendo bajo fuego intenso
+
+{% hint style="danger" %}
+**Importante:** No valorar tu vida puede resultar en sanciones por parte del staff.
+{% endhint %}
+
+***
+
+### 2️⃣9️⃣ ABUSO DE MECÁNICAS 🔴 L/M/G
+
+{% hint style="danger" %}
+**Usar mecánicas del juego para obtener ventajas injustas**
+{% endhint %}
+
+#### ❌ Ejemplos de Abuso
+
+* 🏃 Usar animaciones para evitar daño
+* 🔫 Cambiar armas de forma irreal
+* 🧱 Explotar bugs del entorno
+* 🚪 Usar puertas para inmunidad
+
+{% hint style="warning" %}
+**Sanción Grave:** Depende de intencionalidad, frecuencia y consecuencias del abuso.
+{% endhint %}
+
+***
+
+### 3️⃣0️⃣ VEHICLE DEATHMATCH (VDM) 🔴 L/M/G
+
+{% hint style="danger" %}
+**Usar vehículo como arma sin justificación**
+{% endhint %}
+
+#### ❌ Definición
+
+Atropellar o agredir con vehículo sin razón válida o contexto de rol previo.
+
+#### ✅ Excepciones (Con Rol Previo)
+
+* Persecuciones policiales extremas
+* Situaciones de vida o muerte justificadas
+* Defensa propia en contexto desarrollado
+
+{% hint style="danger" %}
+**Sanción:** VDM sin justificación puede resultar en expulsión permanente.
+{% endhint %}
+
+***
+
+### 3️⃣1️⃣ DRIVE-BY (DB) 🔴 L/M/G
+
+{% hint style="warning" %}
+**Disparar desde vehículo en movimiento**
+{% endhint %}
+
+#### ⚠️ Restricción
+
+Solo permitido en **persecuciones** con contexto de rol válido y justificado.
+
+#### ❌ Prohibido
+
+* Disparar aleatoriamente desde vehículos
+* Drive-by sin persecución activa
+* Ataques sorpresa sin rol previo
+
+{% hint style="danger" %}
+**Sanción:** DB injustificado resulta en sanciones severas.
+{% endhint %}
+
+***
+
+### 3️⃣2️⃣ NULO ROL DE HERIDAS (NRH) 🔴 L/M/G
+
+{% hint style="danger" %}
+**No interpretar consecuencias físicas de lesiones**
+{% endhint %}
+
+#### ❌ Ejemplos de NRH
+
+* Recibir múltiples disparos y seguir corriendo
+* Caer de gran altura y levantarse normalmente
+* Accidente grave y continuar como si nada
+* Ser torturado y no mostrar dolor
+
+#### ✅ Rol Correcto de Heridas
+
+* 🩹 Mostrar dolor y limitaciones
+* 🚑 Solicitar atención médica
+* 😰 Actuar debilitado según gravedad
+* ⏰ Respetar tiempos de recuperación
+
+***
+
+### 3️⃣3️⃣ ADMIN ABUSE (AA) 🔴 L/M/G
+
+{% hint style="danger" %}
+**Uso indebido de privilegios administrativos para beneficio personal**
+{% endhint %}
+
+#### ❌ Ejemplos de AA
+
+* Teletransportarse en medio de un rol
+* Darse items o dinero
+* Usar poderes en situaciones IC
+* Favorecer amigos con comandos
+
+{% hint style="danger" %}
+**Sanción Extrema:** Expulsión del equipo staff y posible baneo del servidor.
+{% endhint %}
+
+***
+
+### 3️⃣4️⃣ ABUSO DE ANIMACIONES (AA2) 🔴 L/M/G
+
+{% hint style="danger" %}
+**Usar animaciones para obtener ventajas injustas**
+{% endhint %}
+
+#### ❌ Ejemplos
+
+* Usar animación para evitar ser esposado
+* Animación para esconder armas irrealmente
+* Cancelar animaciones para evadir daño
+* Spam de animaciones en combate
+
+***
+
+### 3️⃣5️⃣ TRASPASO DE BIENES 🔴 L/M/G
+
+{% hint style="info" %}
+**Solo permitido entre usuarios con mismo rango VIP**
+{% endhint %}
+
+#### ✅ Requisitos
+
+* 💎 Ambos usuarios deben tener mismo VIP
+* 🎫 Presentar pruebas mediante ticket
+* ✅ Aprobación administrativa obligatoria
+* 📝 Justificación lógica dentro del rol
+
+#### ❌ Prohibido
+
+{% hint style="danger" %}
+**Rol de herencia:** Simular muerte para transferir bienes está **totalmente prohibido**.
+{% endhint %}
+
+***
+
+### 3️⃣6️⃣ AFK 🔴 L/M/G
+
+{% hint style="warning" %}
+**Más de 5 minutos AFK = Expulsión automática**
+{% endhint %}
+
+Si permaneces inactivo más de 5 minutos, serás desconectado automáticamente para no afectar a otros usuarios. Deberás reingresar.
+
+***
+
+### 3️⃣7️⃣ CRY REPORT 🔴 L/M/G
+
+{% hint style="danger" %}
+**Reportar solo por haber perdido un rol**
+{% endhint %}
+
+#### ❌ Definición
+
+Hacer reportes sin causa válida, solo porque perdiste un enfrentamiento o rol y no estás conforme con el resultado.
+
+#### ✅ Actitud Correcta
+
+* Aceptar victorias y derrotas
+* Reportar solo infracciones reales
+* Ser deportivo con los resultados
+* Aprender de cada experiencia
+
+{% hint style="warning" %}
+**Sanción:** Cry Report puede resultar en sanciones administrativas.
+{% endhint %}
+
+***
+
+### 3️⃣8️⃣ TEAM KILL (TK) 🔴 L/M/G
+
+{% hint style="danger" %}
+**Matar a compañeros de tu propia organización sin justificación**
+{% endhint %}
+
+#### ❌ Definición
+
+Abatir o eliminar a miembros de tu misma facción, banda u organización **sin rol previo** o justificación válida.
+
+#### ✅ Excepciones (Con Rol Previo)
+
+* Traición desarrollada extensamente
+* Conflictos internos roleados
+* Órdenes de liderazgo justificadas
+* Con conocimiento/autorización de administración
+
+{% hint style="danger" %}
+**Sanción:** TK puede resultar en suspensión o expulsión del servidor según gravedad y reincidencia.
+{% endhint %}
+
+***
+
+### 3️⃣9️⃣ NON COMBAT DRIVING (NCD) 🔴 L/M/G
+
+{% hint style="danger" %}
+**Conducir sin mostrar temor en situaciones de peligro extremo**
+{% endhint %}
+
+#### ❌ Ejemplos
+
+* Conducir a 200 km/h mientras te disparan en la cabeza
+* No reaccionar a balaceras mientras manejas
+* Ignorar completamente peligro mortal al volante
+* Mantener velocidad máxima en situación letal
+
+#### ✅ Conducta Correcta
+
+* Reducir velocidad bajo fuego
+* Buscar cobertura o refugio
+* Mostrar pánico o nerviosismo
+* Actuar preservando tu vida
+
+***
+
+### 4️⃣0️⃣ CARJACKED (CJ) 🔴 L/M/G
+
+{% hint style="danger" %}
+**Robar vehículo sin rol previo en zona segura**
+{% endhint %}
+
+#### ❌ Definición
+
+Robar un auto de otro jugador o NPC sin establecer rol previo, especialmente en zonas seguras.
+
+{% hint style="warning" %}
+**Sanción:** Puede resultar en sanciones administrativas según el contexto.
+{% endhint %}
+
+***
+
+### 4️⃣1️⃣ ESTADO DE INCONSCIENCIA 🔴 L/M/G
+
+{% hint style="info" %}
+**Dos fases luego de ser abatido**
+{% endhint %}
+
+<details>
+<summary>📍 FASE 1 - Consciente pero herido</summary>
+
+#### ✅ Puedes:
+* Seguir hablando
+* Responder preguntas
+* Dar información limitada
+* Expresar dolor
+
+#### ❌ Prohibido:
+* 📻 Usar radio
+* 📱 Usar celular
+* 🗣️ Dar información detallada compleja
+* 🏃 Moverte o actuar normalmente
+
+</details>
+
+<details>
+<summary>💀 FASE 2 - Inconciencia completa</summary>
+
+#### Características:
+* Estado de inconsciencia total
+* **No puedes hablar**
+* **No puedes dar información**
+* Comienza tu **PK**
+
+#### ⚠️ Estrictamente Prohibido:
+* Comunicación IC
+* Toxicidad en canales OOC
+* Revelar información de cualquier tipo
+* Interferir con el rol de cualquier manera
+
+</details>
+
+{% hint style="danger" %}
+**Importante:** Cualquier comunicación en FASE 2 o toxicidad OOC resultará en sanciones graves.
+{% endhint %}
+
+***
+
+<div align="center">
+
+## 📚 Resumen Final
+
+Has completado la guía de conceptos de rol. Recuerda:
+
+✅ **Conoce** todos los términos  
+✅ **Respeta** las normas  
+✅ **Valora** tu vida y la de otros  
+✅ **Rolea** con calidad y realismo  
+✅ **Disfruta** la experiencia  
+
+### 🌟 ¡Buen Roleplay! 🌟
+
+</div>
 
 **1- IN CHARACTER (IC):**
 
