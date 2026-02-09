@@ -28,7 +28,7 @@ Al disparar se activar un **campo rojo** que delimita visualmente la zona activa
 
 | Prohibición | Descripción |
 |-------------|-------------|
-| **🏕️ Campear fuera/límites** | Esperar fuera del perímetro con fines delictivos |
+| **🏕️ Campear en/fuera de ZR** | Prohibido campear dentro o fuera del perímetro |
 | **🏢 Disparar desde alturas** | Edificios, casas, muros (excepto terreno natural) |
 | **🎯 Disparos de advertencia** | Disparar al aire para revelar límites de ZR |
 | **↔️ Disparar entre límites** | Desde dentro a fuera o viceversa de la ZR |
