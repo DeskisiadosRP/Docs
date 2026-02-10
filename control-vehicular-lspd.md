@@ -322,7 +322,7 @@
 👮 Oficial: /me abre el maletero
 👮 Oficial: /do ¿Qué hay en el maletero?
 
-🚗 Conductor: /do Hay una mochila con una pistola sin licencia y 10 bolsas de cocaína
+🚗 Conductor: /do Hay una bolsa con una pistola sin licencia y 10 bolsas de cocaína
 
 👮 Oficial: /me encuentra los objetos ilegales
 👮 Oficial: "Queda detenido por portación ilegal de armas y posesión de drogas"
@@ -420,7 +420,7 @@
 
 ## 📚 Documentos Relacionados
 
-* [🔍 Sistema de Cacheo](cacheo.md) - Cacheo delictual y criminal
+* [🔍 Sistema de Cacheo](robos-en-fase.md#sistema-de-cacheo-delictual) - Cacheo delictual y criminal
 * [🏠 Comandos para Cateos](comandos-para-cateos.md) - Cateos con orden judicial
 * [👮 Deberes del Ciudadano](deberes-del-ciudadano..md) - Obligaciones del civil
 * [⛔ Corrupción](corrupcion.md) - Qué NO puede hacer LSPD

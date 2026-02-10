@@ -84,7 +84,7 @@ coverHeight: 446
 
 * [💀 Sistema Delictual](delictual.md)
 * [🔫 Robos en Fase](robos-en-fase.md)
-* [� Sistema de Cacheo Delictual](cacheo.md)
+* [🔍 Sistema de Cacheo Delictual](robos-en-fase.md#sistema-de-cacheo-delictual)
 * [�📜 Vacíos Legales](vacios-legales.md)
 * [👕 Vestimenta en Robos](vestimas-en-robos.md)
 * [👮 Consideraciones al Iniciar un Robo](consideracion-al-iniciar-un-robo.md)
