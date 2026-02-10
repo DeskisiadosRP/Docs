@@ -1,4 +1,4 @@
-# 🩺 EMS ⚕️ General
+# 🩺 EMS General
 
 ¡Bienvenido al Departamento de EMS de Deskisiados Roleplay! 🚑
 
@@ -41,3 +41,22 @@ Importancias al punto número 3
 \- No deberá responder a llamados civiles (/auxilio), dado el nivel de peligro en curso.
 
 \- Está prohibido secuestrar o interceptar a personal SAMS durante DEFCON I, ya que esto va en contra del carácter neutral y pasivo del cuerpo médico, incluso en escenarios de conflicto.
+
+
+
+COMANDOS OBLIGATORIOS\
+Estos son los /me y /do que deberán de ocupar obligatoriamente un ems a la hora de atender a los civiles abatidos.
+
+🩺 Atención inicial al llegar\
+/me toma su pulso y revisa su respiración\
+/do ¿Tendría pulso?\
+🩹 Revisión médica básica\
+/me coloca guantes de látex y prepara su equipo médico\
+/me revisa signos vitales con su tensiómetro y oxímetro\
+/me palpa el cuerpo buscando heridas o fracturas\
+/do ¿Qué heridas tendría y en donde?\
+🩸 Control de hemorragias\
+/me limpia la herida con suero fisiológico\
+/me aplica presión directa para detener el sangrado\
+/me coloca vendas estériles y asegura el vendaje\
+/do ¿el tratamiento serviría?<br>
