@@ -24,7 +24,7 @@
 
 * [🟢 Zona Segura](zona-segura.md)
 * [🔴 Zona Roja](zona-roja.md)
-* [♣️Ingreso de OD a Zonas Rojas](ingreso-de-od-a-zonas-rojas-zr.md)
+* [❗ Ingreso de OD a Zonas Rojas](ingreso-de-od-a-zonas-rojas-zr.md)
 * [🟠 Zona Libre de Conflicto (OD)](zona-libre-de-conflicto-od.md)
 
 ## 👮 LSPD (Policía)
