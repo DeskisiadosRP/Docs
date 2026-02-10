@@ -182,7 +182,7 @@ Notas Importantes
 * Tirador: no permitido .
 * Rehenes: no permitido.
 * Refuerzos: No
-* Oficiales conectados: Mínimo 2 (Respetar +1)
+* Oficiales disponibles: Mínimo 2 (Respetar +1)
 * Vehículos: Todo vehículo de 4 puertas o motos autorizadas(respetando la zona de la ZR ya sea tierra o carretera).
 
 {% hint style="info" %}
