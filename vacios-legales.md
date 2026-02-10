@@ -1,4 +1,4 @@
-# 🏤 Vacíos legales
+# 📜 Vacíos Legales
 
 Con el fin de mantener la integridad del rol y asegurar una experiencia justa para todos los participantes, queda estrictamente prohibido el uso de vacíos legales o interpretaciones forzadas de la normativa con el objetivo de obtener ventajas indebidas en situaciones de rol.
 

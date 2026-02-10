@@ -1,4 +1,4 @@
-# 🚗 Negociaciones y Persecuciones
+# 🚔 Negociaciones y Persecuciones
 
 Los departamentos de LSPD y BCSD establecen protocolos específicos para situaciones de persecución y negociación, con el objetivo de garantizar la seguridad pública, preservar la vida y mantener el control táctico de los procedimientos.
 
@@ -6,6 +6,7 @@ Los departamentos de LSPD y BCSD establecen protocolos específicos para situaci
 
 * La duración máxima estándar de una persecución es de 10 minutos.
 * Superado este tiempo, LSPD/BCSD podrá abrir fuego a las ruedas del vehículo o aplicar protocolos tácticos para asegurar la detención de los sujetos.
+* En las persecuciones LSPD/BCSD tendrán todo el derecho de pinchar una solo rueda a las motos, estos es tanto para LSPD como para las OD´s.
 
 Esta medida busca evitar prolongaciones innecesarias que pongan en riesgo a terceros.
 
@@ -26,13 +27,13 @@ Durante negociaciones con rehenes u oficiales retenidos, se podrán conceder cie
 
 * **Salida limpia/libre**: No se obstaculiza la salida del vehículo en el alrededor de 250 metros.
 * **Integridad del vehículo**: No se podrá tocar el vehículo es decir nada que afecte su funcionamiento.
-* **Segundos de huida o Misisipi**: Desde que se sube al vehículo se iniciará el conteo (3 maximo).
+* **Segundos de huida o Misisipi**: Desde que se sube al vehículo se iniciará el conteo (3 máximo).
 * Retirar cascos **(LSPD, BCSD Y OD)**.
 * No tiradores.
 * No francotiradores.
 * No Helicóptero.
 * Se elimina un chaleco.
-* Parte o totalidad del botin.
+* Parte o totalidad del botín.
 * Dinero por rehén (en caso de secuestro a LSPD o SHERIFF)
 
 **No se negociará bajo ningún concepto:**
@@ -81,4 +82,4 @@ Toda Faccion Gubernamental reconoce que las negociaciones son una oportunidad pa
 * No se permitirá la negociación de elementos que comprometan la integridad institucional del BCSD (como entrega de armamento, vehículos policiales o desactivación de protocolos internos).
 * Toda negociación está sujeta a evaluación táctica y puede ser modificada o suspendida si se presentan riesgos inminentes.
 
-<mark style="color:$tint;">**Este enfoque busca equilibrar la libertad de jugabilidad con el respeto por la estructura institucional del departamento, fomentando un entorno dinámico, justo y narrativamente coherente.**</mark>
+**Este enfoque busca equilibrar la libertad de jugabilidad con el respeto por la estructura institucional del departamento, fomentando un entorno dinámico, justo y narrativamente coherente.**
