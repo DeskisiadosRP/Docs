@@ -26,26 +26,26 @@ Al disparar se activar un **campo rojo** que delimita visualmente la zona activa
 
 ### ❌ Estrictamente Prohibido:
 
-| Prohibición | Descripción |
-|-------------|-------------|
-| **🏕️ Campear fuera/límites** | Esperar fuera del perímetro con fines delictivos |
-| **🏢 Disparar desde alturas** | Edificios, casas, muros (excepto terreno natural) |
-| **🎯 Disparos de advertencia** | Disparar al aire para revelar límites de ZR |
-| **↔️ Disparar entre límites** | Desde dentro a fuera o viceversa de la ZR |
-| **🌳 Esconderse en arbustos** | Usar vegetación para ventaja indebida |
-| **🚧 Bloquear accesos** | Con vehículos o props |
-| **💀 Evadir con PK intencional** | Usar PK para evitar consecuencias |
-| **🚑 /Auxilio en ZR** | Solo después de salir o terminar rol |
-| **🔄 Devoluciones** | NO existen bajo ningún concepto |
-| **🏃 Saquear sin armas** | Ingresar desarmado para robar cuerpos |
-| **🎭 Animaciones ventajosas** | Cualquier animación que dé ventaja |
-| **🚶 Caminar alternativo** | Solo caminar predeterminado |
-| **🪖 Cascos en ciudad** | Prohibidos en ZR urbanas (permitidos en norte) |
+| Prohibición                      | Descripción                                       |
+| -------------------------------- | ------------------------------------------------- |
+| **🏕️ Campear fuera/límites**    | Esperar fuera del perímetro con fines delictivos  |
+| **🏢 Disparar desde alturas**    | Edificios, casas, muros (excepto terreno natural) |
+| **🎯 Disparos de advertencia**   | Disparar al aire para revelar límites de ZR       |
+| **↔️ Disparar entre límites**    | Desde dentro a fuera o viceversa de la ZR         |
+| **🌳 Esconderse en arbustos**    | Usar vegetación para ventaja indebida             |
+| **🚧 Bloquear accesos**          | Con vehículos o props                             |
+| **💀 Evadir con PK intencional** | Usar PK para evitar consecuencias                 |
+| **🚑 /Auxilio en ZR**            | Solo después de salir o terminar rol              |
+| **🔄 Devoluciones**              | NO existen bajo ningún concepto                   |
+| **🏃 Saquear sin armas**         | Ingresar desarmado para robar cuerpos             |
+| **🎭 Animaciones ventajosas**    | Cualquier animación que dé ventaja                |
+| **🚶 Caminar alternativo**       | Solo caminar predeterminado                       |
 
 ### 📦 Requisitos Mínimos:
 
 {% hint style="warning" %}
 **Cantidades mínimas obligatorias:**
+
 * 🌿 Recolección de drogas: **100 unidades**
 * ⚗️ Droga procesada: **50 unidades**
 {% endhint %}
@@ -74,10 +74,10 @@ Si eres abatido **fuera de la ZR** habiendo iniciado conflicto **dentro**, el at
 **Reglas de reingreso:**
 {% endhint %}
 
-| Situación | Tiempo de Espera |
-|-----------|------------------|
-| **💀 Muerte en ZR** | NO puede reingresar hasta que finalice el rol |
-| **🚶 Retiro voluntario** | **15 minutos** mínimo para reingresar |
+| Situación                | Tiempo de Espera                              |
+| ------------------------ | --------------------------------------------- |
+| **💀 Muerte en ZR**      | NO puede reingresar hasta que finalice el rol |
+| **🚶 Retiro voluntario** | **15 minutos** mínimo para reingresar         |
 
 ***
 
@@ -121,9 +121,9 @@ Si los civiles no acatan, oficiales tienen derecho a **abrir fuego**.
 
 ### Jerarquía de Organizaciones:
 
-| Categoría | Nivel |
-|-----------|-------|
-| **Cartel / Mafia / MC Leyenda** | Mayor |
+| Categoría                          | Nivel |
+| ---------------------------------- | ----- |
+| **Cartel / Mafia / MC Leyenda**    | Mayor |
 | **Pandilla / Banda / MC Heredero** | Menor |
 
 ### Reglas de Alianza:
@@ -148,16 +148,20 @@ Si los civiles no acatan, oficiales tienen derecho a **abrir fuego**.
 #### Ejemplo Práctico:
 
 <details>
+
 <summary><strong>Banda (7 integrantes) + Cartel</strong></summary>
 
 **Escenario:**
+
 * Banda va a ZR con **7 integrantes**
 * Solicita apoyo a un Cartel
 
 **Cálculo:**
+
 * Banda tiene 7 → Cartel puede enviar **máximo 5** (7 - 2 = 5)
 
 **Importante:**
+
 * Los 5 del Cartel deben estar en el entorno inicial de la Banda
 * Se suma el total: 7 (Banda) + 5 (Cartel) = 12 personas totales
 
@@ -171,18 +175,18 @@ Si los civiles no acatan, oficiales tienen derecho a **abrir fuego**.
 **Restricciones según ubicación**
 {% endhint %}
 
-| Zona | Calibre Permitido |
-|------|-------------------|
-| **🏙️ ZR en Ciudad** | Solo **bajo calibre** |
-| **🏔️ ZR en Norte** | **Calibres liberados** |
+| Zona                 | Calibre Permitido      |
+| -------------------- | ---------------------- |
+| **🏙️ ZR en Ciudad** | Solo **bajo calibre**  |
+| **🏔️ ZR en Norte**  | **Calibres liberados** |
 
 ### 🔫 Clasificación por calibre
 
 Para evitar dudas, clasificamos las armas en tres categorías y damos ejemplos prácticos:
 
-- **Bajo calibre:** Armas de 1 tiro. Ejemplos: Pistola, Pistola Mk2, Pistola cerámica, Pistola SNS, Pistola Pesada.
-- **Medio calibre:** Armas automáticas o compactas automáticas. Ejemplos: Pistola AP, Micro SMG, Mini SMG, SMG, Combat PDW.
-- **Alto calibre:** Armas automáticas de alto calibre. Ejemplos: Rifle de asalto, Rifle de asalto Mk2, Carabina, Rifle Compacto.
+* **Bajo calibre:** Armas de 1 tiro. Ejemplos: Pistola, Pistola Mk2, Pistola cerámica, Pistola SNS, Pistola Pesada.
+* **Medio calibre:** Armas automáticas o compactas automáticas. Ejemplos: Pistola AP, Micro SMG, Mini SMG, SMG, Combat PDW.
+* **Alto calibre:** Armas automáticas de alto calibre. Ejemplos: Rifle de asalto, Rifle de asalto Mk2, Carabina, Rifle Compacto.
 
 Estas clasificaciones se usan para determinar qué armas pueden ser tomadas en cada zona y contra personal LSPD.
 
@@ -196,20 +200,20 @@ Estas clasificaciones se usan para determinar qué armas pueden ser tomadas en c
 
 ### ✅ PERMITIDO Robar en Zona Roja
 
-| Objeto | ¿Permitido en ZR? | Detalles |
-|--------|-------------------|----------|
-| 🔫 **Armas (Civiles/Bandas)** | ✅ SÍ | Todas las armas |
-| 🔫 **Armas (LSPD)** | ✅ SÍ | SMG, Rifles, Carabinas, Pistolas |
-| 🛡️ **Chaleco antibalas** | ✅ SÍ | Reduce ventaja |
-| 🎯 **Munición** | ✅ SÍ | Complemento de armas |
-| 💊 **Drogas** | ✅ SÍ | Ilegales — robables |
-| 💰 **Dinero** | ❌ NO | Prohibido en ZR |
-| 🍔 **Comida** | ❌ NO | Prohibido en ZR |
-| 📱 **Celular/Teléfono** | ❌ NO | Item personal protegido |
-| 📻 **Radio** | ❌ NO | Item personal protegido |
-| 🔑 **Llaves** | ❌ NO | Item personal protegido |
-| 💳 **Tarjetas** | ❌ NO | Item personal protegido |
-| 💎 **Objetos VIP** | ❌ NO | Item VIP protegido |
+| Objeto                        | ¿Permitido en ZR? | Detalles                         |
+| ----------------------------- | ----------------- | -------------------------------- |
+| 🔫 **Armas (Civiles/Bandas)** | ✅ SÍ              | Todas las armas                  |
+| 🔫 **Armas (LSPD)**           | ✅ SÍ              | SMG, Rifles, Carabinas, Pistolas |
+| 🛡️ **Chaleco antibalas**     | ✅ SÍ              | Reduce ventaja                   |
+| 🎯 **Munición**               | ✅ SÍ              | Complemento de armas             |
+| 💊 **Drogas**                 | ✅ SÍ              | Ilegales — robables              |
+| 💰 **Dinero**                 | ❌ NO              | Prohibido en ZR                  |
+| 🍔 **Comida**                 | ❌ NO              | Prohibido en ZR                  |
+| 📱 **Celular/Teléfono**       | ❌ NO              | Item personal protegido          |
+| 📻 **Radio**                  | ❌ NO              | Item personal protegido          |
+| 🔑 **Llaves**                 | ❌ NO              | Item personal protegido          |
+| 💳 **Tarjetas**               | ❌ NO              | Item personal protegido          |
+| 💎 **Objetos VIP**            | ❌ NO              | Item VIP protegido               |
 
 {% hint style="warning" %}
 **⚠️ ZONA ROJA - Restricciones adicionales:**
@@ -251,9 +255,10 @@ Estas clasificaciones se usan para determinar qué armas pueden ser tomadas en c
 
 {% hint style="success" %}
 **Nota:** El criminal respeta las reglas de ZR:
-- ✅ Toma arma de calibre medio (carabina M4), chaleco y munición
-- ❌ Deja pistola (calibre bajo)
-- ❌ Deja dinero, comida, celular y radio (prohibidos en ZR)
+
+* ✅ Toma arma de calibre medio (carabina M4), chaleco y munición
+* ❌ Deja pistola (calibre bajo)
+* ❌ Deja dinero, comida, celular y radio (prohibidos en ZR)
 {% endhint %}
 
 ***
@@ -271,6 +276,7 @@ Estas clasificaciones se usan para determinar qué armas pueden ser tomadas en c
 Realizar cateo a los oficiales abatidos.
 
 **Límites:**
+
 * Según normativa de cateos
 * Respetando límites de items
 {% endtab %}
@@ -279,6 +285,7 @@ Realizar cateo a los oficiales abatidos.
 Retirar placa a oficiales.
 
 **Límites:**
+
 * ⚠️ **Máximo 4 placas**
 * Exceder este límite = sanción
 {% endtab %}
@@ -287,6 +294,7 @@ Retirar placa a oficiales.
 Retirar DNI a oficiales.
 
 **Límites:**
+
 * ⚠️ **Máximo 4 DNIs**
 * Exceder este límite = sanción
 {% endtab %}
@@ -329,18 +337,18 @@ LSPD abandona zona → Perímetro abierto nuevamente
 
 ## 📋 Resumen de Sanciones ZR
 
-| Infracción | Sanción |
-|------------|---------|
-| **Campear fuera** | Ban 3-7 días |
-| **Disparar desde altura** | Ban 3-7 días |
-| **Bloquear accesos** | Ban 1-3 días |
-| **Evadir DNI/PLACA** | Sanción individual/OD |
-| **Ingresar sin armas a saquear** | Ban 7-15 días |
-| **Usar animaciones ventajosas** | Ban 3-7 días |
-| **Exceder límite placas/DNI** | Sanción grave |
-| **Alianza irregular** | Sanción a ambas ODs |
-| **Ingresar a perímetro cerrado** | Sanción a OD |
-| **Calibre incorrecto** | Ban 1-3 días |
+| Infracción                       | Sanción               |
+| -------------------------------- | --------------------- |
+| **Campear fuera**                | Ban 3-7 días          |
+| **Disparar desde altura**        | Ban 3-7 días          |
+| **Bloquear accesos**             | Ban 1-3 días          |
+| **Evadir DNI/PLACA**             | Sanción individual/OD |
+| **Ingresar sin armas a saquear** | Ban 7-15 días         |
+| **Usar animaciones ventajosas**  | Ban 3-7 días          |
+| **Exceder límite placas/DNI**    | Sanción grave         |
+| **Alianza irregular**            | Sanción a ambas ODs   |
+| **Ingresar a perímetro cerrado** | Sanción a OD          |
+| **Calibre incorrecto**           | Ban 1-3 días          |
 
 ***
 
@@ -349,13 +357,13 @@ LSPD abandona zona → Perímetro abierto nuevamente
 {% hint style="success" %}
 **Para una experiencia óptima:**
 
-✅ Conoce los límites de la ZR antes de entrar  
-✅ Respeta el calibre permitido según ubicación  
-✅ NO campees fuera del perímetro  
-✅ Acepta las consecuencias del PK  
-✅ Respeta tiempos de reingreso  
-✅ Sigue protocolos de alianzas  
-✅ Juega limpio y sin ventajas indebidas  
+✅ Conoce los límites de la ZR antes de entrar\
+✅ Respeta el calibre permitido según ubicación\
+✅ NO campees fuera del perímetro\
+✅ Acepta las consecuencias del PK\
+✅ Respeta tiempos de reingreso\
+✅ Sigue protocolos de alianzas\
+✅ Juega limpio y sin ventajas indebidas
 {% endhint %}
 
 ***
@@ -364,19 +372,16 @@ LSPD abandona zona → Perímetro abierto nuevamente
 
 {% hint style="danger" %}
 **Al ingresar a una Zona Roja, aceptas:**
-- 💀 Riesgo de PK
-- 🔫 Conflictos armados
-- 💰 Posibilidad de pérdidas
-- ⚖️ Consecuencias de tus acciones
+
+* 💀 Riesgo de PK
+* 🔫 Conflictos armados
+* 💰 Posibilidad de pérdidas
+* ⚖️ Consecuencias de tus acciones
 * 🚫 NO hay devoluciones bajo ningún concepto
 {% endhint %}
 
 ***
 
-<div align="center">
-
-### ⚔️ Zona Roja = Alto Riesgo, Alto Realismo ⚔️
+#### ⚔️ Zona Roja = Alto Riesgo, Alto Realismo ⚔️
 
 **Juega estratégicamente, respeta las reglas, acepta las consecuencias**
-
-</div>
