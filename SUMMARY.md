@@ -40,8 +40,7 @@
 * [🔫 Licencia de Armas](licencia-de-armas.md)
 * [📋 Requisitos de Postulación](requisitos-postulacion.md)
 * [🏠 Comandos para Cateos](comandos-para-cateos.md)
-* [� Normativa de Cateos](normativa-cateos.md)
-* [�🚔 Control Vehicular y Cacheo de Auto](control-vehicular-lspd.md)
+* [🚔 Control Vehicular y Cacheo de Auto](control-vehicular-lspd.md)
 
 ## 🚑 EMS (Servicios Médicos)
 
