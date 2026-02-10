@@ -1,4 +1,4 @@
-# 💀 DELICTUAL
+# 💀 Sistema Delictual
 
 ### 🚧Actos Delictuales <a href="#actos-delictuales" id="actos-delictuales"></a>
 
@@ -84,8 +84,6 @@ No se podra robar lo siguiente:
 * En caso de abatir civiles, pinchar ruedas o llegar refuerzos se debe enviar el entorno correspondiente.
 
 {% hint style="info" %}
-
-
 Notas Importantes
 
 * No se podra catear a LSPD/Sheriff.
@@ -188,8 +186,6 @@ Notas Importantes
 * Vehículos: Todo vehículo de 4 puertas o motos autorizadas(respetando la zona de la ZR ya sea tierra o carretera).
 
 {% hint style="info" %}
-
-
 Notas Importantes
 
 * Se podrá catear en cualquier fase de inconciencia a OD's y Facción legal.
@@ -511,8 +507,6 @@ Tirador: Cualquier sujeto posicionado fuera del perímetro/establecimiento en el
 * Cooldown: No.
 
 {% hint style="info" %}
-
-
 Notas Importantes
 
 * No se podrá catear a LSPD/Sheriff.
@@ -533,8 +527,6 @@ Notas Importantes
 * Cooldown: No.
 
 {% hint style="info" %}
-
-
 Notas Importantes
 
 * Todo acto delictual debe llevar su entorno correspondiente.
@@ -555,3 +547,38 @@ Notas Importantes
 * No se podra utilizar ropa tactica (no casto).
 * No se podra invadir bajo ningun motivo las HQ.
 {% endhint %}
+
+### 17) Ammu-Nation <a href="#id-7-ammu-nation-pandillas-mc-herederos-y-civiles-grado-1" id="id-7-ammu-nation-pandillas-mc-herederos-y-civiles-grado-1"></a>
+
+* Atracadores permitidos:
+  * Civiles: 1 mín - 2 máx.
+  * ODs: 1 mín - 3 máx.
+* Armas permitidas: Bajo calibre.
+* Tirador: No permitido.
+*   Rehenes: 2 máximo (1 ficticio permitido, en caso de no tener reales)
+
+    Se podrá negociar la mitad del botín como máximo para conseguir otro beneficio.
+* Refuerzos: No
+* LSPD/BCSO disponible: Mínimo 2 (Respetar +1)
+* Vehículos: Sólo se permitirá 1 vehículo de 4 puertas, el uso de cualquier otro vehículo será sancionado.
+* Tiempo de negociaciones: 10 minutos máximo.
+* Cooldown: 30 minutos.
+* Tiempo de espera en caso de que no llegue LSPD o SHERIFF 10 minutos
+
+{% hint style="info" %}
+
+
+Notas Importantes
+
+* Disponibilidad +1policial
+* Todo acto delictual debe llevar su entorno correspondiente.
+  * Ej:
+    * /entorno Se verían (x) sujetos vestidos de (x color), en un vehículo ( x modelo y color), robando ammunation, con bajo calibre.
+    * /entorno Se verían (x) sujetos vestidos de (x color), en un vehículo ( x modelo y color), pinchando ruedas de vehículos con bajo calibre.
+* No está permitido el cateo a LSPD/BSCO.
+* No se podrá utilizar vehículos tipo Deskisiados.
+{% endhint %}
+
+"<mark style="color:purple;">Los rehenes solo podrán ser considerados para negociación mientras se mantengan con vida y en pie. En caso de que alguno de ellos resulte gravemente herido o abatido antes del inicio de la negociación, los oficiales estarán autorizados a intervenir de manera inmediata contra los atracadores al llegar a la zona, siguiendo los procedimientos establecidos para situaciones de alto riesgo</mark>."
+
+(<mark style="color:red;">Consecuencias, será una sanción para el usuario y dependiendo de las graves un strike o warning a la ODs</mark>)
