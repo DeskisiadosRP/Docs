@@ -84,3 +84,7 @@
 * [🎥 Creadores de Contenido](creadores-de-contenido.md)
 * [🖊️ Términos y Condiciones](terminos-y-condiciones.md)
 * [📓 Derechos de Autor](derechos-de-autor.md)
+
+***
+
+* [Normativa cateos](normativa-cateos.md)
