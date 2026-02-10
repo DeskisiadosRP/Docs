@@ -209,6 +209,7 @@ Estas clasificaciones se usan para determinar qué armas pueden ser tomadas en c
 | 📻 **Radio** | ❌ NO | Item personal protegido |
 | 🔑 **Llaves** | ❌ NO | Item personal protegido |
 | 💳 **Tarjetas** | ❌ NO | Item personal protegido |
+| 💎 **Objetos VIP** | ❌ NO | Item VIP protegido |
 
 {% hint style="warning" %}
 **⚠️ ZONA ROJA - Restricciones adicionales:**

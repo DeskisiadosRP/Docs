@@ -50,6 +50,7 @@ Durante secuestros, robos o conflictos, los **criminales PUEDEN cachear** a sus 
 | 📻 **Radio** | ❌ NO | Item personal protegido |
 | 🔑 **Llaves** | ❌ NO | Item personal protegido |
 | 💳 **Tarjetas** | ❌ NO | Item personal protegido |
+| 💎 **Objetos VIP** | ❌ NO | Item VIP protegido |
 
 
 {% hint style="success" %}
