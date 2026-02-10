@@ -9,6 +9,7 @@
 * [⚠️ Sistema de Sanciones](sistema-de-sanciones.md)
 * [🚫 Toxicidad y Acoso](toxicidad-y-acoso.md)
 * [❌ Prohibiciones Generales](prohibiciones.md)
+* [📋 Bitácoras e Investigaciones](bitacoras-e-investigaciones.md)
 
 ## 🎮 Guías de Juego
 
@@ -23,6 +24,7 @@
 
 * [🟢 Zona Segura](zona-segura.md)
 * [🔴 Zona Roja](zona-roja.md)
+* [� Ingreso de OD a Zonas Rojas](ingreso-de-od-a-zonas-rojas-zr.md)
 * [🟠 Zona Libre de Conflicto (OD)](zona-libre-de-conflicto-od.md)
 
 ## 👮 LSPD (Policía)
@@ -37,9 +39,9 @@
 * [📑 Disposición Final](disposicion-final.md)
 * [🔫 Licencia de Armas](licencia-de-armas.md)
 * [📋 Requisitos de Postulación](requisitos-postulacion.md)
-* [🚪 Ingreso de OD a Zonas Rojas](ingreso-de-od-a-zonas-rojas-zr.md)
 * [🏠 Comandos para Cateos](comandos-para-cateos.md)
-* [🚔 Control Vehicular y Cacheo de Auto](control-vehicular-lspd.md)
+* [� Normativa de Cateos](normativa-cateos.md)
+* [�🚔 Control Vehicular y Cacheo de Auto](control-vehicular-lspd.md)
 
 ## 🚑 EMS (Servicios Médicos)
 
@@ -83,7 +85,3 @@
 * [🎥 Creadores de Contenido](creadores-de-contenido.md)
 * [🖊️ Términos y Condiciones](terminos-y-condiciones.md)
 * [📓 Derechos de Autor](derechos-de-autor.md)
-
-***
-
-* [Normativa cateos](normativa-cateos.md)

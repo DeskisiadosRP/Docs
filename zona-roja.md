@@ -176,6 +176,85 @@ Si los civiles no acatan, oficiales tienen derecho a **abrir fuego**.
 | **🏙️ ZR en Ciudad** | Solo **bajo calibre** |
 | **🏔️ ZR en Norte** | **Calibres liberados** |
 
+### 🔫 Clasificación por calibre
+
+Para evitar dudas, clasificamos las armas en tres categorías y damos ejemplos prácticos:
+
+- **Bajo calibre:** Armas de 1 tiro. Ejemplos: Pistola, Pistola Mk2, Pistola cerámica, Pistola SNS, Pistola Pesada.
+- **Medio calibre:** Armas automáticas o compactas automáticas. Ejemplos: Pistola AP, Micro SMG, Mini SMG, SMG, Combat PDW.
+- **Alto calibre:** Armas automáticas de alto calibre. Ejemplos: Rifle de asalto, Rifle de asalto Mk2, Carabina, Rifle Compacto.
+
+Estas clasificaciones se usan para determinar qué armas pueden ser tomadas en cada zona y contra personal LSPD.
+
+***
+
+## 🔍 Cacheo en Zona Roja
+
+{% hint style="danger" %}
+**Las reglas de cacheo en Zona Roja son MÁS RESTRICTIVAS**
+{% endhint %}
+
+### ✅ PERMITIDO Robar en Zona Roja
+
+| Objeto | ¿Permitido en ZR? | Detalles |
+|--------|-------------------|----------|
+| 🔫 **Armas (Civiles/Bandas)** | ✅ SÍ | Todas las armas |
+| 🔫 **Armas (LSPD)** | ✅ SÍ | SMG, Rifles, Carabinas, Pistolas |
+| 🛡️ **Chaleco antibalas** | ✅ SÍ | Reduce ventaja |
+| 🎯 **Munición** | ✅ SÍ | Complemento de armas |
+| 💊 **Drogas** | ✅ SÍ | Ilegales — robables |
+| 💰 **Dinero** | ❌ NO | Prohibido en ZR |
+| 🍔 **Comida** | ❌ NO | Prohibido en ZR |
+| 📱 **Celular/Teléfono** | ❌ NO | Item personal protegido |
+| 📻 **Radio** | ❌ NO | Item personal protegido |
+| 🔑 **Llaves** | ❌ NO | Item personal protegido |
+| 💳 **Tarjetas** | ❌ NO | Item personal protegido |
+
+{% hint style="warning" %}
+**⚠️ ZONA ROJA - Restricciones adicionales:**
+
+❌ En Zona Roja NO puedes robar **dinero ni comida**
+
+✅ **SOLO:** Armas (calibre medio+ para LSPD), chalecos, drogas y munición
+
+📋 Items personales siguen prohibidos
+{% endhint %}
+
+### ✅ Ejemplo: Cacheo en Zona Roja (Banda vs LSPD)
+
+```
+😈 Criminal: /me reduce al of icial de LSPD en Zona Roja
+😈 Criminal: /me comienza a cachear al oficial
+😈 Criminal: /do ¿Qué armas porta?
+
+👮 LSPD: /do Lleva una pistola Glock 17, una carabina M4 y un chaleco antibalas
+
+😈 Criminal: /me ignora la pistola (calibre bajo)
+😈 Criminal: /me toma la carabina M4 y el chaleco
+😈 Criminal: "Tu pistola no me interesa, pero la carabina sí"
+😈 Criminal: /me revisa la munición
+😈 Criminal: /do ¿Cuántos cargadores tiene para la carabina?
+
+👮 LSPD: /do Tiene 3 cargadores de M4
+
+😈 Criminal: /me toma los cargadores de la carabina
+😈 Criminal: /me palpa los bolsillos del oficial
+😈 Criminal: /do ¿Porta algo más?
+
+👮 LSPD: /do Lleva $500, un celular, una radio y comida
+
+😈 Criminal: /me deja todo en sus bolsillos
+😈 Criminal: "En Zona Roja solo armas pesadas, nada más"
+😈 Criminal: /me se retira solo con la carabina, chaleco y munición
+```
+
+{% hint style="success" %}
+**Nota:** El criminal respeta las reglas de ZR:
+- ✅ Toma arma de calibre medio (carabina M4), chaleco y munición
+- ❌ Deja pistola (calibre bajo)
+- ❌ Deja dinero, comida, celular y radio (prohibidos en ZR)
+{% endhint %}
+
 ***
 
 ## 🏆 En Caso de Ganar Contra LSPD/BCSO

@@ -155,8 +155,7 @@ Como miembro de Deskisiados RP, se espera que:
 * [👤 Sistema de Whitelist](whitelist.md)
 * [⚠️ Sistema de Sanciones](sistema-de-sanciones.md)
 * [🚫 Toxicidad y Acoso](toxicidad-y-acoso.md)
-* [❌ Prohibiciones Generales](prohibiciones.md)
-
+* [❌ Prohibiciones Generales](prohibiciones.md)* [📋 Bitácoras e Investigaciones](bitacoras-e-investigaciones.md)
 </details>
 
 <details>
@@ -176,7 +175,8 @@ Como miembro de Deskisiados RP, se espera que:
 
 * [🟢 Zona Segura](zona-segura.md)
 * [🔴 Zona Roja](zona-roja.md)
-* [🟠 Zona Libre de Conflicto (OD)](zona-libre-de-conflicto-od.md)
+* [� Ingreso de OD a Zonas Rojas](ingreso-de-od-a-zonas-rojas-zr.md)
+* [�🟠 Zona Libre de Conflicto (OD)](zona-libre-de-conflicto-od.md)
 
 </details>
 

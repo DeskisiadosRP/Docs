@@ -1,4 +1,4 @@
-# 🔫 ROBOS EN FASE
+﻿# 🔫 ROBOS EN FASE
 
 **📌 FASE 1**
 
@@ -38,52 +38,35 @@ Durante secuestros, robos o conflictos, los **criminales PUEDEN cachear** a sus 
 
 ### ✅ PERMITIDO Tomar Durante Cacheo Criminal
 
-| Objeto | Normal | Zona Roja | Detalles |
-|--------|--------|-----------|----------|
-| 💰 **Dinero** | ✅ SÍ | ❌ NO | Botín permitido |
-| 🍔 **Comida** | ✅ SÍ | ❌ NO | Permitido tomar |
-| 🔫 **Armas (Civiles/Bandas)** | ✅ SÍ | ✅ SÍ | Todas las armas |
-| 🔫 **Armas (LSPD)** | ✅ SÍ | ✅ Solo calibre medio+ | SMG, Rifles, Carabinas (NO pistolas). Ver clasificación de calibres abajo. |
-| 🛡️ **Chaleco antibalas** | ✅ SÍ | ✅ SÍ | Reduce ventaja |
-| 🎯 **Munición** | ✅ SÍ | ✅ SÍ | Complemento de armas |
-| � **Drogas** | ✅ SÍ | ✅ SÍ | Ilegales — robables |
-| 📱 **Celular/Teléfono** | ❌ NO | ❌ NO | Item personal protegido |
-| 📻 **Radio** | ❌ NO | ❌ NO | Item personal protegido |
-| 🔑 **Llaves** | ❌ NO | ❌ NO | Item personal protegido |
-| 💳 **Tarjetas** | ❌ NO | ❌ NO | Item personal protegido |
+| Objeto | ¿Permitido? | Detalles |
+|--------|-------------|----------|
+| 💰 **Dinero** | ✅ SÍ | Botín permitido |
+| 🍔 **Comida** | ✅ SÍ | Permitido tomar |
+| 🔫 **Armas** | ✅ SÍ | Todas las armas |
+| 🛡️ **Chaleco antibalas** | ✅ SÍ | Reduce ventaja |
+| 🎯 **Munición** | ✅ SÍ | Complemento de armas |
+| 💊 **Drogas** | ✅ SÍ | Ilegales — robables |
+| 📱 **Celular/Teléfono** | ❌ NO | Item personal protegido |
+| 📻 **Radio** | ❌ NO | Item personal protegido |
+| 🔑 **Llaves** | ❌ NO | Item personal protegido |
+| 💳 **Tarjetas** | ❌ NO | Item personal protegido |
 
 
 {% hint style="success" %}
 **Regla de Oro:** En un **secuestro o robo**, SOLO puedes tomar:
 - 💰 Dinero
 - 🍔 Comida
-- � Drogas
-- �🔫 Armas
+- 💊 Drogas
+- 🔫 Armas
 - 🛡️ Chalecos
 - 🎯 Balas/Munición
 
 ❌ **PROHIBIDO:** Celular, radio, llaves, tarjetas
 {% endhint %}
 
-{% hint style="warning" %}
-**⚠️ ZONA ROJA - Restricciones adicionales:**
-
-❌ En Zona Roja NO puedes robar **dinero ni comida**
-
-✅ **SOLO:** Armas (calibre medio+ para LSPD; ver clasificación de calibres abajo), chalecos y munición
-
-📋 Items personales siguen prohibidos en ambas zonas
+{% hint style="info" %}
+**📍 Zona Roja:** Las reglas de cacheo en Zona Roja son diferentes. Consulta el documento [Zona Roja](zona-roja.md#cacheo-en-zona-roja) para más información.
 {% endhint %}
-
-## 🔫 Clasificación por calibre
-
-Para evitar dudas, clasificamos las armas en tres categorías y damos ejemplos prácticos:
-
-- **Bajo calibre:** Armas de 1 tiro. Ejemplos: Pistola, Pistola Mk2, Pistola cerámica, Pistola SNS, Pistola Pesada.
-- **Medio calibre:** Armas automáticas o compactas automáticas. Ejemplos: Pistola AP, Micro SMG, Mini SMG, SMG, Combat PDW.
-- **Alto calibre:** Armas automáticas de alto calibre. Ejemplos: Rifle de asalto, Rifle de asalto Mk2, Carabina, Rifle Compacto.
-
-Estas clasificaciones se usan para determinar qué armas pueden ser tomadas en cada zona y contra personal LSPD.
 
 ***
 
@@ -92,19 +75,15 @@ Estas clasificaciones se usan para determinar qué armas pueden ser tomadas en c
 {% hint style="info" %}
 **Las MISMAS REGLAS aplican cuando la víctima está muerta:**
 
-✅ **Zona Normal - Puedes robar:**
+✅ **Puedes robar:**
 - 💰 Dinero
 - 🍔 Comida
+- 💊 Drogas
 - 🔫 Armas
 - 🛡️ Chalecos
 - 🎯 Balas/Munición
 
-🔴 **Zona Roja - Puedes robar:**
-- 🔫 Armas (calibre medio+ si es LSPD)
-- 🛡️ Chalecos
-- 🎯 Balas/Munición
-
-❌ **PROHIBIDO en ambas zonas:**
+❌ **PROHIBIDO:**
 Celular, radio, llaves, tarjetas
 {% endhint %}
 
@@ -268,44 +247,7 @@ Celular, radio, llaves, tarjetas
 
 ***
 
-### ✅ Ejemplo 5: Cacheo en Zona Roja (Banda vs LSPD)
-
-```
-😈 Criminal: /me reduce al oficial de LSPD en Zona Roja
-😈 Criminal: /me comienza a cachear al oficial
-😈 Criminal: /do ¿Qué armas porta?
-
-👮 LSPD: /do Lleva una pistola Glock 17, una carabina M4 y un chaleco antibalas
-
-😈 Criminal: /me ignora la pistola (calibre bajo)
-😈 Criminal: /me toma la carabina M4 y el chaleco
-😈 Criminal: "Tu pistola no me interesa, pero la carabina sí"
-😈 Criminal: /me revisa la munición
-😈 Criminal: /do ¿Cuántos cargadores tiene para la carabina?
-
-👮 LSPD: /do Tiene 3 cargadores de M4
-
-😈 Criminal: /me toma los cargadores de la carabina
-😈 Criminal: /me palpa los bolsillos del oficial
-😈 Criminal: /do ¿Porta algo más?
-
-👮 LSPD: /do Lleva $500, un celular, una radio y comida
-
-😈 Criminal: /me deja todo en sus bolsillos
-😈 Criminal: "En Zona Roja solo armas pesadas, nada más"
-😈 Criminal: /me se retira solo con la carabina, chaleco y munición
-
-{% hint style="info" %}
-**Nota:** El criminal respeta las reglas de ZR:
-- ✅ Toma arma de calibre medio (carabina M4), chaleco y munición
-- ❌ Deja pistola (calibre bajo)
-- ❌ Deja dinero, comida, celular y radio (prohibidos en ZR)
-{% endhint %}
-```
-
-***
-
-### ✅ Ejemplo 6: Cacheo a Víctima Muerta (Zona Normal)
+### ✅ Ejemplo 5: Cacheo a Víctima Muerta
 
 ```
 😈 Criminal: /me se acerca al cuerpo caído
@@ -429,26 +371,19 @@ Criminal: "Estás limpio"
 **Sanción:** Warn + void del rol si robas items prohibidos
 {% endhint %}
 
-{% hint style="warning" %}
-**🔴 Zona Roja - Restricción adicional:**
-En Zona Roja NO se puede robar **dinero ni comida**
-
-✅ Solo: Armas (calibre medio+ si es LSPD), chalecos y munición
-{% endhint %}
-
 ***
 
 <div align="center">
 
 ### 🎯 Recuerda la Regla Principal
 
-**SOLO se puede robar:** Armas, dinero, comida, chalecos y balas
+**SOLO se puede robar:** Armas, dinero, drogas, comida, chalecos y balas
 
 **❌ PROHIBIDO:** Celular, radio, llaves, tarjetas
 
-**Zona Roja:** Solo armas, chalecos y balas (NO dinero/comida)
-
 **💀 Aplica igual a víctimas VIVAS y MUERTAS**
+
+**📍 Zona Roja:** Consulta [zona-roja.md](zona-roja.md#cacheo-en-zona-roja) para reglas específicas
 
 Roleplay de calidad = Sin sanciones + Historias épicas
 
