@@ -113,6 +113,59 @@ Si los civiles no acatan, oficiales tienen derecho a **abrir fuego**.
 
 ***
 
+## 📞 Calibre de LSPD Según Ubicación
+
+{% hint style="info" %}
+**El calibre que puede usar LSPD depende de la ubicación del llamado**
+{% endhint %}
+
+### 🏙️ Llamados en Ciudad (Zona Roja)
+
+{% hint style="warning" %}
+**LSPD debe RESPETAR el calibre del llamado**
+{% endhint %}
+
+**Reglas:**
+* Si el llamado indica **bajo calibre** → LSPD acude con **bajo calibre**
+
+**Ejemplo:**
+```
+📞 /entorno Se verían (3) sujetos vestidos de (negro), 
+en un vehículo (sedán rojo), recolectando drogas en zona roja 
+de la ciudad con BAJO CALIBRE.
+
+👮 LSPD debe acudir con BAJO CALIBRE únicamente
+```
+
+### 🏔️ Llamados en Norte (Zona Roja)
+
+{% hint style="success" %}
+**LSPD puede usar el calibre que QUIERAN**
+{% endhint %}
+
+**Reglas:**
+* No importa el calibre del llamado
+* LSPD tiene **libertad total**
+* Pueden usar: **bajo, medio o alto calibre**
+
+**Ejemplo:**
+```
+📞 /entorno Se verían (5) sujetos vestidos de (azul), 
+recolectando drogas en zona roja del norte con BAJO CALIBRE.
+
+👮 LSPD puede acudir con CUALQUIER CALIBRE 
+(bajo, medio o alto, según prefieran)
+```
+
+### 📊 Tabla Resumen:
+
+| Ubicación | Restricción de Calibre LSPD |
+|-----------|----------------------------|
+| 🏙️ **Ciudad (ZR)** | Respetar calibre del llamado |
+| 🏔️ **Norte (ZR)** | Calibre libre - sin restricción |
+
+***
+
 ## 🤝 Sistema de Alianzas
 
 {% hint style="warning" %}
@@ -199,7 +252,8 @@ Estas clasificaciones se usan para determinar qué armas pueden ser tomadas en c
 | Objeto | ¿Permitido en ZR? | Detalles |
 |--------|-------------------|----------|
 | 🔫 **Armas (Civiles/Bandas)** | ✅ SÍ | Todas las armas |
-| 🔫 **Armas (LSPD)** | ✅ SÍ | SMG, Rifles, Carabinas, Pistolas |
+| 🔫 **Armas (LSPD) - Ciudad** | ⚠️ LIMITADO | Solo medio y alto calibre |
+| 🔫 **Armas (LSPD) - Norte** | ✅ SÍ | Cualquier calibre |
 | 🛡️ **Chaleco antibalas** | ✅ SÍ | Reduce ventaja |
 | 🎯 **Munición** | ✅ SÍ | Complemento de armas |
 | 💊 **Drogas** | ✅ SÍ | Ilegales — robables |
@@ -216,22 +270,26 @@ Estas clasificaciones se usan para determinar qué armas pueden ser tomadas en c
 
 ❌ En Zona Roja NO puedes robar **dinero ni comida**
 
-✅ **SOLO:** Armas (calibre medio+ para LSPD), chalecos, drogas y munición
+✅ **SOLO:** Armas (calibre según ubicación para LSPD), chalecos, drogas y munición
 
 📋 Items personales siguen prohibidos
+
+**📍 Cacheo a LSPD según ubicación:**
+* 🏙️ **Ciudad:** Solo medio y alto calibre
+* 🏔️ **Norte:** Cualquier calibre
 {% endhint %}
 
-### ✅ Ejemplo: Cacheo en Zona Roja (Banda vs LSPD)
+### ✅ Ejemplo: Cacheo en Zona Roja (Banda vs LSPD en Ciudad)
 
 ```
-😈 Criminal: /me reduce al of icial de LSPD en Zona Roja
+😈 Criminal: /me reduce al oficial de LSPD en Zona Roja (ciudad)
 😈 Criminal: /me comienza a cachear al oficial
 😈 Criminal: /do ¿Qué armas porta?
 
 👮 LSPD: /do Lleva una pistola Glock 17, una carabina M4 y un chaleco antibalas
 
-😈 Criminal: /me ignora la pistola (calibre bajo)
-😈 Criminal: /me toma la carabina M4 y el chaleco
+😈 Criminal: /me ignora la pistola (calibre bajo - no permitido en ciudad)
+😈 Criminal: /me toma la carabina M4 (calibre medio - permitido) y el chaleco
 😈 Criminal: "Tu pistola no me interesa, pero la carabina sí"
 😈 Criminal: /me revisa la munición
 😈 Criminal: /do ¿Cuántos cargadores tiene para la carabina?
@@ -245,15 +303,39 @@ Estas clasificaciones se usan para determinar qué armas pueden ser tomadas en c
 👮 LSPD: /do Lleva $500, un celular, una radio y comida
 
 😈 Criminal: /me deja todo en sus bolsillos
-😈 Criminal: "En Zona Roja solo armas pesadas, nada más"
+😈 Criminal: "En ciudad solo armas medias/altas, nada más"
 😈 Criminal: /me se retira solo con la carabina, chaleco y munición
 ```
 
 {% hint style="success" %}
-**Nota:** El criminal respeta las reglas de ZR:
+**Nota:** El criminal respeta las reglas de ZR en ciudad:
 - ✅ Toma arma de calibre medio (carabina M4), chaleco y munición
-- ❌ Deja pistola (calibre bajo)
+- ❌ Deja pistola (calibre bajo - no permitido en ciudad)
 - ❌ Deja dinero, comida, celular y radio (prohibidos en ZR)
+{% endhint %}
+
+### ✅ Ejemplo: Cacheo en Zona Roja (Banda vs LSPD en Norte)
+
+```
+😈 Criminal: /me reduce al oficial de LSPD en Zona Roja (norte)
+😈 Criminal: /me comienza a cachear al oficial
+😈 Criminal: /do ¿Qué armas porta?
+
+👮 LSPD: /do Lleva una pistola Glock 17 y una carabina M4
+
+😈 Criminal: /me toma AMBAS armas (todo calibre permitido en norte)
+😈 Criminal: "Aquí en el norte te quito todo el armamento"
+😈 Criminal: /me toma el chaleco y la munición
+😈 Criminal: "En el norte no hay restricciones de calibre"
+😈 Criminal: /me se retira con todas las armas, chaleco y munición
+```
+
+{% hint style="success" %}
+**Nota:** En el norte NO hay restricción de calibre para LSPD:
+- ✅ Puede tomar calibre bajo (pistola)
+- ✅ Puede tomar calibre medio (carabina)
+- ✅ Puede tomar calibre alto (rifles de asalto)
+- ✅ También toma chaleco y munición
 {% endhint %}
 
 ***

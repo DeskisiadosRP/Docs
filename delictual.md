@@ -250,7 +250,7 @@ Notas Importantes
   * Ej:
     * /entorno Se verían (x) sujetos vestidos de (x color), en un vehículo ( x modelo y color), robando banco fleca, con bajo calibre.
     * /entorno Se verían (x) sujetos vestidos de (x color), en un vehículo ( x modelo y color), pinchando ruedas de vehículos, con bajo calibre.
-* No está permitido el cateo a LSPD/BSCO.
+* **SÍ está permitido el cateo a LSPD/BCSO** (armamento, munición, chalecos y objetos ilegales).
 * No se podrá utilizar vehículos tipo Deskisiados.
 
 Obstrucciones durante persecuciones
@@ -291,7 +291,7 @@ Notas Importantes
   * Ej:
     * /entorno Se verían (x) sujetos vestidos de (x color), en un vehículo ( x modelo y color), robando joyeria, con medio calibre.
     * /entorno Se verían (x) sujetos vestidos de (x color), en un vehículo ( x modelo y color), pinchando ruedas de vehículos, con medio calibre.
-* No está permitido el cateo a LSPD/BSCO.
+* **SÍ está permitido el cateo a LSPD/BCSO** (armamento, munición, chalecos y objetos ilegales).
 * No se podrá utilizar vehículos tipo Deskisiados.
 * No se podrá catear armas no letales.
 
@@ -447,7 +447,7 @@ Notas Importantes
     * /entorno Hola buenas LSPD, soy un camionero y haciendo mi ruta, Acabo de ver a (x cantidad) personas vestidos (x color o forma) portando ALTO CALIBRE, en (x vehiculos), robando BANCO CENTRAL de la ciudad, van entrando con (x rehenes) y se ven muy peligrosos!!. Vengan rápido por favor!. Al parecer (x sujetos en el exterior, de 2 a 6) se fueron a un lugar X entre ellos UN FRACTIRADOR y están posicionados estratégicamente fuera del banco central . (TOTAL x, INTERIOR x, EXTERIOR x)
 * Solo está permitido el uso de un sniper y esta tiene que ser utilizada fuera del banco central.
 * No se permite el cateo entre compañeros en ningun momento.
-* No está permitido el cateo a LSPD/BSCO (Esto incluye DNI o PLACA).
+* **SÍ está permitido el cateo a LSPD/BCSO** (armamento, munición, chalecos y objetos ilegales). **NO se puede sacar DNI o PLACA**.
 * El o los integrantes que robaron el banco central (BOTÍN) tienen que estar posicionados dentro del banco central OBLIGATORIAMENTE.
 * No se podra utilizar la oficina durante el tiroteo.
 
@@ -575,7 +575,7 @@ Notas Importantes
   * Ej:
     * /entorno Se verían (x) sujetos vestidos de (x color), en un vehículo ( x modelo y color), robando ammunation, con bajo calibre.
     * /entorno Se verían (x) sujetos vestidos de (x color), en un vehículo ( x modelo y color), pinchando ruedas de vehículos con bajo calibre.
-* No está permitido el cateo a LSPD/BSCO.
+* **SÍ está permitido el cateo a LSPD/BCSO** (armamento, munición, chalecos y objetos ilegales).
 * No se podrá utilizar vehículos tipo Deskisiados.
 {% endhint %}
 
