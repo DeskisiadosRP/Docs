@@ -40,7 +40,10 @@ Al disparar se activar un **campo rojo** que delimita visualmente la zona activa
 | **🏃 Saquear sin armas** | Ingresar desarmado para robar cuerpos |
 | **🎭 Animaciones ventajosas** | Cualquier animación que dé ventaja |
 | **🚶 Caminar alternativo** | Solo caminar predeterminado |
-| **🪖 Cascos en ciudad** | Prohibidos en ZR urbanas (permitidos en norte) |
+
+{% hint style="success" %}
+**🪖 Uso de Cascos:** Está permitido el uso de cascos en Zona Roja
+{% endhint %}
 
 ### 📦 Requisitos Mínimos:
 

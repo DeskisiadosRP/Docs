@@ -1,5 +1,13 @@
 # 💀 Sistema Delictual
 
+{% hint style="danger" %}
+**📢 REQUISITO OBLIGATORIO PARA ROLES ILEGALES:**
+
+Para realizar cualquier rol ilegal, es **OBLIGATORIO** estar conectado en el canal de Discord del servidor de OD de Deskisiados. El incumplimiento de esta norma resultará en sanciones administrativas.
+{% endhint %}
+
+***
+
 ### 🚧Actos Delictuales <a href="#actos-delictuales" id="actos-delictuales"></a>
 
 #### 1) Secuestro Civiles. <a href="#id-6-secuestro-civiles-grado-1" id="id-6-secuestro-civiles-grado-1"></a>
