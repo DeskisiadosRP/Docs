@@ -6,6 +6,12 @@
 Para realizar cualquier rol ilegal, es **OBLIGATORIO** estar conectado en el canal de Discord del servidor de OD de Deskisiados. El incumplimiento de esta norma resultará en sanciones administrativas.
 {% endhint %}
 
+{% hint style="warning" %}
+**🚗 USO DE VEHÍCULOS EN ACTOS DELICTUALES:**
+
+Es **OBLIGATORIO** utilizar vehículos de la Organización Delictual (OD) al realizar cualquier acto ilegal. **NO** está permitido el uso de vehículos personales. El incumplimiento de esta norma resultará en sanciones administrativas.
+{% endhint %}
+
 ***
 
 ### 🚧Actos Delictuales <a href="#actos-delictuales" id="actos-delictuales"></a>
