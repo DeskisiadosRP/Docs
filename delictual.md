@@ -9,7 +9,7 @@ Para realizar cualquier rol ilegal, es **OBLIGATORIO** estar conectado en el can
 {% hint style="warning" %}
 **🚗 USO DE VEHÍCULOS Y COLORES EN ACTOS DELICTUALES:**
 
-Es **OBLIGATORIO** utilizar vehículos con el **color correspondiente a la OD** al realizar cualquier acto ilegal. **NO** está permitido el uso de vehículos personales ni vehículos que no tengan el color de la organización. El incumplimiento de esta norma resultará en sanciones administrativas.
+Es **OBLIGATORIO** utilizar vehículos con el **color correspondiente a la OD** al realizar cualquier acto ilegal. **NO** está permitido el uso de vehículos personales que no tengan el color de la organización ni vehículos que no tengan el color de la organización. El incumplimiento de esta norma resultará en sanciones administrativas.
 {% endhint %}
 
 ***
