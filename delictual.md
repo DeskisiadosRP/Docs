@@ -245,14 +245,14 @@ Notas Importantes
 #### 9) Banco Fleeca. <a href="#id-13-banco-fleeca-bandas-mafias-y-carteles-grado-2" id="id-13-banco-fleeca-bandas-mafias-y-carteles-grado-2"></a>
 
 * Atracadores permitidos:
-  * O.D.: 2 mín - 4 máx
-* Armas permitidas: bajo calibre (Prohibido el uso de escopeta)
+  * O.D.: 2 mín - 5 máx
+* Armas permitidas: Bajo calibre y Medio calibre  (Prohibido el uso de Alto calibre)
 * Tirador: No.
 * Refuerzos: No
 * Rehenes: 2 máximo.
 * LSPD/BCSO disponible: Respetar +1
 * Vehículos: Sólo se permitirán vehículos de 4 puertas, el uso de cualquier otro vehículo será sancionado.
-* Tiempo de negociaciones: 10 minutos máximo.
+* Tiempo de negociaciones: 20 minutos máximo.
 * Cooldown: 30 minutos.
 * Tiempo de espera en caso de que no llegue LSPD o SHERIFF 15 minutos
 
