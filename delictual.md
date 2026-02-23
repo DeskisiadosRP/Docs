@@ -439,10 +439,10 @@ Obstrucciones durante persecuciones
 #### 14) Banco Central <a href="#id-21-banco-central-mc-leyenda-mafias-y-carteles.-grado-3" id="id-21-banco-central-mc-leyenda-mafias-y-carteles.-grado-3"></a>
 
 * Atracadores permitidos
-  * O.D.: 8 min- 14 máx
+  * O.D.: 8 min- 16 máx
 * Distribución de delincuentes:
-  * Mínimo en el Interior: 6
-  * Máximo en el Exterior: 6
+  * Mínimo en el Interior: 8
+  * Máximo en el Exterior: 8
 * Armas permitidas: Alto Calibre. (acompañado de una Pistola)
 * Tirador: 1 Máximo (Tiene que estar especificado en el entorno)
 * Rehenes: mínimo 2 – máximo 4 (Se podrá negociar la mitad del botín como máximo para conseguir otro beneficio.)
