@@ -30,13 +30,13 @@ Es **OBLIGATORIO** utilizar vehículos con el **color correspondiente a la OD** 
 * Cooldown: 30 minutos
 * En caso de abatir civiles o pinchar ruedas se debe enviar el entorno correspondiente.
 * Notas Importantes
-  * Conectividad +1 policial
+  * Disponibilidad +1 policial
   * Todo acto delictual debe llevar su entorno correspondiente.
     * Ej:
       * /entorno Se verían (x) sujetos vestidos de (x color), en un vehículo ( x modelo y color) aparentemente con (x calibre), secuestrando a civiles.
       * /entorno Se verían (x) sujetos vestidos de (x color), en un vehículo ( x modelo y color) aparentemente con (x calibre) pinchando ruedas de vehículos.
-  * No está permitido el cateo a LSPD/BSCO.
-  * No podra solicitar DNI o Placa a los oficiales abatidos
+  * Está permitido el cateo a LSPD/BSCO pero solo podrán catear (Balas, chalecos dinero limpio y negro).
+  * No podrá solicitar DNI o Placa a los oficiales abatidos
   * No se podrá utilizar vehículos tipo Deskisiados.
 
 "En caso de llegal oficales, se podra negociar, no obstante, los rehenes solo podrán ser considerados para negociación mientras se mantengan con vida y en pie. En caso de que alguno de ellos resulte gravemente herido o abatido antes del inicio de la negociación, los oficiales estarán autorizados a intervenir de manera inmediata contra los atracadores al llegar a la zona, siguiendo los procedimientos establecidos para situaciones de alto riesgo."
@@ -57,7 +57,7 @@ Es **OBLIGATORIO** utilizar vehículos con el **color correspondiente a la OD** 
 {% hint style="info" %}
 Notas Importantes
 
-* Conectividad de +1
+* Disponibilidad de +1
 * Todo acto delictual debe llevar su entorno correspondiente.
   * Ej:
     * /entorno Se verían (x) sujetos vestidos de (x color), en un vehículo ( x modelo y color) aparentemente con (x calibre) asaltando a civiles.
@@ -150,7 +150,7 @@ Notas Importantes
   * Ej:
     * /entorno Se verían (x) sujetos vestidos de (x color), en un vehículo ( x modelo y color) y van con (x calibre) al parecer están posicionándose para robar un cajero.
     * /entorno Se verían (x) sujetos vestidos de (x color), en un vehículo ( x modelo y color) y van con (x calibre) al parecer están pinchando ruedas de vehículos.
-* No está permitido el cateo a LSPD/BSCO.
+* Está permitido el cateo a LSPD/BSCO pero solo podrán catear (Balas, chalecos dinero limpio y negro).
 * No se podrá utilizar vehículos tipo Deskisiados.
 
 (Consecuencias, será una sanción para el usuario y dependiendo de las graves un strike o warning a la ODs)
@@ -179,7 +179,7 @@ Notas Importantes
 * Ej:
   * /entorno Se verían (x) sujetos vestidos de (x color), en un vehículo ( x modelo y color), robando un badulaque con (x calibre).
   * /entorno Se verían (x) sujetos vestidos de (x color), en un vehículo ( x modelo y color), pinchando ruedas de vehículos con (x calibre).
-* No está permitido el cateo a LSPD/BSCO.
+* Está permitido el cateo a LSPD/BSCO pero solo podrán catear (Balas, chalecos dinero limpio y negro).
 * No se podrá utilizar vehículos tipo Deskisiados.
 
 "Los rehenes solo podrán ser considerados para negociación mientras se mantengan con vida y en pie. En caso de que alguno de ellos resulte gravemente herido o abatido antes del inicio de la negociación, los oficiales estarán autorizados a intervenir de manera inmediata contra los atracadores al llegar a la zona, siguiendo los procedimientos establecidos para situaciones de alto riesgo."
@@ -230,12 +230,12 @@ Notas Importantes
 {% hint style="info" %}
 Notas Importantes
 
-* Conectividad +1
+* Disponibilidad +1
 * Entorno automático
 * Todo acto delictual debe llevar su entorno correspondiente.
   * Ej:
     * /entorno Se verían (x) sujetos vestidos de (x color), en un vehículo ( x modelo y color), Vendiendo droga con (x calibre).
-* No está permitido el cateo a LSPD/BSCO.
+* Está permitido el cateo a LSPD/BSCO pero solo podrán catear (Balas, chalecos dinero limpio y negro).
 * No podra solicitar DNI o Placa a los oficiales abatidos
 * No se podrá utilizar vehículos tipo Deskisiados.
 
@@ -246,7 +246,7 @@ Notas Importantes
 
 * Atracadores permitidos:
   * O.D.: 2 mín - 5 máx
-* Armas permitidas: Bajo calibre y Medio calibre  (Prohibido el uso de Alto calibre)
+* Armas permitidas: Bajo calibre y Medio calibre (Prohibido el uso de Alto calibre)
 * Tirador: No.
 * Refuerzos: No
 * Rehenes: 2 máximo.
@@ -264,7 +264,7 @@ Notas Importantes
   * Ej:
     * /entorno Se verían (x) sujetos vestidos de (x color), en un vehículo ( x modelo y color), robando banco fleca, con bajo calibre.
     * /entorno Se verían (x) sujetos vestidos de (x color), en un vehículo ( x modelo y color), pinchando ruedas de vehículos, con bajo calibre.
-* **SÍ está permitido el cateo a LSPD/BCSO** (armamento, munición, chalecos y objetos ilegales).
+* Está permitido el cateo a LSPD/BSCO pero solo podrán catear (Balas, chalecos dinero limpio y negro).
 * No se podrá utilizar vehículos tipo Deskisiados.
 
 Obstrucciones durante persecuciones
@@ -305,7 +305,7 @@ Notas Importantes
   * Ej:
     * /entorno Se verían (x) sujetos vestidos de (x color), en un vehículo ( x modelo y color), robando joyeria, con medio calibre.
     * /entorno Se verían (x) sujetos vestidos de (x color), en un vehículo ( x modelo y color), pinchando ruedas de vehículos, con medio calibre.
-* **SÍ está permitido el cateo a LSPD/BCSO** (armamento, munición, chalecos y objetos ilegales).
+* Está permitido el cateo a LSPD/BSCO pero solo podrán catear (Balas, chalecos dinero limpio y negro).
 * No se podrá utilizar vehículos tipo Deskisiados.
 * No se podrá catear armas no letales.
 
@@ -339,12 +339,12 @@ Obstrucciones durante persecuciones
 {% hint style="info" %}
 Notas Importantes
 
-* Conectividad +1 policial
+* Disponibilidad +1 policial
 * Todo acto delictual debe llevar su entorno correspondiente.
   * Ej:
     * /entorno Se verían (x) sujetos vestidos de (x color), en (x) auto ( x modelo y color), vendiendo armas (especificar calibre), con (x) calibre.
 * El entorno debe ser enviado cada 10 minutos (esto en caso de que la negociacion con el comprador se alarge)
-* No está permitido el cateo a LSPD/BSCO.
+* Está permitido el cateo a LSPD/BSCO pero solo podrán catear (Balas, chalecos dinero limpio y negro).
 * La organización delictual tendrá máximo 15 minutos para huir de la zona en caso de ganar el tiroteo.
 * Vehiculos de dos puertas y Deskisiados quedan prohibidos.
 
@@ -375,7 +375,7 @@ Obstrucciones durante persecuciones
 {% hint style="info" %}
 Notas Importantes
 
-* Disponible +1 policial.
+* Disponibilidad +1 policial.
 * Todo acto delictual debe llevar su entorno correspondiente.
   * Ej:
     * /entorno Se verían (x) sujetos vestidos de (x color), en (x) auto ( x modelo y color), vendiendo cargamento, con (x) calibre.
@@ -515,7 +515,7 @@ Tirador: Cualquier sujeto posicionado fuera del perímetro/establecimiento en el
 * Tirador: No.
 * Rehenes: No.
 * Refuerzos: No.
-* LSPD/BCSO conectados: 6 mínimo - sin limite.
+* LSPD/BCSO Disponibles: 6 mínimo - sin limite.
 * Vehículos: Todo vehículo de 4 puertas o motos autorizadas.
 * Tiempo de negociaciones: No.
 * Cooldown: No.
@@ -523,7 +523,7 @@ Tirador: Cualquier sujeto posicionado fuera del perímetro/establecimiento en el
 {% hint style="info" %}
 Notas Importantes
 
-* No se podrá catear a LSPD/Sheriff.
+* Está permitido el cateo a LSPD/BSCO pero solo podrán catear (Balas, chalecos dinero limpio y negro).
 * No se podran utilizar Vehículos de 2 puertas ni categoría Deskisiados.
 {% endhint %}
 
@@ -535,7 +535,7 @@ Notas Importantes
 * Tirador: No.
 * Rehenes: No.
 * Refuerzos: No.
-* LSPD/BCSO conectados: 9 mínimo (respetar +1)
+* LSPD/BCSO Disponibilidad: 9 mínimo (respetar +1)
 * Vehículos: Todo vehículo de 4 puertas o motos autorizadas (respetando la zona, es decir si van por tierra en vehiculos 4x4).
 * Tiempo de negociaciones: No.
 * Cooldown: No.
@@ -580,8 +580,6 @@ Notas Importantes
 * Tiempo de espera en caso de que no llegue LSPD o SHERIFF 10 minutos
 
 {% hint style="info" %}
-
-
 Notas Importantes
 
 * Disponibilidad +1policial
@@ -589,7 +587,7 @@ Notas Importantes
   * Ej:
     * /entorno Se verían (x) sujetos vestidos de (x color), en un vehículo ( x modelo y color), robando ammunation, con bajo calibre.
     * /entorno Se verían (x) sujetos vestidos de (x color), en un vehículo ( x modelo y color), pinchando ruedas de vehículos con bajo calibre.
-* **SÍ está permitido el cateo a LSPD/BCSO** (armamento, munición, chalecos y objetos ilegales).
+* Está permitido el cateo a LSPD/BSCO pero solo podrán catear (Balas, chalecos dinero limpio y negro).
 * No se podrá utilizar vehículos tipo Deskisiados.
 {% endhint %}
 
