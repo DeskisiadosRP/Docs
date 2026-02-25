@@ -63,14 +63,9 @@ Se deberá presentar la siguiente información completa:
 * Edad:
 * Nacionalidad:
 * Género:
-* Número de Cuenta Bancaria:
 * Trabajo Actual:
-* Antecedentes:
-* Fecha de Antecedentes:
-* Vehículos:
 * Evidencia Fotográfica Obligatoria:
   * Rostro del sujeto
-  * Vehículos vinculados
   * Casa o HQ
 {% endhint %}
 
