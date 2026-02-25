@@ -30,7 +30,7 @@ Es **OBLIGATORIO** utilizar vehículos con el **color correspondiente a la OD** 
 * Cooldown: 30 minutos
 * En caso de abatir civiles o pinchar ruedas se debe enviar el entorno correspondiente.
 * Notas Importantes
-  * Disponibilidad +1 policial
+  * Conectividad +1 policial
   * Todo acto delictual debe llevar su entorno correspondiente.
     * Ej:
       * /entorno Se verían (x) sujetos vestidos de (x color), en un vehículo ( x modelo y color) aparentemente con (x calibre), secuestrando a civiles.
@@ -57,7 +57,7 @@ Es **OBLIGATORIO** utilizar vehículos con el **color correspondiente a la OD** 
 {% hint style="info" %}
 Notas Importantes
 
-* Disponibilidad de +1
+* Conectividad de +1
 * Todo acto delictual debe llevar su entorno correspondiente.
   * Ej:
     * /entorno Se verían (x) sujetos vestidos de (x color), en un vehículo ( x modelo y color) aparentemente con (x calibre) asaltando a civiles.
@@ -118,7 +118,7 @@ Notas Importantes
 {% hint style="info" %}
 Notas Importantes
 
-* Disponibilidad +1
+* Conectividad +1
 * Todo acto delictual debe llevar su entorno correspondiente.
   * Ej:
     * /entorno Se verían (x) sujetos vestidos de (x color), en una (motocicleta o bicicleta) ( x modelo y color), posicionándose para robar un parquímetro, este va con (x calibre).
@@ -196,7 +196,7 @@ Notas Importantes
 * Tirador: no permitido .
 * Rehenes: no permitido.
 * Refuerzos: No
-* Oficiales disponibles: Mínimo 2 (Respetar +1)
+* Oficiales conectados: Mínimo 2 (Respetar +1)
 * Vehículos: Todo vehículo de 4 puertas o motos autorizadas(respetando la zona de la ZR ya sea tierra o carretera).
 
 {% hint style="info" %}
@@ -230,7 +230,7 @@ Notas Importantes
 {% hint style="info" %}
 Notas Importantes
 
-* Disponibilidad +1
+* Conectividad +1
 * Entorno automático
 * Todo acto delictual debe llevar su entorno correspondiente.
   * Ej:
@@ -339,7 +339,7 @@ Obstrucciones durante persecuciones
 {% hint style="info" %}
 Notas Importantes
 
-* Disponibilidad +1 policial
+* Conectividad +1 policial
 * Todo acto delictual debe llevar su entorno correspondiente.
   * Ej:
     * /entorno Se verían (x) sujetos vestidos de (x color), en (x) auto ( x modelo y color), vendiendo armas (especificar calibre), con (x) calibre.
@@ -375,7 +375,7 @@ Obstrucciones durante persecuciones
 {% hint style="info" %}
 Notas Importantes
 
-* Disponibilidad +1 policial.
+* Conectividad +1 policial.
 * Todo acto delictual debe llevar su entorno correspondiente.
   * Ej:
     * /entorno Se verían (x) sujetos vestidos de (x color), en (x) auto ( x modelo y color), vendiendo cargamento, con (x) calibre.
