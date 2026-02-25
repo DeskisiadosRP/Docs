@@ -6,10 +6,35 @@ Las Zonas Rojas permiten conflictos y actividades de alto riesgo con restriccion
 
 ***
 
-## 📏 Delimitación del Rango
+## � Requisito de Ingreso a Zona Roja
+
+{% hint style="warning" %}
+**OBLIGATORIO:** Antes de ingresar a cualquier Zona Roja, se debe mandar **/entorno**
+{% endhint %}
+
+### Procedimiento:
+
+1. **📝 Ejecutar comando /entorno** antes de entrar a la ZR
+2. **📍 Describir ubicación, cantidad de personas y calibre**
+3. **✅ Confirmar el entorno antes de iniciar actividades**
+
+**Ejemplo:**
+```
+/entorno Se verían (4) sujetos vestidos de (negro), 
+en un vehículo (sedán gris), ingresando a zona roja 
+de (ubicación específica) con BAJO CALIBRE.
+```
+
+{% hint style="danger" %}
+**No enviar /entorno antes de ingresar a ZR puede resultar en sanciones administrativas**
+{% endhint %}
+
+***
+
+## �📏 Delimitación del Rango
 
 {% hint style="info" %}
-**Radio de Acción:** 300 metros desde el punto central de activación
+**Radio de Acción:** 150 metros desde el punto central de activación
 {% endhint %}
 
 ### Visu alización:
