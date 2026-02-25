@@ -25,6 +25,7 @@ Estas zonas están protegidas por **RDI (Rol de Interpretación)**, asegurando u
 {% endhint %}
 
 #### Propósito:
+
 * Interacciones legales con autoridades
 * Realizar denuncias
 * Procedimientos policiales
@@ -39,6 +40,7 @@ Estas zonas están protegidas por **RDI (Rol de Interpretación)**, asegurando u
 {% endhint %}
 
 #### Propósito:
+
 * Atención médica y recuperación
 * Tratamiento de heridas
 * Check-ups médicos
@@ -53,6 +55,7 @@ Estas zonas están protegidas por **RDI (Rol de Interpretación)**, asegurando u
 {% endhint %}
 
 #### Características:
+
 * Solo garajes **públicos**
 * **Excluye** garajes privados
 * Zona para aparcar sin riesgo
@@ -68,16 +71,16 @@ Estas zonas están protegidas por **RDI (Rol de Interpretación)**, asegurando u
 
 #### Incluye:
 
-| Tipo | Ejemplos |
-|------|----------|
-| 🔧 **Mecánicos** | Talleres y bengalas |
-| 🍔 **Locales de comida** | Restaurantes, fast food  |
-| ⛽ **Gasolineras** | Estaciones de servicio |
-| 👔 **Tiendas de ropa** | Boutiques, tiendas |
-| 💇 **Barberías** | Salones de belleza |
-| 📦 **Trabajos estándar** | Diversos empleos |
-| 🏁 **Spawn de trabajos** | Puntos de inicio |
-| 🛒 **24/7** | Tiendas de conveniencia |
+| Tipo                     | Ejemplos                |
+| ------------------------ | ----------------------- |
+| 🔧 **Mecánicos**         | Talleres y bengalas     |
+| 🍔 **Locales de comida** | Restaurantes, fast food |
+| ⛽ **Gasolineras**        | Estaciones de servicio  |
+| 👔 **Tiendas de ropa**   | Boutiques, tiendas      |
+| 💇 **Barberías**         | Salones de belleza      |
+| 📦 **Trabajos estándar** | Diversos empleos        |
+| 🏁 **Spawn de trabajos** | Puntos de inicio        |
+| 🛒 **24/7**              | Tiendas de conveniencia |
 
 ***
 
@@ -94,7 +97,8 @@ Estas zonas están protegidas por **RDI (Rol de Interpretación)**, asegurando u
 ### ❌ Prohibido
 
 {% hint style="danger" %}
-**Estrictamente prohibido en estos 300 metros:**
+**Estrictamente prohibido en estos 300 metros:**\
+**Esto cuenta también para todo tipo de locales como de comida y mecánicos.**
 {% endhint %}
 
 * 🔫 **Disparos o tiroteos**
@@ -114,11 +118,11 @@ Estas zonas están protegidas por **RDI (Rol de Interpretación)**, asegurando u
 
 ### Sanciones:
 
-| Infracción | Primera Vez | Reincidencia |
-|------------|-------------|--------------|
-| **Disparar en ZS** | Ban 3-7 días | Ban 15-30 días |
-| **Agredir en ZS** | Ban 1-3 días | Ban 7-15 días |
-| **Robar en ZS** | Ban 1-3 días | Ban 7-15 días |
+| Infracción           | Primera Vez  | Reincidencia   |
+| -------------------- | ------------ | -------------- |
+| **Disparar en ZS**   | Ban 3-7 días | Ban 15-30 días |
+| **Agredir en ZS**    | Ban 1-3 días | Ban 7-15 días  |
+| **Robar en ZS**      | Ban 1-3 días | Ban 7-15 días  |
 | **Secuestrar en ZS** | Ban 3-7 días | Ban 15-30 días |
 
 ***
@@ -129,6 +133,7 @@ Estas zonas están protegidas por **RDI (Rol de Interpretación)**, asegurando u
 **Objetivo principal:**
 
 Permitir que los jugadores puedan:
+
 * 🎭 Desarrollar roles civiles tranquilos
 * 💼 Trabajar sin interrupciones
 * 🏥 Recibir atención médica
@@ -146,10 +151,6 @@ Permitir que los jugadores puedan:
 
 ***
 
-<div align="center">
-
-### 🛡️ Respeta las Zonas Seguras 🛡️
+#### 🛡️ Respeta las Zonas Seguras 🛡️
 
 **Todos merecemos espacios tranquilos para rolear**
-
-</div>

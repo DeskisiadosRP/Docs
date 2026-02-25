@@ -24,7 +24,7 @@ Es **OBLIGATORIO** utilizar vehículos con el **color correspondiente a la OD** 
 * Armas permitidas para civiles: Bajo Calibre, Medio Calibre, armas cortopunzantes y bate.
 * Tirador: No.
 * Refuerzos: No
-* LSPD/BCSO disponibles: Respetar +1
+* LSPD/BCSO conectados: Respetar +1
 * Vehículos: Sólo se permitirán vehículos de 4 puertas (excepto autos Deskisiados), el uso de cualquier otro vehículo será sancionado.
 * Tiempo de negociaciones: 5 minutos máximo.
 * Cooldown: 30 minutos

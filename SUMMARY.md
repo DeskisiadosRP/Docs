@@ -10,6 +10,7 @@
 * [🚫 Toxicidad y Acoso](toxicidad-y-acoso.md)
 * [❌ Prohibiciones Generales](prohibiciones.md)
 * [📋 Bitácoras e Investigaciones](bitacoras-e-investigaciones.md)
+* [⚖️ Normativa de CK (Character Kill)](importante/normativa-de-ck-character-kill.md)
 
 ## 🎮 Guías de Juego
 
