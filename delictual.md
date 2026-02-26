@@ -29,13 +29,13 @@ Es **OBLIGATORIO** utilizar vehículos con el **color correspondiente a la OD** 
 * Tiempo de negociaciones: 5 minutos máximo.
 * Cooldown: 30 minutos
 * En caso de abatir civiles o pinchar ruedas se debe enviar el entorno correspondiente.
+  * **Excepción:** En tiroteos espontáneos (tiroteo de la nada) contra civiles o policías, se permite enviar **entorno tardío** describiendo la acción (ej: abatiendo/abriendo fuego).
 * Notas Importantes
   * Conectividad +1 policial
   * Todo acto delictual debe llevar su entorno correspondiente.
     * Ej:
       * /entorno Se verían (x) sujetos vestidos de (x color), en un vehículo ( x modelo y color) aparentemente con (x calibre), secuestrando a civiles.
-      * /entorno Se verían (x) sujetos vestidos de (x color), en un vehículo ( x modelo y color) aparentemente con (x calibre) pinchando ruedas de vehículos.
-  * Está permitido el cateo a LSPD/BSCO pero solo podrán catear (Balas, chalecos dinero limpio y negro).
+      * /entorno Se verían (x) sujetos vestidos de (x color), en un vehículo ( x modelo y color) aparentemente con (x calibre) pinchando ruedas de vehículos.  * **Entorno tardío:** En tiroteos espontáneos se permite enviar entorno tardío (ej: /entorno Se vería (1) sujeto abriendo fuego contra civil/policía con bajo calibre).  * Está permitido el cateo a LSPD/BSCO pero solo podrán catear (Balas, chalecos dinero limpio y negro).
   * No podrá solicitar DNI o Placa a los oficiales abatidos
   * No se podrá utilizar vehículos tipo Deskisiados.
 
@@ -62,8 +62,10 @@ Notas Importantes
   * Ej:
     * /entorno Se verían (x) sujetos vestidos de (x color), en un vehículo ( x modelo y color) aparentemente con (x calibre) asaltando a civiles.
     * /entorno Se verían (x) sujetos vestidos de (x color), en un vehículo ( x modelo y color) aparentemente con (x calibre) pinchando ruedas de vehículos.
+  * **Entorno tardío:** En tiroteos espontáneos se permite enviar entorno tardío (ej: /entorno Se vería (1) sujeto abriendo fuego contra civil/policía con bajo calibre).
 * No está permitido el cateo a LSPD/BSCO en ninguna fase.
 * No se podrá utilizar vehículos tipo Deskisiados.
+* **LSPD/BCSO:** No está permitido el abuso de la animación shield2.
 * Está prohibido robar a trabajadores de:
   * Locales del servidor en servicio.
   * Trabajos gubernamentales.
@@ -96,11 +98,13 @@ No se podra robar lo siguiente:
 * Tiempo de negociaciones: No
 * Cooldown: 5 minutos.
 * En caso de abatir civiles, pinchar ruedas o llegar refuerzos se debe enviar el entorno correspondiente.
+  * **Excepción:** En tiroteos espontáneos se permite enviar **entorno tardío** describiendo la acción.
 
 {% hint style="info" %}
 Notas Importantes
 
 * No se podra catear a LSPD/Sheriff.
+* **LSPD/BCSO:** No está permitido el abuso de la animación shield2.
 {% endhint %}
 
 #### 4) Parquímetros. <a href="#id-3-parquimetro-pandillas-mc-y-civiles-grado-1" id="id-3-parquimetro-pandillas-mc-y-civiles-grado-1"></a>
@@ -122,9 +126,11 @@ Notas Importantes
 * Todo acto delictual debe llevar su entorno correspondiente.
   * Ej:
     * /entorno Se verían (x) sujetos vestidos de (x color), en una (motocicleta o bicicleta) ( x modelo y color), posicionándose para robar un parquímetro, este va con (x calibre).
+  * **Entorno tardío:** En tiroteos espontáneos se permite enviar entorno tardío.
 * No está permitido el cateo a LSPD/BSCO.
 * No está permitido el pincho de ruedas para ambas partes.
 * No se podrá utilizar vehículos tipo Deskisiados RP.
+* **LSPD/BCSO:** No está permitido el abuso de la animación shield2.
 
 (Consecuencias, será una sanción para el usuario y dependiendo de las graves un strike o warning a la ODs)
 {% endhint %}
@@ -150,8 +156,10 @@ Notas Importantes
   * Ej:
     * /entorno Se verían (x) sujetos vestidos de (x color), en un vehículo ( x modelo y color) y van con (x calibre) al parecer están posicionándose para robar un cajero.
     * /entorno Se verían (x) sujetos vestidos de (x color), en un vehículo ( x modelo y color) y van con (x calibre) al parecer están pinchando ruedas de vehículos.
+  * **Entorno tardío:** En tiroteos espontáneos se permite enviar entorno tardío.
 * Está permitido el cateo a LSPD/BSCO pero solo podrán catear (Balas, chalecos dinero limpio y negro).
 * No se podrá utilizar vehículos tipo Deskisiados.
+* **LSPD/BCSO:** No está permitido el abuso de la animación shield2.
 
 (Consecuencias, será una sanción para el usuario y dependiendo de las graves un strike o warning a la ODs)
 {% endhint %}
@@ -179,6 +187,7 @@ Notas Importantes
 * Ej:
   * /entorno Se verían (x) sujetos vestidos de (x color), en un vehículo ( x modelo y color), robando un badulaque con (x calibre).
   * /entorno Se verían (x) sujetos vestidos de (x color), en un vehículo ( x modelo y color), pinchando ruedas de vehículos con (x calibre).
+* **Entorno tardío:** En tiroteos espontáneos se permite enviar entorno tardío.
 * Está permitido el cateo a LSPD/BSCO pero solo podrán catear (Balas, chalecos dinero limpio y negro).
 * No se podrá utilizar vehículos tipo Deskisiados.
 
@@ -210,10 +219,12 @@ Notas Importantes
     * /entorno Se verían (x) sujetos vestidos de (x color), en un vehículo ( x modelo y color), entrando a ZR con (x calibre).
     * /entorno Se verían (x) sujetos vestidos de (x color), en un vehículo ( x modelo y color), recolectando/procesando droga con (x calibre).
     * /entorno Se verían (x) sujetos vestidos de (x color), en un vehículo ( x modelo y color), retirandose de zr con (x calibre).
+  * **Entorno tardío:** En tiroteos espontáneos se permite enviar entorno tardío.
 * Queda prohibido esconderse en arbustos.
 * Se podrá catear a LSPD/BCSO únicamente: armamento, munición, chalecos y objetos ilegales, en cualquier fase de inconciencia.
 * Se podra solicitar DNI o Placa a los oficiales abatidos
 * No se podrán utilizar Vehículos de 2 puertas o Autos Deskisiados.
+* **LSPD/BCSO:** No está permitido el abuso de la animación shield2.
 {% endhint %}
 
 #### 8) Venta de Drogas. <a href="#id-11-venta-de-drogas-pandillas-mc-y-civiles-grado-1" id="id-11-venta-de-drogas-pandillas-mc-y-civiles-grado-1"></a>
@@ -235,9 +246,11 @@ Notas Importantes
 * Todo acto delictual debe llevar su entorno correspondiente.
   * Ej:
     * /entorno Se verían (x) sujetos vestidos de (x color), en un vehículo ( x modelo y color), Vendiendo droga con (x calibre).
+  * **Entorno tardío:** En tiroteos espontáneos se permite enviar entorno tardío.
 * Está permitido el cateo a LSPD/BSCO pero solo podrán catear (Balas, chalecos dinero limpio y negro).
 * No podra solicitar DNI o Placa a los oficiales abatidos
 * No se podrá utilizar vehículos tipo Deskisiados.
+* **LSPD/BCSO:** No está permitido el abuso de la animación shield2.
 
 (Consecuencias, será una sanción para el usuario y dependiendo de las graves un strike o warning a la ODs)
 {% endhint %}
@@ -264,8 +277,10 @@ Notas Importantes
   * Ej:
     * /entorno Se verían (x) sujetos vestidos de (x color), en un vehículo ( x modelo y color), robando banco fleca, con bajo calibre.
     * /entorno Se verían (x) sujetos vestidos de (x color), en un vehículo ( x modelo y color), pinchando ruedas de vehículos, con bajo calibre.
+  * **Entorno tardío:** En tiroteos espontáneos se permite enviar entorno tardío.
 * Está permitido el cateo a LSPD/BSCO pero solo podrán catear (Balas, chalecos dinero limpio y negro).
 * No se podrá utilizar vehículos tipo Deskisiados.
+* **LSPD/BCSO:** No está permitido el abuso de la animación shield2.
 
 Obstrucciones durante persecuciones
 
@@ -305,9 +320,11 @@ Notas Importantes
   * Ej:
     * /entorno Se verían (x) sujetos vestidos de (x color), en un vehículo ( x modelo y color), robando joyeria, con medio calibre.
     * /entorno Se verían (x) sujetos vestidos de (x color), en un vehículo ( x modelo y color), pinchando ruedas de vehículos, con medio calibre.
+  * **Entorno tardío:** En tiroteos espontáneos se permite enviar entorno tardío.
 * Está permitido el cateo a LSPD/BSCO pero solo podrán catear (Balas, chalecos dinero limpio y negro).
 * No se podrá utilizar vehículos tipo Deskisiados.
 * No se podrá catear armas no letales.
+* **LSPD/BCSO:** Está permitido el uso de la animación shield2.
 
 Obstrucciones durante persecuciones
 
@@ -335,6 +352,7 @@ Obstrucciones durante persecuciones
 * Vehículos: Vehiculos de 4 puertas o motos.
 * Cooldown: 2 horas
 * En caso de abatir civiles, pinchar ruedas o llegar refuerzos se debe enviar el entorno correspondiente.
+  * **Excepción:** En tiroteos espontáneos se permite enviar **entorno tardío** describiendo la acción.
 
 {% hint style="info" %}
 Notas Importantes
@@ -343,10 +361,12 @@ Notas Importantes
 * Todo acto delictual debe llevar su entorno correspondiente.
   * Ej:
     * /entorno Se verían (x) sujetos vestidos de (x color), en (x) auto ( x modelo y color), vendiendo armas (especificar calibre), con (x) calibre.
+  * **Entorno tardío:** En tiroteos espontáneos se permite enviar entorno tardío.
 * El entorno debe ser enviado cada 10 minutos (esto en caso de que la negociacion con el comprador se alarge)
 * Está permitido el cateo a LSPD/BSCO pero solo podrán catear (Balas, chalecos dinero limpio y negro).
 * La organización delictual tendrá máximo 15 minutos para huir de la zona en caso de ganar el tiroteo.
 * Vehiculos de dos puertas y Deskisiados quedan prohibidos.
+* **LSPD/BCSO:** No está permitido el abuso de la animación shield2.
 
 Obstrucciones durante persecuciones
 
@@ -379,9 +399,11 @@ Notas Importantes
 * Todo acto delictual debe llevar su entorno correspondiente.
   * Ej:
     * /entorno Se verían (x) sujetos vestidos de (x color), en (x) auto ( x modelo y color), vendiendo cargamento, con (x) calibre.
+  * **Entorno tardío:** En tiroteos espontáneos se permite enviar entorno tardío.
 * Se podrá catear a BCSO únicamente: armamento, munición, chalecos y objetos ilegales, en cualquier fase de inconciencia.
 * No se podrá utilizar vehículos tipo Deskisiados.
 * Solo se podran vender cargamentos en Norte
+* **LSPD/BCSO:** No está permitido el abuso de la animación shield2.
 
 Uso de Francotirador:
 
@@ -407,6 +429,7 @@ Uso de Francotirador:
 * Tiempo de negociaciones: 10 minutos máximo.
 * Cooldown: 3 secuestros semanales por Organización Delictual.
 * En caso de abatir civiles, pinchar ruedas o llegar refuerzos se debe enviar el entorno correspondiente.
+  * **Excepción:** En tiroteos espontáneos se permite enviar **entorno tardío** describiendo la acción.
 
 {% hint style="info" %}
 Notas Importantes
@@ -416,11 +439,13 @@ Notas Importantes
   * Ej:
     * /entorno Se verían (x) sujetos vestidos de (x color), en un vehículo ( x modelo y color), secuestrando a LSPD/sheriff, con medio calibre/alto calibre. (Especificar cual)
     * /entorno Se verían (x) sujetos vestidos de (x color), en un vehículo ( x modelo y color), pinchando ruedas de vehículos de LSPD/Sheriff , con medio calibre/alto calibre. (Especificar cual)
+  * **Entorno tardío:** En tiroteos espontáneos se permite enviar entorno tardío.
 * No se podrá utilizar vehículos tipo Deskisiados.
 * Se podrá catear a LSPD/BCSO únicamente: armamento, munición, chalecos y objetos ilegales, en fase 1.
 * Máximo de rehenes 2 oficiales por secuestro
 * Está permitida la activación de malla completa según corresponda, bajo los límites del FairPlay establecidos.
 * NO SE PODRÁ SECUESTRAR LSPD/SHERIFF PARA REHENES DE ALGUN ROBO
+* **LSPD/BCSO:** Está permitido el uso de la animación shield2.
 
 Obstrucciones durante persecuciones
 
@@ -459,9 +484,11 @@ Notas Importantes
 * Todo acto delictual debe llevar su entorno correspondiente.
   * Ej:
     * /entorno Hola buenas LSPD, soy un camionero y haciendo mi ruta, Acabo de ver a (x cantidad) personas vestidos (x color o forma) portando ALTO CALIBRE, en (x vehiculos), robando BANCO CENTRAL de la ciudad, van entrando con (x rehenes) y se ven muy peligrosos!!. Vengan rápido por favor!. Al parecer (x sujetos en el exterior, de 2 a 6) se fueron a un lugar X entre ellos UN FRACTIRADOR y están posicionados estratégicamente fuera del banco central . (TOTAL x, INTERIOR x, EXTERIOR x)
+  * **Entorno tardío:** En tiroteos espontáneos se permite enviar entorno tardío.
 * Solo está permitido el uso de un sniper y esta tiene que ser utilizada fuera del banco central.
 * No se permite el cateo entre compañeros en ningun momento.
 * **SÍ está permitido el cateo a LSPD/BCSO** (armamento, munición, chalecos y objetos ilegales). **NO se puede sacar DNI o PLACA**.
+* **LSPD/BCSO:** Está permitido el uso de la animación shield2.
 * El o los integrantes que robaron el banco central (BOTÍN) tienen que estar posicionados dentro del banco central OBLIGATORIAMENTE.
 * No se podra utilizar la oficina durante el tiroteo.
 
@@ -525,6 +552,7 @@ Notas Importantes
 
 * Está permitido el cateo a LSPD/BSCO pero solo podrán catear (Balas, chalecos dinero limpio y negro).
 * No se podran utilizar Vehículos de 2 puertas ni categoría Deskisiados.
+* **LSPD/BCSO:** Está permitido el uso de la animación shield2.
 {% endhint %}
 
 #### 16) Ajuste de cuentas entre OD´S. <a href="#id-23-traslado-a-federal-se-puede-hacer-alianza-grado-3-1" id="id-23-traslado-a-federal-se-puede-hacer-alianza-grado-3-1"></a>
@@ -547,9 +575,11 @@ Notas Importantes
   *   Ej:
 
       /entorno Se verían (x) sujetos vestidos de (x color), en (x cantidad) vehículo ( x modelo y color), realizando ajute de cuentas, con (x calibre)
+  * **Entorno tardío:** En tiroteos espontáneos se permite enviar entorno tardío.
 * No se permite el cateo entre compañeros en ningun momento.
 * No está permitido el cateo a LSPD/BSCO.
 * No se podran utilizar Vehículos de 2 puertas ni categoría Deskisiados.
+* **LSPD/BCSO:** No está permitido el abuso de la animación shield2.
 * Al finalizar el rol se podra catear a la OD rival y se podra catear lo siguiente:
   * dinero
   * armas
@@ -587,8 +617,10 @@ Notas Importantes
   * Ej:
     * /entorno Se verían (x) sujetos vestidos de (x color), en un vehículo ( x modelo y color), robando ammunation, con bajo calibre.
     * /entorno Se verían (x) sujetos vestidos de (x color), en un vehículo ( x modelo y color), pinchando ruedas de vehículos con bajo calibre.
+  * **Entorno tardío:** En tiroteos espontáneos se permite enviar entorno tardío.
 * Está permitido el cateo a LSPD/BSCO pero solo podrán catear (Balas, chalecos dinero limpio y negro).
 * No se podrá utilizar vehículos tipo Deskisiados.
+* **LSPD/BCSO:** No está permitido el abuso de la animación shield2.
 {% endhint %}
 
 "<mark style="color:purple;">Los rehenes solo podrán ser considerados para negociación mientras se mantengan con vida y en pie. En caso de que alguno de ellos resulte gravemente herido o abatido antes del inicio de la negociación, los oficiales estarán autorizados a intervenir de manera inmediata contra los atracadores al llegar a la zona, siguiendo los procedimientos establecidos para situaciones de alto riesgo</mark>."
