@@ -1,4 +1,4 @@
-# 📋 Conceptos de Rol
+# 🎭 Conceptos de Rol
 
 ## 🎓 Guía Completa de Términos y Definiciones
 
@@ -14,14 +14,14 @@
 
 Este documento contiene todos los términos esenciales que debes conocer para un roleplay de calidad en Deskisiados RP.
 
-| Categoría | Conceptos |
-|-----------|-----------|
-| **🎭 Básicos** | IC, OOC, RDE, RDI |
-| **❌ Prohibidos** | PG, PG2, MG, MG2, NRE, NRC |
-| **⚔️ Combate** | PK, PKT, CK, RK, HK, MK, DM, VDM, TK |
-| **🚗 Vehículos** | BD, NCD, DB, CJ |
-| **👤 Comportamiento** | Fair Play, Fear Play, BJ, ZZ, VV |
-| **⚙️ Mecánicas** | AA, AA2, NRH, AFK |
+| Categoría             | Conceptos                            |
+| --------------------- | ------------------------------------ |
+| **🎭 Básicos**        | IC, OOC, RDE, RDI                    |
+| **❌ Prohibidos**      | PG, PG2, MG, MG2, NRE, NRC           |
+| **⚔️ Combate**        | PK, PKT, CK, RK, HK, MK, DM, VDM, TK |
+| **🚗 Vehículos**      | BD, NCD, DB, CJ                      |
+| **👤 Comportamiento** | Fair Play, Fear Play, BJ, ZZ, VV     |
+| **⚙️ Mecánicas**      | AA, AA2, NRH, AFK                    |
 
 ***
 
@@ -77,12 +77,12 @@ El **Rol de Entorno (RDE)** se refiere a la interpretación de todo lo que rodea
 
 #### 💡 Elementos a Considerar
 
-| Elemento | Descripción |
-|----------|-------------|
-| **🚗 Vehículos** | Reaccionar a autos en movimiento |
-| **🏢 Edificios** | Respetar estructuras y obstáculos |
-| **🌦️ Clima** | Actuar según condiciones climáticas |
-| **👥 NPCs** | Considerar civiles y población |
+| Elemento         | Descripción                         |
+| ---------------- | ----------------------------------- |
+| **🚗 Vehículos** | Reaccionar a autos en movimiento    |
+| **🏢 Edificios** | Respetar estructuras y obstáculos   |
+| **🌦️ Clima**    | Actuar según condiciones climáticas |
+| **👥 NPCs**      | Considerar civiles y población      |
 
 #### ✅ Ejemplo Correcto
 
@@ -178,12 +178,12 @@ Ocurre cuando chocas y sigues tu camino sin reaccionar o rolear las consecuencia
 
 #### ❌ Ejemplos Comunes
 
-| Acción | Descripción |
-|--------|-------------|
-| **F8 Quit** | Salir del juego para evitar consecuencias |
-| **Teletransporte** | Usar bugs para escapar |
-| **Logout** | Desconectarse en medio de un rol |
-| **Inventario infinito** | Guardar items imposibles |
+| Acción                  | Descripción                               |
+| ----------------------- | ----------------------------------------- |
+| **F8 Quit**             | Salir del juego para evitar consecuencias |
+| **Teletransporte**      | Usar bugs para escapar                    |
+| **Logout**              | Desconectarse en medio de un rol          |
+| **Inventario infinito** | Guardar items imposibles                  |
 
 {% hint style="danger" %}
 **Importante:** PG2 afecta la calidad del rol y genera experiencia injusta. Respeta el desarrollo natural de cada situación.
@@ -284,6 +284,7 @@ El **Player Kill (PK)** es la pérdida de memoria temporal de los últimos **30 
 {% tabs %}
 {% tab title="❌ Eventos" %}
 No recuerdas:
+
 * Cómo llegaste al lugar
 * Quién estuvo involucrado
 * Qué ocurrió antes de quedar inconsciente
@@ -292,6 +293,7 @@ No recuerdas:
 
 {% tab title="❌ Vestimenta" %}
 No recuerdas:
+
 * Ropa de los atacantes
 * Colores o detalles específicos
 * Características físicas
@@ -300,6 +302,7 @@ No recuerdas:
 
 {% tab title="❌ Vehículo" %}
 No recuerdas:
+
 * Marca y modelo del vehículo
 * Color o placas
 * Características especiales
@@ -326,15 +329,17 @@ No recuerdas:
 El **Player Kill Total (PKT)** es la pérdida de memoria completa, recordando solo datos básicos de identidad.
 
 <details>
+
 <summary>✅ ¿Qué SÍ Recuerdas?</summary>
 
 * 🆔 Tu nombre
-* 📅 Tu edad  
+* 📅 Tu edad
 * 👨‍👩‍👧 Nombres de tus padres (si están en tu historia)
 
 </details>
 
 <details>
+
 <summary>❌ ¿Qué Olvidas?</summary>
 
 * 👥 Relaciones con amigos y familiares
@@ -375,11 +380,11 @@ El **Character Kill (CK)** es la muerte **definitiva y permanente** de tu person
 
 {% tabs %}
 {% tab title="✅ Voluntario" %}
-## CK Voluntario
+### CK Voluntario
 
 Cuando decides finalizar la historia de tu personaje por decisión propia.
 
-### 📝 Procedimiento:
+#### 📝 Procedimiento:
 
 1. 🎫 Abrir ticket en [Discord](https://discord.gg/8mSvJfNG)
 2. 📄 Explicar motivo del CK
@@ -393,11 +398,11 @@ El staff evaluará que el CK tenga sentido narrativo antes de aprobarlo.
 {% endtab %}
 
 {% tab title="⚖️ Administrativo" %}
-## CK Administrativo
+### CK Administrativo
 
 La administración puede aplicar CK por incumplimiento reiterado de normativa.
 
-### ⚠️ Causas:
+#### ⚠️ Causas:
 
 * Múltiples sanciones graves
 * Comportamiento que afecta la comunidad
@@ -410,30 +415,35 @@ Esta es una medida extrema aplicada solo en casos graves.
 {% endtab %}
 
 {% tab title="🚔 Policial" %}
-## CK Policial
+### CK Policial
 
-### 💀 CK a Organizaciones Delictivas (OD)
+#### 💀 CK a Organizaciones Delictivas (OD)
 
-#### Condiciones:
+**Condiciones:**
+
 * Incumplimientos graves de normativa
 * Investigación completa (fotos, videos, interrogatorios)
 * Desmantelación formal con autorización administrativa
 
-#### Procedimiento:
+**Procedimiento:**
+
 1. Notificación a la OD por administración/jefatura
 2. Rol de defensa de HQ supervisado por staff
 3. Condiciones justas para ambos bandos
 
-#### Resultados:
+**Resultados:**
+
 * 🔴 **OD PIERDE:** CK colectivo a todos los miembros
 * 🟢 **OD GANA:** LSPD tiene 1 semana para localizar miembros o se elimina investigación
 
-### 👮 CK a Civiles
+#### 👮 CK a Civiles
 
-#### Condición:
+**Condición:**
+
 * Multas superiores a **$450,000**
 
-#### Procedimiento:
+**Procedimiento:**
+
 1. Verificar en sistema ORIGEN
 2. Retener al individuo
 3. Informar a mandos
@@ -447,16 +457,18 @@ Este CK representa encarcelamiento de por vida por deudas extremas.
 {% endtab %}
 
 {% tab title="💀 Por OD" %}
-## CK entre Organizaciones
+### CK entre Organizaciones
 
 Las ODs pueden solicitar CK a miembros por:
 
-### 📋 Motivos Válidos:
+#### 📋 Motivos Válidos:
+
 * 🕵️ Traición o filtración de información
 * 🚪 Expulsión (voluntaria u orden directa)
 * ⚔️ Ajuste de cuentas con otra OD
 
-### 📝 Proceso:
+#### 📝 Proceso:
+
 1. Abrir ticket con pruebas
 2. Administración evalúa el caso
 3. Aprobación o rechazo del CK
@@ -503,12 +515,12 @@ Actuar con miedo real cuando tu personaje enfrenta amenazas o su vida está en r
 
 #### ✅ Ejemplos Correctos
 
-| Situación | Reacción Esperada |
-|-----------|-------------------|
-| **🔫 Amenaza con arma** | Mostrar miedo, cooperar |
-| **👥 Superioridad numérica** | No actuar como héroe |
-| **🚨 Situación letal** | Valorar tu vida primero |
-| **😰 Interrogatorio** | Nerviosismo, ansiedad |
+| Situación                    | Reacción Esperada       |
+| ---------------------------- | ----------------------- |
+| **🔫 Amenaza con arma**      | Mostrar miedo, cooperar |
+| **👥 Superioridad numérica** | No actuar como héroe    |
+| **🚨 Situación letal**       | Valorar tu vida primero |
+| **😰 Interrogatorio**        | Nerviosismo, ansiedad   |
 
 ***
 
@@ -564,14 +576,14 @@ Actuar con miedo real cuando tu personaje enfrenta amenazas o su vida está en r
 
 #### 🚫 Restricciones
 
-| Facción | Prohibido Si No Eres Miembro |
-|---------|------------------------------|
-| **👮 LSPD** | Uniforme policial |
-| **🔫 Sheriff** | Uniforme sheriff |
-| **🚒 Bomberos** | Uniforme de bomberos |
-| **🏥 EMS** | Uniforme médico |
-| **🕴️ FIB** | Uniforme federal |
-| **💀 ODs** | Colores/vestimenta de bandas |
+| Facción         | Prohibido Si No Eres Miembro |
+| --------------- | ---------------------------- |
+| **👮 LSPD**     | Uniforme policial            |
+| **🔫 Sheriff**  | Uniforme sheriff             |
+| **🚒 Bomberos** | Uniforme de bomberos         |
+| **🏥 EMS**      | Uniforme médico              |
+| **🕴️ FIB**     | Uniforme federal             |
+| **💀 ODs**      | Colores/vestimenta de bandas |
 
 {% hint style="warning" %}
 **Sanción:** El uso indebido puede resultar en sanciones graves según el contexto.
@@ -649,6 +661,7 @@ Golpear, herir o matar a otro usuario **sin ninguna razón válida** dentro del 
 #### ✅ Para Que NO Sea DM
 
 Debe existir:
+
 * 📖 Contexto claro y desarrollado
 * 🗣️ Rol previo con la víctima
 * ⚖️ Motivos sólidos y coherentes
@@ -668,12 +681,12 @@ Debe existir:
 
 #### ❌ NO Puedes Reconocer Por:
 
-| Elemento | ¿Válido para reconocer? |
-|----------|-------------------------|
-| **🎭 Máscara** | ❌ NO - Oculta identidad |
-| **👕 Vestimenta** | ❌ NO - Puede cambiar fácilmente |
-| **🗣️ Acento** | ❌ NO - Muy genérico |
-| **🚶 Forma de caminar** | ❌ NO - No es distintivo único |
+| Elemento                 | ¿Válido para reconocer?         |
+| ------------------------ | ------------------------------- |
+| **🎭 Máscara**           | ❌ NO - Oculta identidad         |
+| **👕 Vestimenta**        | ❌ NO - Puede cambiar fácilmente |
+| **🗣️ Acento**           | ❌ NO - Muy genérico             |
+| **🚶 Forma de caminar**  | ❌ NO - No es distintivo único   |
 | **😷 Mascarilla médica** | ⚠️ SÍ - No oculta completamente |
 
 #### ✅ Formas Válidas de Reconocimiento
@@ -704,12 +717,12 @@ Debe existir:
 
 #### ❌ Nombres Prohibidos
 
-| Tipo | Ejemplos |
-|------|----------|
-| **🤡 Troll** | Juan Pistola, Pedro Picapiedra |
-| **😈 Ofensivos** | El Diablo, Satán García |
-| **🎮 Personajes** | Naruto Uzumaki, Batman Wayne |
-| **🃏 Ridículos** | Fulanito DeTal, XxProxX |
+| Tipo              | Ejemplos                       |
+| ----------------- | ------------------------------ |
+| **🤡 Troll**      | Juan Pistola, Pedro Picapiedra |
+| **😈 Ofensivos**  | El Diablo, Satán García        |
+| **🎮 Personajes** | Naruto Uzumaki, Batman Wayne   |
+| **🃏 Ridículos**  | Fulanito DeTal, XxProxX        |
 
 {% hint style="danger" %}
 **Sanción:** La administración puede solicitar cambio de nombre o aplicar sanciones.
@@ -729,12 +742,12 @@ Tu personaje debe actuar siempre para **preservar su vida**. Es el elemento más
 
 #### ✅ Ejemplos Correctos
 
-| Situación | Acción Correcta |
-|-----------|-----------------|
-| **🔫 Te apuntan con arma** | Cooperar, levantar manos |
+| Situación                    | Acción Correcta             |
+| ---------------------------- | --------------------------- |
+| **🔫 Te apuntan con arma**   | Cooperar, levantar manos    |
 | **👥 Superioridad numérica** | No resistir imprudentemente |
-| **🚗 Bloqueo vehicular** | Detenerte y obedecer |
-| **💣 Amenaza explosiva** | Evacuar, no desafiar |
+| **🚗 Bloqueo vehicular**     | Detenerte y obedecer        |
+| **💣 Amenaza explosiva**     | Evacuar, no desafiar        |
 
 #### ❌ NO Valorar Vida
 
@@ -990,15 +1003,18 @@ Robar un auto de otro jugador o NPC sin establecer rol previo, especialmente en 
 {% endhint %}
 
 <details>
+
 <summary>📍 FASE 1 - Consciente pero herido</summary>
 
-#### ✅ Puedes:
+**✅ Puedes:**
+
 * Seguir hablando
 * Responder preguntas
 * Dar información limitada
 * Expresar dolor
 
-#### ❌ Prohibido:
+**❌ Prohibido:**
+
 * 📻 Usar radio
 * 📱 Usar celular
 * 🗣️ Dar información detallada compleja
@@ -1007,15 +1023,18 @@ Robar un auto de otro jugador o NPC sin establecer rol previo, especialmente en 
 </details>
 
 <details>
+
 <summary>💀 FASE 2 - Inconciencia completa</summary>
 
-#### Características:
+**Características:**
+
 * Estado de inconsciencia total
 * **No puedes hablar**
 * **No puedes dar información**
 * Comienza tu **PK**
 
-#### ⚠️ Estrictamente Prohibido:
+**⚠️ Estrictamente Prohibido:**
+
 * Comunicación IC
 * Toxicidad en canales OOC
 * Revelar información de cualquier tipo
@@ -1029,21 +1048,17 @@ Robar un auto de otro jugador o NPC sin establecer rol previo, especialmente en 
 
 ***
 
-<div align="center">
-
-## 📚 Resumen Final
+### 📚 Resumen Final
 
 Has completado la guía de conceptos de rol. Recuerda:
 
-✅ **Conoce** todos los términos  
-✅ **Respeta** las normas  
-✅ **Valora** tu vida y la de otros  
-✅ **Rolea** con calidad y realismo  
-✅ **Disfruta** la experiencia  
+✅ **Conoce** todos los términos\
+✅ **Respeta** las normas\
+✅ **Valora** tu vida y la de otros\
+✅ **Rolea** con calidad y realismo\
+✅ **Disfruta** la experiencia
 
-### 🌟 ¡Buen Roleplay! 🌟
-
-</div>
+#### 🌟 ¡Buen Roleplay! 🌟
 
 **1- IN CHARACTER (IC):**
 
@@ -1229,8 +1244,6 @@ La administración de Deskisiados Roleplay podrá aprobar o ejecutar un CK (Char
 {% endtab %}
 
 {% tab title="Policial" %}
-
-
 **CK Policial a OD ☠️**
 
 **Condiciones para aplicar CK OD:**
@@ -1472,6 +1485,10 @@ IMPORTANTE: Recalcar que este tipo de actos no deben ser cometidos, ya que puede
 **41- ESTADO DE INCONSCIENCIA (L/M/G)**
 
 Se define estado de inconsciencia a la segunda fase existente luego de haber sido abatido. En esta fase queda totalmente prohibido entregar cualquier tipo de informacion o generar toxicidad mediante los canales OOC.
+
+**42- NRR (L/M/G)**
+
+Se define como no reconocer a una persona solo por que cambio de ropa o mascara poco realista, cuando claramente por voz o contexto deberías identificarla.
 
 <details>
 
