@@ -4,10 +4,12 @@ Servidor Deskisiados RP
 
 El **CK (Character Kill)** es la eliminación permanente de un personaje dentro del servidor. Esto implica la pérdida total del mismo, incluyendo bienes, historial y progreso, sin posibilidad de recuperación.
 
-<mark style="color:$danger;background-color:$info;">Existen dos tipos de CK:</mark>
+<mark style="color:$danger;background-color:$info;">Existen 4 tipos de CK:</mark>
 
 * 🔵 CK Policial (Facción Legal)
 * 🔴 CK Delictual (Organización Criminal)
+* 🔴 CK Administrativo (Administrativo)
+* 🔴 CK Voluntario (Voluntario)
 
 ## 🔵 CK Policial (Facción Legal)
 
