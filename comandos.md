@@ -1,4 +1,4 @@
-# 🔎 Comandos
+# ⌨️ Comandos del Servidor
 
 ## 📋 Guía Completa de Comandos
 
@@ -55,12 +55,12 @@ El comando `/do` permite expresar las percepciones, pensamientos, emociones de t
 
 ### 💡 Cuándo Usar /DO
 
-| Situación | Ejemplo |
-|-----------|---------|
-| **Emociones** | `/do Se sentiría ansioso` |
-| **Estado físico** | `/do Estaría sudando nerviosamente` |
-| **Preguntas de entorno** | `/do ¿Hay personas alrededor?` |
-| **Detalles visibles** | `/do Tendría manchas de sangre en la ropa` |
+| Situación                | Ejemplo                                    |
+| ------------------------ | ------------------------------------------ |
+| **Emociones**            | `/do Se sentiría ansioso`                  |
+| **Estado físico**        | `/do Estaría sudando nerviosamente`        |
+| **Preguntas de entorno** | `/do ¿Hay personas alrededor?`             |
+| **Detalles visibles**    | `/do Tendría manchas de sangre en la ropa` |
 
 ***
 
@@ -100,11 +100,11 @@ en dirección norte. ¡Por favor ayuda!
 
 ### ⚠️ Consecuencias de No Usar /ENTORNO
 
-| Infracción | Sanción |
-|------------|---------|
-| **Primera vez** | Advertencia + Educación |
-| **Reincidencia** | Kick del servidor |
-| **Frecuente** | Ban temporal o permanente |
+| Infracción       | Sanción                   |
+| ---------------- | ------------------------- |
+| **Primera vez**  | Advertencia + Educación   |
+| **Reincidencia** | Kick del servidor         |
+| **Frecuente**    | Ban temporal o permanente |
 
 ***
 
@@ -182,17 +182,20 @@ de una buena bebida en nuestra barra. ¡Te esperamos!
 ### ⏱️ Regla de Tiempo
 
 {% hint style="warning" %}
-**Importante:** Debe haber un **mínimo de 10 minutos** entre anuncios de diferentes locales para evitar spam.
+**Importante:** Debe haber un **mínimo de 10 minutos** entre anuncios por cada local.\
+**Ejemplo: Si tu tienes un local y tiras un anuncio debes de esperar 10 minutos, esto es solo tu local, cada local o facción tiene su limite de 10 minutos independiente.**\
+\
+**Ejemplo 2: En el caso de que tu como EMS tiras un anuncio y UwU Cafe tira otro a los 2 minutos es valido ya que es un local distinto a EMS.**
 {% endhint %}
 
 ### 📝 Tipos de Anuncios Permitidos
 
-| Tipo | Descripción |
-|------|-------------|
-| **Apertura** | Anunciar que el local está abierto |
-| **Cierre** | Informar que el local cerrará pronto |
-| **Promoción** | Ofertas especiales o descuentos |
-| **Evento** | Actividades especiales en el local |
+| Tipo          | Descripción                          |
+| ------------- | ------------------------------------ |
+| **Apertura**  | Anunciar que el local está abierto   |
+| **Cierre**    | Informar que el local cerrará pronto |
+| **Promoción** | Ofertas especiales o descuentos      |
+| **Evento**    | Actividades especiales en el local   |
 
 ***
 
@@ -222,26 +225,26 @@ Comando para realizar **consultas importantes** dentro del servidor. No debe usa
 
 ### ⚖️ Consecuencias del Mal Uso
 
-| Infracción | Consecuencia |
-|------------|--------------|
-| **Primera vez** | Advertencia verbal |
-| **Reincidencia** | Advertencia formal |
-| **Abuso** | Suspensión temporal del comando |
-| **Abuso grave** | Sanción administrativa |
+| Infracción       | Consecuencia                    |
+| ---------------- | ------------------------------- |
+| **Primera vez**  | Advertencia verbal              |
+| **Reincidencia** | Advertencia formal              |
+| **Abuso**        | Suspensión temporal del comando |
+| **Abuso grave**  | Sanción administrativa          |
 
 ***
 
 ## 📊 Resumen de Comandos
 
-| Comando | Uso Principal | Frecuencia |
-|---------|---------------|------------|
-| **/me** | Acciones físicas | Alto |
-| **/do** | Percepciones y entorno | Alto |
-| **/entorno** | Alertas policiales | Según situación |
-| **/auxilio** | Emergencias médicas | Según necesidad |
-| **/report** | Problemas técnicos | Bajo |
-| **/anuncios** | Publicidad de locales | Moderado |
-| **/ayuda** | Consultas rápidas | Bajo |
+| Comando       | Uso Principal          | Frecuencia      |
+| ------------- | ---------------------- | --------------- |
+| **/me**       | Acciones físicas       | Alto            |
+| **/do**       | Percepciones y entorno | Alto            |
+| **/entorno**  | Alertas policiales     | Según situación |
+| **/auxilio**  | Emergencias médicas    | Según necesidad |
+| **/report**   | Problemas técnicos     | Bajo            |
+| **/anuncios** | Publicidad de locales  | Moderado        |
+| **/ayuda**    | Consultas rápidas      | Bajo            |
 
 ***
 
@@ -260,9 +263,4 @@ Comando para realizar **consultas importantes** dentro del servidor. No debe usa
 
 ***
 
-<div align="center">
-
-### 🎮 ¡Domina los comandos y mejora tu roleplay! 🎮
-
-</div>
-
+#### 🎮 ¡Domina los comandos y mejora tu roleplay! 🎮
